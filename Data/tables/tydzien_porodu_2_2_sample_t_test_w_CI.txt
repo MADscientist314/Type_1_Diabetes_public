@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  tydzien_porodu_2 by disease
+t = 5.7009, df = 74.725, p-value = 2.244e-07
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.7224145 1.4985379
+sample estimates:
+mean in group Control     mean in group T1D 
+             39.19048              38.08000 
+

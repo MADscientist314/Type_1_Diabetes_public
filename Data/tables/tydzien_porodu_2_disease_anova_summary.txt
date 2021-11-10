@@ -1,0 +1,7 @@
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  39.1905     0.1401 279.803  < 2e-16 ***
+diseaseT1D   -1.1105     0.1900  -5.845 8.01e-08 ***
+
+Residual standard error: 0.9077 on 90 degrees of freedom
+Multiple R-squared:  0.2751,	Adjusted R-squared:  0.2671 
+F-statistic: 34.16 on 1 and 90 DF,  p-value: 8.009e-08

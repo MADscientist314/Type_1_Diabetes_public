@@ -1,0 +1,22 @@
+
+Call:
+adonis(formula = euc_dist_2 ~ disease * SampleType * tydzien_porodu_2,      data = sample_info_tab_2, permutations = 9999, method = "bray",      strata = sample_info_tab_2$SampleType) 
+
+Blocks:  strata 
+Permutation: free
+Number of permutations: 9999
+
+Terms added sequentially (first to last)
+
+                                     Df SumsOfSqs MeanSqs F.Model      R2 Pr(>F)    
+disease                               1     22417   22417  2.4180 0.00731 0.0001 ***
+SampleType                            5    625668  125134 13.4970 0.20389 0.0068 ** 
+tydzien_porodu_2                      1     18741   18741  2.0215 0.00611 0.0005 ***
+disease:SampleType                    5     51416   10283  1.1091 0.01675 0.1774    
+disease:tydzien_porodu_2              1     18744   18744  2.0217 0.00611 0.0007 ***
+SampleType:tydzien_porodu_2           5     47951    9590  1.0344 0.01563 0.3848    
+disease:SampleType:tydzien_porodu_2   5     40115    8023  0.8654 0.01307 0.9030    
+Residuals                           242   2243635    9271         0.73114           
+Total                               265   3068686                 1.00000           
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

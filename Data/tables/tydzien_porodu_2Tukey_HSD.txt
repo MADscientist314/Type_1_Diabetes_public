@@ -1,0 +1,9 @@
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = x)
+
+$disease
+                 diff      lwr        upr p adj
+T1D-Control -1.110476 -1.48793 -0.7330227 1e-07
+

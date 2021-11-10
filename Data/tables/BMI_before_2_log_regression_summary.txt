@@ -1,0 +1,12 @@
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   22.6211     0.1760 128.562   <2e-16 ***
+q$diseaseT1D   0.5363     0.2403   2.232    0.026 *  
+
+(Dispersion parameter for gaussian family taken to be 7.554237)
+
+    Null deviance: 3996.0  on 525  degrees of freedom
+Residual deviance: 3958.4  on 524  degrees of freedom
+AIC: 2560.3
+
+Number of Fisher Scoring iterations: 2

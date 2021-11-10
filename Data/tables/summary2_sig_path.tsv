@@ -1,0 +1,349 @@
+OTU	Delivery	disease	perc_samples
+1	5-aminoimidazole ribonucleotide biosynthesis I	Csection	T1D	38.75
+2	5-aminoimidazole ribonucleotide biosynthesis II	Csection	T1D	38.75
+3	pentose phosphate pathway (non-oxidative branch)	Csection	T1D	38.75
+4	superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Csection	T1D	38.75
+5	adenine and adenosine salvage III	Csection	T1D	37.5
+6	dTDP-L-rhamnose biosynthesis I	Csection	T1D	37.5
+7	glycogen biosynthesis I (from ADP-D-Glucose)	Csection	T1D	37.5
+8	glycogen degradation I (bacterial)	Csection	T1D	37.5
+9	L-arginine biosynthesis IV (archaebacteria)	Csection	T1D	37.5
+10	L-lysine biosynthesis I	Csection	T1D	37.5
+11	starch degradation V	Csection	T1D	37.5
+12	5-aminoimidazole ribonucleotide biosynthesis I	Csection	Control	37.3761913660998
+13	5-aminoimidazole ribonucleotide biosynthesis II	Csection	Control	37.3761913660998
+14	adenine and adenosine salvage III	Csection	Control	37.3761913660998
+15	Calvin-Benson-Bassham cycle	Csection	Control	37.3761913660998
+16	glycogen biosynthesis I (from ADP-D-Glucose)	Csection	Control	37.3761913660998
+17	glycogen degradation I (bacterial)	Csection	Control	37.3761913660998
+18	pentose phosphate pathway (non-oxidative branch)	Csection	Control	37.3761913660998
+19	starch degradation V	Csection	Control	37.3761913660998
+20	superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Csection	Control	37.3761913660998
+21	thiazole biosynthesis I (E. coli)	Csection	Control	37.3761913660998
+22	(5Z)-dodec-5-enoate biosynthesis	Vaginal	T1D	36.8124729320052
+23	5-aminoimidazole ribonucleotide biosynthesis I	Vaginal	T1D	36.8124729320052
+24	5-aminoimidazole ribonucleotide biosynthesis II	Vaginal	T1D	36.8124729320052
+25	adenine and adenosine salvage III	Vaginal	T1D	36.8124729320052
+26	Calvin-Benson-Bassham cycle	Vaginal	T1D	36.8124729320052
+27	dTDP-L-rhamnose biosynthesis I	Vaginal	T1D	36.8124729320052
+28	flavin biosynthesis I (bacteria and plants)	Vaginal	T1D	36.8124729320052
+29	glycogen biosynthesis I (from ADP-D-Glucose)	Vaginal	T1D	36.8124729320052
+30	glycogen degradation I (bacterial)	Vaginal	T1D	36.8124729320052
+31	guanosine nucleotides degradation III	Vaginal	T1D	36.8124729320052
+32	L-arginine biosynthesis III (via N-acetyl-L-citrulline)	Vaginal	T1D	36.8124729320052
+33	L-arginine biosynthesis IV (archaebacteria)	Vaginal	T1D	36.8124729320052
+34	L-lysine biosynthesis I	Vaginal	T1D	36.8124729320052
+35	L-methionine biosynthesis I	Vaginal	T1D	36.8124729320052
+36	pentose phosphate pathway (non-oxidative branch)	Vaginal	T1D	36.8124729320052
+37	starch degradation V	Vaginal	T1D	36.8124729320052
+38	superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Vaginal	T1D	36.8124729320052
+39	adenosylcobalamin salvage from cobinamide I	Csection	T1D	36.25
+40	Calvin-Benson-Bassham cycle	Csection	T1D	36.25
+41	flavin biosynthesis I (bacteria and plants)	Csection	T1D	36.25
+42	GDP-mannose biosynthesis	Csection	T1D	36.25
+43	guanosine nucleotides degradation III	Csection	T1D	36.25
+44	L-methionine biosynthesis I	Csection	T1D	36.25
+45	N10-formyl-tetrahydrofolate biosynthesis	Csection	T1D	36.25
+46	NAD biosynthesis I (from aspartate)	Csection	T1D	36.25
+47	NAD salvage pathway I	Csection	T1D	36.25
+48	superpathway of thiamin diphosphate biosynthesis I	Csection	T1D	36.25
+49	thiazole biosynthesis I (E. coli)	Csection	T1D	36.25
+50	dTDP-L-rhamnose biosynthesis I	Csection	Control	35.5073817977948
+51	flavin biosynthesis I (bacteria and plants)	Csection	Control	35.5073817977948
+52	GDP-mannose biosynthesis	Csection	Control	35.5073817977948
+53	L-histidine degradation I	Csection	Control	35.5073817977948
+54	superpathway of thiamin diphosphate biosynthesis I	Csection	Control	35.5073817977948
+55	"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"	Vaginal	Control	35.3544281421248
+56	"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"	Vaginal	Control	35.3544281421248
+57	(5Z)-dodec-5-enoate biosynthesis	Vaginal	Control	35.3544281421248
+58	4-deoxy-L-threo-hex-4-enopyranuronate degradation	Vaginal	Control	35.3544281421248
+59	5-aminoimidazole ribonucleotide biosynthesis I	Vaginal	Control	35.3544281421248
+60	5-aminoimidazole ribonucleotide biosynthesis II	Vaginal	Control	35.3544281421248
+61	8-amino-7-oxononanoate biosynthesis I	Vaginal	Control	35.3544281421248
+62	adenine and adenosine salvage III	Vaginal	Control	35.3544281421248
+63	anhydromuropeptides recycling	Vaginal	Control	35.3544281421248
+64	aspartate superpathway	Vaginal	Control	35.3544281421248
+65	biotin biosynthesis I	Vaginal	Control	35.3544281421248
+66	Calvin-Benson-Bassham cycle	Vaginal	Control	35.3544281421248
+67	CMP-3-deoxy-D-manno-octulosonate biosynthesis I	Vaginal	Control	35.3544281421248
+68	D-fructuronate degradation	Vaginal	Control	35.3544281421248
+69	dTDP-L-rhamnose biosynthesis I	Vaginal	Control	35.3544281421248
+70	flavin biosynthesis I (bacteria and plants)	Vaginal	Control	35.3544281421248
+71	GDP-mannose biosynthesis	Vaginal	Control	35.3544281421248
+72	glucose and glucose-1-phosphate degradation	Vaginal	Control	35.3544281421248
+73	glyoxylate cycle	Vaginal	Control	35.3544281421248
+74	guanosine nucleotides degradation III	Vaginal	Control	35.3544281421248
+75	Kdo transfer to lipid IVA III (Chlamydia)	Vaginal	Control	35.3544281421248
+76	L-arginine biosynthesis III (via N-acetyl-L-citrulline)	Vaginal	Control	35.3544281421248
+77	L-arginine biosynthesis IV (archaebacteria)	Vaginal	Control	35.3544281421248
+78	L-histidine degradation I	Vaginal	Control	35.3544281421248
+79	L-lysine biosynthesis I	Vaginal	Control	35.3544281421248
+80	L-methionine biosynthesis I	Vaginal	Control	35.3544281421248
+81	lipid IVA biosynthesis	Vaginal	Control	35.3544281421248
+82	N10-formyl-tetrahydrofolate biosynthesis	Vaginal	Control	35.3544281421248
+83	NAD biosynthesis I (from aspartate)	Vaginal	Control	35.3544281421248
+84	NAD salvage pathway I	Vaginal	Control	35.3544281421248
+85	pentose phosphate pathway (non-oxidative branch)	Vaginal	Control	35.3544281421248
+86	superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Vaginal	Control	35.3544281421248
+87	superpathway of thiamin diphosphate biosynthesis I	Vaginal	Control	35.3544281421248
+88	thiazole biosynthesis I (E. coli)	Vaginal	Control	35.3544281421248
+89	"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"	Csection	T1D	35
+90	"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"	Csection	T1D	35
+91	(5Z)-dodec-5-enoate biosynthesis	Csection	T1D	35
+92	adenosine nucleotides degradation II	Csection	T1D	35
+93	aspartate superpathway	Csection	T1D	35
+94	glyoxylate cycle	Csection	T1D	35
+95	L-arginine biosynthesis III (via N-acetyl-L-citrulline)	Csection	T1D	35
+96	"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"	Vaginal	T1D	34.6470333477696
+97	"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"	Vaginal	T1D	34.6470333477696
+98	"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"	Vaginal	T1D	34.6470333477696
+99	3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	Vaginal	T1D	34.6470333477696
+100	3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate	Vaginal	T1D	34.6470333477696
+101	4-deoxy-L-threo-hex-4-enopyranuronate degradation	Vaginal	T1D	34.6470333477696
+102	8-amino-7-oxononanoate biosynthesis I	Vaginal	T1D	34.6470333477696
+103	adenosine nucleotides degradation II	Vaginal	T1D	34.6470333477696
+104	adenosylcobalamin salvage from cobinamide I	Vaginal	T1D	34.6470333477696
+105	ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	Vaginal	T1D	34.6470333477696
+106	allantoin degradation IV (anaerobic)	Vaginal	T1D	34.6470333477696
+107	allantoin degradation to glyoxylate III	Vaginal	T1D	34.6470333477696
+108	anhydromuropeptides recycling	Vaginal	T1D	34.6470333477696
+109	aspartate superpathway	Vaginal	T1D	34.6470333477696
+110	biotin biosynthesis I	Vaginal	T1D	34.6470333477696
+111	catechol degradation I (meta-cleavage pathway)	Vaginal	T1D	34.6470333477696
+112	cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate	Vaginal	T1D	34.6470333477696
+113	CMP-3-deoxy-D-manno-octulosonate biosynthesis I	Vaginal	T1D	34.6470333477696
+114	colanic acid building blocks biosynthesis	Vaginal	T1D	34.6470333477696
+115	D-fructuronate degradation	Vaginal	T1D	34.6470333477696
+116	D-galactarate degradation I	Vaginal	T1D	34.6470333477696
+117	D-galacturonate degradation I	Vaginal	T1D	34.6470333477696
+118	D-glucarate degradation I	Vaginal	T1D	34.6470333477696
+119	dTDP-N-acetylthomosamine biosynthesis	Vaginal	T1D	34.6470333477696
+120	enterobacterial common antigen biosynthesis	Vaginal	T1D	34.6470333477696
+121	enterobactin biosynthesis	Vaginal	T1D	34.6470333477696
+122	fucose degradation	Vaginal	T1D	34.6470333477696
+123	GDP-mannose biosynthesis	Vaginal	T1D	34.6470333477696
+124	glucose and glucose-1-phosphate degradation	Vaginal	T1D	34.6470333477696
+125	glyoxylate cycle	Vaginal	T1D	34.6470333477696
+126	L-arginine degradation II (AST pathway)	Vaginal	T1D	34.6470333477696
+127	L-histidine degradation I	Vaginal	T1D	34.6470333477696
+128	L-rhamnose degradation I	Vaginal	T1D	34.6470333477696
+129	lipid IVA biosynthesis	Vaginal	T1D	34.6470333477696
+130	methylphosphonate degradation I	Vaginal	T1D	34.6470333477696
+131	N10-formyl-tetrahydrofolate biosynthesis	Vaginal	T1D	34.6470333477696
+132	NAD salvage pathway II	Vaginal	T1D	34.6470333477696
+133	superpathway of thiamin diphosphate biosynthesis I	Vaginal	T1D	34.6470333477696
+134	thiazole biosynthesis I (E. coli)	Vaginal	T1D	34.6470333477696
+135	"superpathway of histidine, purine, and pyrimidine biosynthesis"	Csection	T1D	33.75
+136	4-deoxy-L-threo-hex-4-enopyranuronate degradation	Csection	T1D	33.75
+137	anhydromuropeptides recycling	Csection	T1D	33.75
+138	CMP-3-deoxy-D-manno-octulosonate biosynthesis I	Csection	T1D	33.75
+139	colanic acid building blocks biosynthesis	Csection	T1D	33.75
+140	D-fructuronate degradation	Csection	T1D	33.75
+141	D-galacturonate degradation I	Csection	T1D	33.75
+142	dTDP-N-acetylthomosamine biosynthesis	Csection	T1D	33.75
+143	enterobactin biosynthesis	Csection	T1D	33.75
+144	fatty acid &beta;-oxidation I	Csection	T1D	33.75
+145	Kdo transfer to lipid IVA III (Chlamydia)	Csection	T1D	33.75
+146	L-rhamnose degradation I	Csection	T1D	33.75
+147	lipid IVA biosynthesis	Csection	T1D	33.75
+148	"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"	Csection	Control	33.6385722294898
+149	"superpathway of histidine, purine, and pyrimidine biosynthesis"	Csection	Control	33.6385722294898
+150	"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"	Csection	Control	33.6385722294898
+151	(5Z)-dodec-5-enoate biosynthesis	Csection	Control	33.6385722294898
+152	4-deoxy-L-threo-hex-4-enopyranuronate degradation	Csection	Control	33.6385722294898
+153	adenosylcobalamin salvage from cobinamide I	Csection	Control	33.6385722294898
+154	aspartate superpathway	Csection	Control	33.6385722294898
+155	CMP-3-deoxy-D-manno-octulosonate biosynthesis I	Csection	Control	33.6385722294898
+156	colanic acid building blocks biosynthesis	Csection	Control	33.6385722294898
+157	D-fructuronate degradation	Csection	Control	33.6385722294898
+158	glucose and glucose-1-phosphate degradation	Csection	Control	33.6385722294898
+159	glyoxylate cycle	Csection	Control	33.6385722294898
+160	guanosine nucleotides degradation III	Csection	Control	33.6385722294898
+161	Kdo transfer to lipid IVA III (Chlamydia)	Csection	Control	33.6385722294898
+162	L-arginine biosynthesis III (via N-acetyl-L-citrulline)	Csection	Control	33.6385722294898
+163	L-arginine biosynthesis IV (archaebacteria)	Csection	Control	33.6385722294898
+164	L-lysine biosynthesis I	Csection	Control	33.6385722294898
+165	L-methionine biosynthesis I	Csection	Control	33.6385722294898
+166	lipid IVA biosynthesis	Csection	Control	33.6385722294898
+167	N10-formyl-tetrahydrofolate biosynthesis	Csection	Control	33.6385722294898
+168	NAD biosynthesis I (from aspartate)	Csection	Control	33.6385722294898
+169	NAD salvage pathway I	Csection	Control	33.6385722294898
+170	"superpathway of histidine, purine, and pyrimidine biosynthesis"	Vaginal	Control	33.5867067350186
+171	"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"	Vaginal	Control	33.5867067350186
+172	2-methylcitrate cycle I	Vaginal	Control	33.5867067350186
+173	2-methylcitrate cycle II	Vaginal	Control	33.5867067350186
+174	3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	Vaginal	Control	33.5867067350186
+175	3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate	Vaginal	Control	33.5867067350186
+176	adenosine nucleotides degradation II	Vaginal	Control	33.5867067350186
+177	adenosylcobalamin salvage from cobinamide I	Vaginal	Control	33.5867067350186
+178	ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	Vaginal	Control	33.5867067350186
+179	aerobic respiration I (cytochrome c)	Vaginal	Control	33.5867067350186
+180	allantoin degradation IV (anaerobic)	Vaginal	Control	33.5867067350186
+181	allantoin degradation to glyoxylate III	Vaginal	Control	33.5867067350186
+182	catechol degradation I (meta-cleavage pathway)	Vaginal	Control	33.5867067350186
+183	cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate	Vaginal	Control	33.5867067350186
+184	colanic acid building blocks biosynthesis	Vaginal	Control	33.5867067350186
+185	D-galactarate degradation I	Vaginal	Control	33.5867067350186
+186	D-galacturonate degradation I	Vaginal	Control	33.5867067350186
+187	D-glucarate degradation I	Vaginal	Control	33.5867067350186
+188	dTDP-N-acetylthomosamine biosynthesis	Vaginal	Control	33.5867067350186
+189	enterobacterial common antigen biosynthesis	Vaginal	Control	33.5867067350186
+190	enterobactin biosynthesis	Vaginal	Control	33.5867067350186
+191	fatty acid &beta;-oxidation I	Vaginal	Control	33.5867067350186
+192	fucose degradation	Vaginal	Control	33.5867067350186
+193	glycogen biosynthesis I (from ADP-D-Glucose)	Vaginal	Control	33.5867067350186
+194	glycogen degradation I (bacterial)	Vaginal	Control	33.5867067350186
+195	L-arginine degradation II (AST pathway)	Vaginal	Control	33.5867067350186
+196	L-rhamnose degradation I	Vaginal	Control	33.5867067350186
+197	methylphosphonate degradation I	Vaginal	Control	33.5867067350186
+198	NAD salvage pathway II	Vaginal	Control	33.5867067350186
+199	starch degradation V	Vaginal	Control	33.5867067350186
+200	"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"	Csection	T1D	32.5
+201	2-methylcitrate cycle I	Csection	T1D	32.5
+202	2-methylcitrate cycle II	Csection	T1D	32.5
+203	3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	Csection	T1D	32.5
+204	3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate	Csection	T1D	32.5
+205	4-aminobutanoate degradation V	Csection	T1D	32.5
+206	8-amino-7-oxononanoate biosynthesis I	Csection	T1D	32.5
+207	ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	Csection	T1D	32.5
+208	allantoin degradation IV (anaerobic)	Csection	T1D	32.5
+209	allantoin degradation to glyoxylate III	Csection	T1D	32.5
+210	biotin biosynthesis I	Csection	T1D	32.5
+211	cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate	Csection	T1D	32.5
+212	D-galactarate degradation I	Csection	T1D	32.5
+213	D-glucarate degradation I	Csection	T1D	32.5
+214	enterobacterial common antigen biosynthesis	Csection	T1D	32.5
+215	fucose degradation	Csection	T1D	32.5
+216	glucose and glucose-1-phosphate degradation	Csection	T1D	32.5
+217	ketogluconate metabolism	Csection	T1D	32.5
+218	L-arginine degradation II (AST pathway)	Csection	T1D	32.5
+219	L-histidine degradation I	Csection	T1D	32.5
+220	methylphosphonate degradation I	Csection	T1D	32.5
+221	NAD salvage pathway II	Csection	T1D	32.5
+222	"superpathway of histidine, purine, and pyrimidine biosynthesis"	Vaginal	T1D	32.481593763534
+223	2-methylcitrate cycle I	Vaginal	T1D	32.481593763534
+224	2-methylcitrate cycle II	Vaginal	T1D	32.481593763534
+225	4-aminobutanoate degradation V	Vaginal	T1D	32.481593763534
+226	fatty acid &beta;-oxidation I	Vaginal	T1D	32.481593763534
+227	Kdo transfer to lipid IVA III (Chlamydia)	Vaginal	T1D	32.481593763534
+228	ketogluconate metabolism	Vaginal	T1D	32.481593763534
+229	NAD biosynthesis I (from aspartate)	Vaginal	T1D	32.481593763534
+230	NAD salvage pathway I	Vaginal	T1D	32.481593763534
+231	"adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I"	Vaginal	Control	31.8189853279123
+232	adenosylcobalamin salvage from cobinamide II	Vaginal	Control	31.8189853279123
+233	ketogluconate metabolism	Vaginal	Control	31.8189853279123
+234	"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"	Csection	Control	31.7697626611848
+235	2-methylcitrate cycle I	Csection	Control	31.7697626611848
+236	2-methylcitrate cycle II	Csection	Control	31.7697626611848
+237	3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	Csection	Control	31.7697626611848
+238	3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate	Csection	Control	31.7697626611848
+239	4-aminobutanoate degradation V	Csection	Control	31.7697626611848
+240	8-amino-7-oxononanoate biosynthesis I	Csection	Control	31.7697626611848
+241	acetyl-CoA fermentation to butanoate II	Csection	Control	31.7697626611848
+242	adenosine nucleotides degradation II	Csection	Control	31.7697626611848
+243	ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	Csection	Control	31.7697626611848
+244	aerobic respiration I (cytochrome c)	Csection	Control	31.7697626611848
+245	allantoin degradation IV (anaerobic)	Csection	Control	31.7697626611848
+246	allantoin degradation to glyoxylate III	Csection	Control	31.7697626611848
+247	anhydromuropeptides recycling	Csection	Control	31.7697626611848
+248	biotin biosynthesis I	Csection	Control	31.7697626611848
+249	catechol degradation I (meta-cleavage pathway)	Csection	Control	31.7697626611848
+250	cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate	Csection	Control	31.7697626611848
+251	D-galactarate degradation I	Csection	Control	31.7697626611848
+252	D-galacturonate degradation I	Csection	Control	31.7697626611848
+253	D-glucarate degradation I	Csection	Control	31.7697626611848
+254	dTDP-N-acetylthomosamine biosynthesis	Csection	Control	31.7697626611848
+255	enterobacterial common antigen biosynthesis	Csection	Control	31.7697626611848
+256	enterobactin biosynthesis	Csection	Control	31.7697626611848
+257	fatty acid &beta;-oxidation I	Csection	Control	31.7697626611848
+258	fucose degradation	Csection	Control	31.7697626611848
+259	glutaryl-CoA degradation	Csection	Control	31.7697626611848
+260	ketogluconate metabolism	Csection	Control	31.7697626611848
+261	L-arginine degradation II (AST pathway)	Csection	Control	31.7697626611848
+262	L-rhamnose degradation I	Csection	Control	31.7697626611848
+263	methylphosphonate degradation I	Csection	Control	31.7697626611848
+264	NAD salvage pathway II	Csection	Control	31.7697626611848
+265	catechol degradation I (meta-cleavage pathway)	Csection	T1D	31.25
+266	4-aminobutanoate degradation V	Vaginal	Control	30.0512639208061
+267	glycerol degradation to butanol	Vaginal	Control	30.0512639208061
+268	mycolate biosynthesis	Vaginal	Control	30.0512639208061
+269	"adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I"	Csection	T1D	30
+270	adenosylcobalamin salvage from cobinamide II	Csection	T1D	30
+271	L-glutamate and L-glutamine biosynthesis	Csection	T1D	30
+272	"adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I"	Csection	Control	29.9009530928798
+273	adenosylcobalamin salvage from cobinamide II	Csection	Control	29.9009530928798
+274	L-glutamate and L-glutamine biosynthesis	Csection	Control	29.9009530928798
+275	acetyl-CoA fermentation to butanoate II	Vaginal	Control	28.2835425136998
+276	L-glutamate and L-glutamine biosynthesis	Vaginal	Control	28.2835425136998
+277	L-glutamate degradation V (via hydroxyglutarate)	Csection	Control	28.0321435245748
+278	acetyl-CoA fermentation to butanoate II	Csection	T1D	27.5
+279	aerobic respiration I (cytochrome c)	Csection	T1D	27.5
+280	fatty acid salvage	Vaginal	Control	26.5158211065936
+281	glutaryl-CoA degradation	Vaginal	Control	26.5158211065936
+282	L-leucine degradation I	Csection	Control	26.1633339562699
+283	L-glutamate and L-glutamine biosynthesis	Vaginal	T1D	25.9852750108272
+284	glutaryl-CoA degradation	Csection	T1D	25
+285	mycolate biosynthesis	Csection	T1D	25
+286	aromatic biogenic amine degradation (bacteria)	Vaginal	Control	24.7480996994874
+287	L-glutamate degradation V (via hydroxyglutarate)	Vaginal	Control	24.7480996994874
+288	L-leucine degradation I	Vaginal	Control	24.7480996994874
+289	L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	Vaginal	Control	24.7480996994874
+290	L-tyrosine degradation I	Vaginal	Control	24.7480996994874
+291	NAD biosynthesis II (from tryptophan)	Vaginal	Control	24.7480996994874
+292	glycerol degradation to butanol	Csection	Control	24.2945243879649
+293	L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	Csection	Control	24.2945243879649
+294	L-tyrosine degradation I	Csection	Control	24.2945243879649
+295	mycolate biosynthesis	Csection	Control	24.2945243879649
+296	NAD biosynthesis II (from tryptophan)	Csection	Control	24.2945243879649
+297	"adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I"	Vaginal	T1D	23.8198354265916
+298	acetyl-CoA fermentation to butanoate II	Vaginal	T1D	23.8198354265916
+299	adenosylcobalamin salvage from cobinamide II	Vaginal	T1D	23.8198354265916
+300	aerobic respiration I (cytochrome c)	Vaginal	T1D	23.8198354265916
+301	glutaryl-CoA degradation	Vaginal	T1D	23.8198354265916
+302	L-glutamate degradation V (via hydroxyglutarate)	Vaginal	T1D	23.8198354265916
+303	mycolate biosynthesis	Vaginal	T1D	23.8198354265916
+304	L-glutamate degradation V (via hydroxyglutarate)	Csection	T1D	23.75
+305	"cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)"	Csection	Control	22.4257148196599
+306	aromatic biogenic amine degradation (bacteria)	Csection	Control	22.4257148196599
+307	fatty acid salvage	Csection	Control	22.4257148196599
+308	mannan degradation	Csection	Control	22.4257148196599
+309	"cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)"	Vaginal	Control	21.2126568852749
+310	"mono-trans, poly-cis decaprenyl phosphate biosynthesis"	Vaginal	Control	21.2126568852749
+311	mycothiol biosynthesis	Vaginal	Control	21.2126568852749
+312	CMP-legionaminate biosynthesis I	Csection	Control	20.5569052513549
+313	isopropanol biosynthesis	Csection	Control	20.5569052513549
+314	glycerol degradation to butanol	Csection	T1D	20
+315	glycerol degradation to butanol	Vaginal	T1D	19.4889562581204
+316	L-tyrosine degradation I	Vaginal	T1D	19.4889562581204
+317	isopropanol biosynthesis	Vaginal	Control	17.6772140710624
+318	mannan degradation	Vaginal	Control	17.6772140710624
+319	"cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)"	Csection	T1D	17.5
+320	aromatic biogenic amine degradation (bacteria)	Csection	T1D	17.5
+321	"cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)"	Vaginal	T1D	17.3235166738848
+322	aromatic biogenic amine degradation (bacteria)	Vaginal	T1D	17.3235166738848
+323	CMP-legionaminate biosynthesis I	Vaginal	T1D	17.3235166738848
+324	fatty acid salvage	Vaginal	T1D	17.3235166738848
+325	isopropanol biosynthesis	Vaginal	T1D	17.3235166738848
+326	L-leucine degradation I	Vaginal	T1D	17.3235166738848
+327	L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	Vaginal	T1D	17.3235166738848
+328	mannan degradation	Vaginal	T1D	17.3235166738848
+329	NAD biosynthesis II (from tryptophan)	Vaginal	T1D	17.3235166738848
+330	"mono-trans, poly-cis decaprenyl phosphate biosynthesis"	Csection	Control	16.8192861147449
+331	mycothiol biosynthesis	Csection	Control	16.8192861147449
+332	fatty acid salvage	Csection	T1D	16.25
+333	L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	Csection	T1D	16.25
+334	L-tyrosine degradation I	Csection	T1D	16.25
+335	mannan degradation	Csection	T1D	16.25
+336	NAD biosynthesis II (from tryptophan)	Csection	T1D	16.25
+337	L-histidine degradation II	Vaginal	Control	15.9094926639562
+338	"mono-trans, poly-cis decaprenyl phosphate biosynthesis"	Csection	T1D	15
+339	isopropanol biosynthesis	Csection	T1D	15
+340	mycothiol biosynthesis	Csection	T1D	15
+341	L-histidine degradation II	Csection	Control	14.9504765464399
+342	L-leucine degradation I	Csection	T1D	13.75
+343	"mono-trans, poly-cis decaprenyl phosphate biosynthesis"	Vaginal	T1D	12.9926375054136
+344	L-histidine degradation II	Vaginal	T1D	12.9926375054136
+345	mycothiol biosynthesis	Vaginal	T1D	12.9926375054136
+346	CMP-legionaminate biosynthesis I	Vaginal	Control	12.3740498497437
+347	CMP-legionaminate biosynthesis I	Csection	T1D	11.25
+348	L-histidine degradation II	Csection	T1D	8.75

@@ -1,0 +1,8 @@
+                         Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                6.6106     0.1162  56.885  < 2e-16 ***
+variableSecond.Trimester  -0.9936     0.1643  -6.046 1.26e-08 ***
+variableDelivery          -0.8586     0.1619  -5.305 4.27e-07 ***
+
+Residual standard error: 0.7967 on 141 degrees of freedom
+Multiple R-squared:  0.2349,	Adjusted R-squared:  0.224 
+F-statistic: 21.64 on 2 and 141 DF,  p-value: 6.351e-09

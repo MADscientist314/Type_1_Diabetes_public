@@ -1,0 +1,22 @@
+
+Call:
+adonis(formula = euc_dist ~ disease * SampleType * Delivery,      data = meta(vst_physeq), permutations = 9999, strata = meta(vst_physeq)$SampleType) 
+
+Blocks:  strata 
+Permutation: free
+Number of permutations: 9999
+
+Terms added sequentially (first to last)
+
+                            Df SumsOfSqs MeanSqs F.Model      R2 Pr(>F)   
+disease                      1     15282   15282  1.6807 0.01828 0.0244 * 
+SampleType                   1     98637   98637 10.8478 0.11796 0.0401 * 
+Delivery                     1     16399   16399  1.8036 0.01961 0.0039 **
+disease:SampleType           1     10884   10884  1.1970 0.01302 0.1332   
+disease:Delivery             1      7380    7380  0.8116 0.00883 0.8862   
+SampleType:Delivery          1     15319   15319  1.6848 0.01832 0.0091 **
+disease:SampleType:Delivery  1      8538    8538  0.9390 0.01021 0.5221   
+Residuals                   73    663773    9093         0.79379          
+Total                       80    836212                 1.00000          
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

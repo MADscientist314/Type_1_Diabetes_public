@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  BMI_before_2 by disease
+t = -2.2475, df = 522.78, p-value = 0.02503
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.00514307 -0.06752566
+sample estimates:
+mean in group Control     mean in group T1D 
+             22.62110              23.15743 
+

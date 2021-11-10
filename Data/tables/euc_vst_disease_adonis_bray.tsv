@@ -1,0 +1,16 @@
+
+Call:
+adonis(formula = euc_dist ~ sample_info_tab$disease, permutations = 9999,      strata = sample_info_tab$SampleType) 
+
+Blocks:  strata 
+Permutation: free
+Number of permutations: 9999
+
+Terms added sequentially (first to last)
+
+                         Df SumsOfSqs MeanSqs F.Model      R2 Pr(>F)  
+sample_info_tab$disease   1      2289  2288.9   1.933 0.00367 0.0396 *
+Residuals               525    621686  1184.2         0.99633         
+Total                   526    623975                 1.00000         
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

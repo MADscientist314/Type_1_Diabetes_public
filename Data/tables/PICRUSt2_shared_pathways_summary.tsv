@@ -1,0 +1,2139 @@
+OTU	Delivery	disease	SampleType	num_mother_infant_samples	tmt
+"1,4-dihydroxy-2-naphthoate biosynthesis I"	Csection	T1D	Ear	26	T1D_Csection_Ear
+"arginine, ornithine and proline interconversion"	Csection	T1D	Ear	26	T1D_Csection_Ear
+"hexitol fermentation to lactate, formate, ethanol and acetate"	Csection	T1D	Ear	26	T1D_Csection_Ear
+"superpathway of (R,R)-butanediol biosynthesis"	Csection	T1D	Ear	26	T1D_Csection_Ear
+"superpathway of 2,3-butanediol biosynthesis"	Csection	T1D	Ear	26	T1D_Csection_Ear
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"	Csection	T1D	Ear	26	T1D_Csection_Ear
+"superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation"	Csection	T1D	Ear	26	T1D_Csection_Ear
+5-aminoimidazole ribonucleotide biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+5-aminoimidazole ribonucleotide biosynthesis II	Csection	T1D	Ear	26	T1D_Csection_Ear
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)	Csection	T1D	Ear	26	T1D_Csection_Ear
+acetylene degradation	Csection	T1D	Ear	26	T1D_Csection_Ear
+adenine and adenosine salvage III	Csection	T1D	Ear	26	T1D_Csection_Ear
+adenosine deoxyribonucleotides de novo biosynthesis II	Csection	T1D	Ear	26	T1D_Csection_Ear
+adenosine nucleotides degradation II	Csection	T1D	Ear	26	T1D_Csection_Ear
+adenosine ribonucleotides de novo biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+adenosylcobalamin salvage from cobinamide I	Csection	T1D	Ear	26	T1D_Csection_Ear
+aspartate superpathway	Csection	T1D	Ear	26	T1D_Csection_Ear
+Bifidobacterium shunt	Csection	T1D	Ear	26	T1D_Csection_Ear
+Calvin-Benson-Bassham cycle	Csection	T1D	Ear	26	T1D_Csection_Ear
+CDP-diacylglycerol biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+CDP-diacylglycerol biosynthesis II	Csection	T1D	Ear	26	T1D_Csection_Ear
+chorismate biosynthesis from 3-dehydroquinate	Csection	T1D	Ear	26	T1D_Csection_Ear
+chorismate biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+cis-vaccenate biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+coenzyme A biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+dTDP-L-rhamnose biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+fatty acid elongation -- saturated	Csection	T1D	Ear	26	T1D_Csection_Ear
+flavin biosynthesis I (bacteria and plants)	Csection	T1D	Ear	26	T1D_Csection_Ear
+formaldehyde assimilation II (RuMP Cycle)	Csection	T1D	Ear	26	T1D_Csection_Ear
+formaldehyde oxidation I	Csection	T1D	Ear	26	T1D_Csection_Ear
+galactose degradation I (Leloir pathway)	Csection	T1D	Ear	26	T1D_Csection_Ear
+GDP-mannose biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+gluconeogenesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+glycogen biosynthesis I (from ADP-D-Glucose)	Csection	T1D	Ear	26	T1D_Csection_Ear
+glycogen degradation I (bacterial)	Csection	T1D	Ear	26	T1D_Csection_Ear
+glycolysis I (from glucose 6-phosphate)	Csection	T1D	Ear	26	T1D_Csection_Ear
+glycolysis II (from fructose 6-phosphate)	Csection	T1D	Ear	26	T1D_Csection_Ear
+glycolysis III (from glucose)	Csection	T1D	Ear	26	T1D_Csection_Ear
+gondoate biosynthesis (anaerobic)	Csection	T1D	Ear	26	T1D_Csection_Ear
+guanosine deoxyribonucleotides de novo biosynthesis II	Csection	T1D	Ear	26	T1D_Csection_Ear
+guanosine nucleotides degradation III	Csection	T1D	Ear	26	T1D_Csection_Ear
+guanosine ribonucleotides de novo biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+heme biosynthesis I (aerobic)	Csection	T1D	Ear	26	T1D_Csection_Ear
+heme biosynthesis II (anaerobic)	Csection	T1D	Ear	26	T1D_Csection_Ear
+heterolactic fermentation	Csection	T1D	Ear	26	T1D_Csection_Ear
+homolactic fermentation	Csection	T1D	Ear	26	T1D_Csection_Ear
+incomplete reductive TCA cycle	Csection	T1D	Ear	26	T1D_Csection_Ear
+inosine-5'-phosphate biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+inosine-5'-phosphate biosynthesis III	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-arginine biosynthesis I (via L-ornithine)	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-arginine biosynthesis II (acetyl cycle)	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-arginine biosynthesis III (via N-acetyl-L-citrulline)	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-arginine biosynthesis IV (archaebacteria)	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-histidine biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-histidine degradation I	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-isoleucine biosynthesis I (from threonine)	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-isoleucine biosynthesis II	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-isoleucine biosynthesis III	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-isoleucine biosynthesis IV	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-lysine biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-lysine biosynthesis II	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-lysine biosynthesis III	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-lysine biosynthesis VI	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-methionine biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-methionine biosynthesis III	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-ornithine biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-tryptophan biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+L-valine biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+lactose and galactose degradation I	Csection	T1D	Ear	26	T1D_Csection_Ear
+methylerythritol phosphate pathway I	Csection	T1D	Ear	26	T1D_Csection_Ear
+methylerythritol phosphate pathway II	Csection	T1D	Ear	26	T1D_Csection_Ear
+mevalonate pathway I	Csection	T1D	Ear	26	T1D_Csection_Ear
+mixed acid fermentation	Csection	T1D	Ear	26	T1D_Csection_Ear
+N10-formyl-tetrahydrofolate biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+NAD biosynthesis I (from aspartate)	Csection	T1D	Ear	26	T1D_Csection_Ear
+NAD salvage pathway I	Csection	T1D	Ear	26	T1D_Csection_Ear
+O-antigen building blocks biosynthesis (E. coli)	Csection	T1D	Ear	26	T1D_Csection_Ear
+pantothenate and coenzyme A biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+pentose phosphate pathway	Csection	T1D	Ear	26	T1D_Csection_Ear
+pentose phosphate pathway (non-oxidative branch)	Csection	T1D	Ear	26	T1D_Csection_Ear
+peptidoglycan biosynthesis I (meso-diaminopimelate containing)	Csection	T1D	Ear	26	T1D_Csection_Ear
+peptidoglycan biosynthesis II (staphylococci)	Csection	T1D	Ear	26	T1D_Csection_Ear
+peptidoglycan biosynthesis III (mycobacteria)	Csection	T1D	Ear	26	T1D_Csection_Ear
+peptidoglycan biosynthesis IV (Enterococcus faecium)	Csection	T1D	Ear	26	T1D_Csection_Ear
+peptidoglycan biosynthesis V (&beta;-lactam resistance)	Csection	T1D	Ear	26	T1D_Csection_Ear
+peptidoglycan maturation (meso-diaminopimelate containing)	Csection	T1D	Ear	26	T1D_Csection_Ear
+phosphatidylglycerol biosynthesis I (plastidic)	Csection	T1D	Ear	26	T1D_Csection_Ear
+phosphatidylglycerol biosynthesis II (non-plastidic)	Csection	T1D	Ear	26	T1D_Csection_Ear
+phosphopantothenate biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+polyisoprenoid biosynthesis (E. coli)	Csection	T1D	Ear	26	T1D_Csection_Ear
+preQ0 biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+purine nucleotides degradation II (aerobic)	Csection	T1D	Ear	26	T1D_Csection_Ear
+purine ribonucleosides degradation	Csection	T1D	Ear	26	T1D_Csection_Ear
+pyrimidine deoxyribonucleosides salvage	Csection	T1D	Ear	26	T1D_Csection_Ear
+pyrimidine deoxyribonucleotide phosphorylation	Csection	T1D	Ear	26	T1D_Csection_Ear
+pyrimidine deoxyribonucleotides de novo biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+pyrimidine deoxyribonucleotides de novo biosynthesis II	Csection	T1D	Ear	26	T1D_Csection_Ear
+pyruvate fermentation to acetate and lactate II	Csection	T1D	Ear	26	T1D_Csection_Ear
+pyruvate fermentation to acetone	Csection	T1D	Ear	26	T1D_Csection_Ear
+pyruvate fermentation to isobutanol (engineered)	Csection	T1D	Ear	26	T1D_Csection_Ear
+queuosine biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+reductive TCA cycle I	Csection	T1D	Ear	26	T1D_Csection_Ear
+S-adenosyl-L-methionine cycle I	Csection	T1D	Ear	26	T1D_Csection_Ear
+starch degradation V	Csection	T1D	Ear	26	T1D_Csection_Ear
+sucrose degradation III (sucrose invertase)	Csection	T1D	Ear	26	T1D_Csection_Ear
+sucrose degradation IV (sucrose phosphorylase)	Csection	T1D	Ear	26	T1D_Csection_Ear
+sulfate reduction I (assimilatory)	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathay of heme biosynthesis from glutamate	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of adenosine nucleotides de novo biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of adenosine nucleotides de novo biosynthesis II	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of aromatic amino acid biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of branched amino acid biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of glycolysis and Entner-Doudoroff	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of guanosine nucleotides de novo biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of guanosine nucleotides de novo biosynthesis II	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of hexitol degradation (bacteria)	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of L-aspartate and L-asparagine biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of L-isoleucine biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of L-methionine biosynthesis (by sulfhydrylation)	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of L-methionine biosynthesis (transsulfuration)	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of L-serine and glycine biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of L-threonine biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of menaquinol-11 biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of menaquinol-12 biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of menaquinol-13 biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of menaquinol-7 biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of N-acetylneuraminate degradation	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of phospholipid biosynthesis I (bacteria)	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of phylloquinol biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of purine deoxyribonucleosides degradation	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of purine nucleotides de novo biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of purine nucleotides de novo biosynthesis II	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of pyrimidine deoxyribonucleoside salvage	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of pyrimidine deoxyribonucleosides degradation	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of pyrimidine nucleobases salvage	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of pyrimidine ribonucleosides salvage	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of S-adenosyl-L-methionine biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of sulfate assimilation and cysteine biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of sulfur oxidation (Acidianus ambivalens)	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of tetrahydrofolate biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of tetrahydrofolate biosynthesis and salvage	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of thiamin diphosphate biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+superpathway of thiamin diphosphate biosynthesis II	Csection	T1D	Ear	26	T1D_Csection_Ear
+taxadiene biosynthesis (engineered)	Csection	T1D	Ear	26	T1D_Csection_Ear
+TCA cycle I (prokaryotic)	Csection	T1D	Ear	26	T1D_Csection_Ear
+TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)	Csection	T1D	Ear	26	T1D_Csection_Ear
+TCA cycle VI (obligate autotrophs)	Csection	T1D	Ear	26	T1D_Csection_Ear
+TCA cycle VII (acetate-producers)	Csection	T1D	Ear	26	T1D_Csection_Ear
+TCA cycle VIII (helicobacter)	Csection	T1D	Ear	26	T1D_Csection_Ear
+teichoic acid (poly-glycerol) biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+tetrapyrrole biosynthesis I (from glutamate)	Csection	T1D	Ear	26	T1D_Csection_Ear
+tetrapyrrole biosynthesis II (from glycine)	Csection	T1D	Ear	26	T1D_Csection_Ear
+thiamin salvage II	Csection	T1D	Ear	26	T1D_Csection_Ear
+thiazole biosynthesis I (E. coli)	Csection	T1D	Ear	26	T1D_Csection_Ear
+thiazole biosynthesis II (Bacillus)	Csection	T1D	Ear	26	T1D_Csection_Ear
+tRNA charging	Csection	T1D	Ear	26	T1D_Csection_Ear
+UDP-N-acetyl-D-glucosamine biosynthesis I	Csection	T1D	Ear	26	T1D_Csection_Ear
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	Csection	T1D	Ear	26	T1D_Csection_Ear
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	Csection	T1D	Ear	26	T1D_Csection_Ear
+UMP biosynthesis	Csection	T1D	Ear	26	T1D_Csection_Ear
+urate biosynthesis/inosine 5'-phosphate degradation	Csection	T1D	Ear	26	T1D_Csection_Ear
+urea cycle	Csection	T1D	Ear	26	T1D_Csection_Ear
+5-aminoimidazole ribonucleotide biosynthesis I	Csection	T1D	Stool	26	T1D_Csection_Stool
+5-aminoimidazole ribonucleotide biosynthesis II	Csection	T1D	Stool	26	T1D_Csection_Stool
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	Csection	T1D	Stool	26	T1D_Csection_Stool
+acetylene degradation	Csection	T1D	Stool	26	T1D_Csection_Stool
+adenosine deoxyribonucleotides de novo biosynthesis II	Csection	T1D	Stool	26	T1D_Csection_Stool
+adenosine ribonucleotides de novo biosynthesis	Csection	T1D	Stool	26	T1D_Csection_Stool
+Bifidobacterium shunt	Csection	T1D	Stool	26	T1D_Csection_Stool
+CDP-diacylglycerol biosynthesis I	Csection	T1D	Stool	26	T1D_Csection_Stool
+CDP-diacylglycerol biosynthesis II	Csection	T1D	Stool	26	T1D_Csection_Stool
+chorismate biosynthesis from 3-dehydroquinate	Csection	T1D	Stool	26	T1D_Csection_Stool
+chorismate biosynthesis I	Csection	T1D	Stool	26	T1D_Csection_Stool
+coenzyme A biosynthesis I	Csection	T1D	Stool	26	T1D_Csection_Stool
+galactose degradation I (Leloir pathway)	Csection	T1D	Stool	26	T1D_Csection_Stool
+glycolysis I (from glucose 6-phosphate)	Csection	T1D	Stool	26	T1D_Csection_Stool
+glycolysis II (from fructose 6-phosphate)	Csection	T1D	Stool	26	T1D_Csection_Stool
+glycolysis III (from glucose)	Csection	T1D	Stool	26	T1D_Csection_Stool
+guanosine deoxyribonucleotides de novo biosynthesis II	Csection	T1D	Stool	26	T1D_Csection_Stool
+guanosine ribonucleotides de novo biosynthesis	Csection	T1D	Stool	26	T1D_Csection_Stool
+heterolactic fermentation	Csection	T1D	Stool	26	T1D_Csection_Stool
+homolactic fermentation	Csection	T1D	Stool	26	T1D_Csection_Stool
+inosine-5'-phosphate biosynthesis I	Csection	T1D	Stool	26	T1D_Csection_Stool
+inosine-5'-phosphate biosynthesis III	Csection	T1D	Stool	26	T1D_Csection_Stool
+L-arginine biosynthesis I (via L-ornithine)	Csection	T1D	Stool	26	T1D_Csection_Stool
+L-arginine biosynthesis II (acetyl cycle)	Csection	T1D	Stool	26	T1D_Csection_Stool
+L-histidine biosynthesis	Csection	T1D	Stool	26	T1D_Csection_Stool
+L-isoleucine biosynthesis I (from threonine)	Csection	T1D	Stool	26	T1D_Csection_Stool
+L-isoleucine biosynthesis II	Csection	T1D	Stool	26	T1D_Csection_Stool
+L-isoleucine biosynthesis III	Csection	T1D	Stool	26	T1D_Csection_Stool
+L-lysine biosynthesis II	Csection	T1D	Stool	26	T1D_Csection_Stool
+L-lysine biosynthesis III	Csection	T1D	Stool	26	T1D_Csection_Stool
+L-lysine biosynthesis VI	Csection	T1D	Stool	26	T1D_Csection_Stool
+L-ornithine biosynthesis	Csection	T1D	Stool	26	T1D_Csection_Stool
+L-valine biosynthesis	Csection	T1D	Stool	26	T1D_Csection_Stool
+mevalonate pathway I	Csection	T1D	Stool	26	T1D_Csection_Stool
+mixed acid fermentation	Csection	T1D	Stool	26	T1D_Csection_Stool
+pentose phosphate pathway (non-oxidative branch)	Csection	T1D	Stool	26	T1D_Csection_Stool
+peptidoglycan biosynthesis I (meso-diaminopimelate containing)	Csection	T1D	Stool	26	T1D_Csection_Stool
+peptidoglycan biosynthesis III (mycobacteria)	Csection	T1D	Stool	26	T1D_Csection_Stool
+peptidoglycan biosynthesis IV (Enterococcus faecium)	Csection	T1D	Stool	26	T1D_Csection_Stool
+peptidoglycan maturation (meso-diaminopimelate containing)	Csection	T1D	Stool	26	T1D_Csection_Stool
+phosphatidylglycerol biosynthesis I (plastidic)	Csection	T1D	Stool	26	T1D_Csection_Stool
+phosphatidylglycerol biosynthesis II (non-plastidic)	Csection	T1D	Stool	26	T1D_Csection_Stool
+polyisoprenoid biosynthesis (E. coli)	Csection	T1D	Stool	26	T1D_Csection_Stool
+pyrimidine deoxyribonucleotides de novo biosynthesis II	Csection	T1D	Stool	26	T1D_Csection_Stool
+pyruvate fermentation to acetate and lactate II	Csection	T1D	Stool	26	T1D_Csection_Stool
+pyruvate fermentation to isobutanol (engineered)	Csection	T1D	Stool	26	T1D_Csection_Stool
+S-adenosyl-L-methionine cycle I	Csection	T1D	Stool	26	T1D_Csection_Stool
+sucrose degradation III (sucrose invertase)	Csection	T1D	Stool	26	T1D_Csection_Stool
+superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Csection	T1D	Stool	26	T1D_Csection_Stool
+superpathway of adenosine nucleotides de novo biosynthesis I	Csection	T1D	Stool	26	T1D_Csection_Stool
+superpathway of adenosine nucleotides de novo biosynthesis II	Csection	T1D	Stool	26	T1D_Csection_Stool
+superpathway of aromatic amino acid biosynthesis	Csection	T1D	Stool	26	T1D_Csection_Stool
+superpathway of branched amino acid biosynthesis	Csection	T1D	Stool	26	T1D_Csection_Stool
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	Csection	T1D	Stool	26	T1D_Csection_Stool
+superpathway of L-isoleucine biosynthesis I	Csection	T1D	Stool	26	T1D_Csection_Stool
+superpathway of L-serine and glycine biosynthesis I	Csection	T1D	Stool	26	T1D_Csection_Stool
+superpathway of L-threonine biosynthesis	Csection	T1D	Stool	26	T1D_Csection_Stool
+superpathway of phospholipid biosynthesis I (bacteria)	Csection	T1D	Stool	26	T1D_Csection_Stool
+superpathway of pyrimidine nucleobases salvage	Csection	T1D	Stool	26	T1D_Csection_Stool
+UDP-N-acetyl-D-glucosamine biosynthesis I	Csection	T1D	Stool	26	T1D_Csection_Stool
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	Csection	T1D	Stool	26	T1D_Csection_Stool
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	Csection	T1D	Stool	26	T1D_Csection_Stool
+UMP biosynthesis	Csection	T1D	Stool	26	T1D_Csection_Stool
+"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"	Csection	T1D	Ear	25	T1D_Csection_Ear
+"superpathway of histidine, purine, and pyrimidine biosynthesis"	Csection	T1D	Ear	25	T1D_Csection_Ear
+(5Z)-dodec-5-enoate biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+4-aminobutanoate degradation V	Csection	T1D	Ear	25	T1D_Csection_Ear
+4-deoxy-L-threo-hex-4-enopyranuronate degradation	Csection	T1D	Ear	25	T1D_Csection_Ear
+anhydromuropeptides recycling	Csection	T1D	Ear	25	T1D_Csection_Ear
+CMP-3-deoxy-D-manno-octulosonate biosynthesis I	Csection	T1D	Ear	25	T1D_Csection_Ear
+colanic acid building blocks biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+D-fructuronate degradation	Csection	T1D	Ear	25	T1D_Csection_Ear
+D-galacturonate degradation I	Csection	T1D	Ear	25	T1D_Csection_Ear
+dTDP-N-acetylthomosamine biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+enterobactin biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+fatty acid &beta;-oxidation I	Csection	T1D	Ear	25	T1D_Csection_Ear
+glyoxylate cycle	Csection	T1D	Ear	25	T1D_Csection_Ear
+Kdo transfer to lipid IVA III (Chlamydia)	Csection	T1D	Ear	25	T1D_Csection_Ear
+L-rhamnose degradation I	Csection	T1D	Ear	25	T1D_Csection_Ear
+lipid IVA biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+pyrimidine deoxyribonucleotides de novo biosynthesis III	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of &beta;-D-glucuronide and D-glucuronate degradation	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of arginine and polyamine biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of demethylmenaquinol-6 biosynthesis I	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of demethylmenaquinol-8 biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of demethylmenaquinol-9 biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of glucose and xylose degradation	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of glyoxylate bypass and TCA	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of heme biosynthesis from glycine	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of heme biosynthesis from uroporphyrinogen-III	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of hexuronide and hexuronate degradation	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of L-alanine biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of L-phenylalanine biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of L-tyrosine biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of menaquinol-10 biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of menaquinol-6 biosynthesis I	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of menaquinol-8 biosynthesis I	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of menaquinol-9 biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of polyamine biosynthesis I	Csection	T1D	Ear	25	T1D_Csection_Ear
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	Csection	T1D	Ear	25	T1D_Csection_Ear
+TCA cycle IV (2-oxoglutarate decarboxylase)	Csection	T1D	Ear	25	T1D_Csection_Ear
+adenine and adenosine salvage III	Csection	T1D	Stool	25	T1D_Csection_Stool
+dTDP-L-rhamnose biosynthesis I	Csection	T1D	Stool	25	T1D_Csection_Stool
+glycogen biosynthesis I (from ADP-D-Glucose)	Csection	T1D	Stool	25	T1D_Csection_Stool
+glycogen degradation I (bacterial)	Csection	T1D	Stool	25	T1D_Csection_Stool
+L-arginine biosynthesis IV (archaebacteria)	Csection	T1D	Stool	25	T1D_Csection_Stool
+L-lysine biosynthesis I	Csection	T1D	Stool	25	T1D_Csection_Stool
+L-tryptophan biosynthesis	Csection	T1D	Stool	25	T1D_Csection_Stool
+lactose and galactose degradation I	Csection	T1D	Stool	25	T1D_Csection_Stool
+O-antigen building blocks biosynthesis (E. coli)	Csection	T1D	Stool	25	T1D_Csection_Stool
+pentose phosphate pathway	Csection	T1D	Stool	25	T1D_Csection_Stool
+pyrimidine deoxyribonucleosides salvage	Csection	T1D	Stool	25	T1D_Csection_Stool
+pyrimidine deoxyribonucleotide phosphorylation	Csection	T1D	Stool	25	T1D_Csection_Stool
+pyrimidine deoxyribonucleotides de novo biosynthesis I	Csection	T1D	Stool	25	T1D_Csection_Stool
+starch degradation V	Csection	T1D	Stool	25	T1D_Csection_Stool
+superpathway of guanosine nucleotides de novo biosynthesis I	Csection	T1D	Stool	25	T1D_Csection_Stool
+superpathway of guanosine nucleotides de novo biosynthesis II	Csection	T1D	Stool	25	T1D_Csection_Stool
+superpathway of L-alanine biosynthesis	Csection	T1D	Stool	25	T1D_Csection_Stool
+superpathway of purine deoxyribonucleosides degradation	Csection	T1D	Stool	25	T1D_Csection_Stool
+superpathway of purine nucleotides de novo biosynthesis I	Csection	T1D	Stool	25	T1D_Csection_Stool
+superpathway of purine nucleotides de novo biosynthesis II	Csection	T1D	Stool	25	T1D_Csection_Stool
+superpathway of pyrimidine deoxyribonucleoside salvage	Csection	T1D	Stool	25	T1D_Csection_Stool
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	Csection	T1D	Stool	25	T1D_Csection_Stool
+superpathway of pyrimidine ribonucleosides salvage	Csection	T1D	Stool	25	T1D_Csection_Stool
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	Csection	T1D	Stool	25	T1D_Csection_Stool
+superpathway of tetrahydrofolate biosynthesis	Csection	T1D	Stool	25	T1D_Csection_Stool
+superpathway of tetrahydrofolate biosynthesis and salvage	Csection	T1D	Stool	25	T1D_Csection_Stool
+TCA cycle VI (obligate autotrophs)	Csection	T1D	Stool	25	T1D_Csection_Stool
+"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"	Csection	T1D	Ear	24	T1D_Csection_Ear
+2-methylcitrate cycle I	Csection	T1D	Ear	24	T1D_Csection_Ear
+2-methylcitrate cycle II	Csection	T1D	Ear	24	T1D_Csection_Ear
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	Csection	T1D	Ear	24	T1D_Csection_Ear
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate	Csection	T1D	Ear	24	T1D_Csection_Ear
+8-amino-7-oxononanoate biosynthesis I	Csection	T1D	Ear	24	T1D_Csection_Ear
+ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	Csection	T1D	Ear	24	T1D_Csection_Ear
+allantoin degradation IV (anaerobic)	Csection	T1D	Ear	24	T1D_Csection_Ear
+allantoin degradation to glyoxylate III	Csection	T1D	Ear	24	T1D_Csection_Ear
+biotin biosynthesis I	Csection	T1D	Ear	24	T1D_Csection_Ear
+catechol degradation I (meta-cleavage pathway)	Csection	T1D	Ear	24	T1D_Csection_Ear
+cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate	Csection	T1D	Ear	24	T1D_Csection_Ear
+D-galactarate degradation I	Csection	T1D	Ear	24	T1D_Csection_Ear
+D-glucarate degradation I	Csection	T1D	Ear	24	T1D_Csection_Ear
+enterobacterial common antigen biosynthesis	Csection	T1D	Ear	24	T1D_Csection_Ear
+fucose degradation	Csection	T1D	Ear	24	T1D_Csection_Ear
+glucose and glucose-1-phosphate degradation	Csection	T1D	Ear	24	T1D_Csection_Ear
+ketogluconate metabolism	Csection	T1D	Ear	24	T1D_Csection_Ear
+L-arginine degradation II (AST pathway)	Csection	T1D	Ear	24	T1D_Csection_Ear
+L-glutamate and L-glutamine biosynthesis	Csection	T1D	Ear	24	T1D_Csection_Ear
+methylphosphonate degradation I	Csection	T1D	Ear	24	T1D_Csection_Ear
+NAD salvage pathway II	Csection	T1D	Ear	24	T1D_Csection_Ear
+oleate biosynthesis IV (anaerobic)	Csection	T1D	Ear	24	T1D_Csection_Ear
+palmitate biosynthesis II (bacteria and plants)	Csection	T1D	Ear	24	T1D_Csection_Ear
+palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	Csection	T1D	Ear	24	T1D_Csection_Ear
+phenylacetate degradation I (aerobic)	Csection	T1D	Ear	24	T1D_Csection_Ear
+polymyxin resistance	Csection	T1D	Ear	24	T1D_Csection_Ear
+ppGpp biosynthesis	Csection	T1D	Ear	24	T1D_Csection_Ear
+purine nucleobases degradation I (anaerobic)	Csection	T1D	Ear	24	T1D_Csection_Ear
+pyridoxal 5'-phosphate biosynthesis I	Csection	T1D	Ear	24	T1D_Csection_Ear
+stearate biosynthesis II (bacteria and plants)	Csection	T1D	Ear	24	T1D_Csection_Ear
+sulfoglycolysis	Csection	T1D	Ear	24	T1D_Csection_Ear
+superpathway of (Kdo)2-lipid A biosynthesis	Csection	T1D	Ear	24	T1D_Csection_Ear
+superpathway of chorismate metabolism	Csection	T1D	Ear	24	T1D_Csection_Ear
+superpathway of D-glucarate and D-galactarate degradation	Csection	T1D	Ear	24	T1D_Csection_Ear
+superpathway of fatty acid biosynthesis initiation (E. coli)	Csection	T1D	Ear	24	T1D_Csection_Ear
+superpathway of fucose and rhamnose degradation	Csection	T1D	Ear	24	T1D_Csection_Ear
+superpathway of glycol metabolism and degradation	Csection	T1D	Ear	24	T1D_Csection_Ear
+superpathway of L-arginine and L-ornithine degradation	Csection	T1D	Ear	24	T1D_Csection_Ear
+superpathway of L-tryptophan biosynthesis	Csection	T1D	Ear	24	T1D_Csection_Ear
+superpathway of methylglyoxal degradation	Csection	T1D	Ear	24	T1D_Csection_Ear
+superpathway of ornithine degradation	Csection	T1D	Ear	24	T1D_Csection_Ear
+superpathway of phenylethylamine degradation	Csection	T1D	Ear	24	T1D_Csection_Ear
+superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	Csection	T1D	Ear	24	T1D_Csection_Ear
+superpathway of ubiquinol-8 biosynthesis (prokaryotic)	Csection	T1D	Ear	24	T1D_Csection_Ear
+superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis	Csection	T1D	Ear	24	T1D_Csection_Ear
+toluene degradation I (aerobic) (via o-cresol)	Csection	T1D	Ear	24	T1D_Csection_Ear
+toluene degradation II (aerobic) (via 4-methylcatechol)	Csection	T1D	Ear	24	T1D_Csection_Ear
+tRNA processing	Csection	T1D	Ear	24	T1D_Csection_Ear
+ubiquinol-10 biosynthesis (prokaryotic)	Csection	T1D	Ear	24	T1D_Csection_Ear
+ubiquinol-7 biosynthesis (prokaryotic)	Csection	T1D	Ear	24	T1D_Csection_Ear
+ubiquinol-8 biosynthesis (prokaryotic)	Csection	T1D	Ear	24	T1D_Csection_Ear
+ubiquinol-9 biosynthesis (prokaryotic)	Csection	T1D	Ear	24	T1D_Csection_Ear
+"hexitol fermentation to lactate, formate, ethanol and acetate"	Csection	T1D	Stool	24	T1D_Csection_Stool
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)	Csection	T1D	Stool	24	T1D_Csection_Stool
+adenosylcobalamin salvage from cobinamide I	Csection	T1D	Stool	24	T1D_Csection_Stool
+Calvin-Benson-Bassham cycle	Csection	T1D	Stool	24	T1D_Csection_Stool
+cis-vaccenate biosynthesis	Csection	T1D	Stool	24	T1D_Csection_Stool
+flavin biosynthesis I (bacteria and plants)	Csection	T1D	Stool	24	T1D_Csection_Stool
+GDP-mannose biosynthesis	Csection	T1D	Stool	24	T1D_Csection_Stool
+gluconeogenesis I	Csection	T1D	Stool	24	T1D_Csection_Stool
+gondoate biosynthesis (anaerobic)	Csection	T1D	Stool	24	T1D_Csection_Stool
+guanosine nucleotides degradation III	Csection	T1D	Stool	24	T1D_Csection_Stool
+heme biosynthesis I (aerobic)	Csection	T1D	Stool	24	T1D_Csection_Stool
+heme biosynthesis II (anaerobic)	Csection	T1D	Stool	24	T1D_Csection_Stool
+L-isoleucine biosynthesis IV	Csection	T1D	Stool	24	T1D_Csection_Stool
+L-methionine biosynthesis I	Csection	T1D	Stool	24	T1D_Csection_Stool
+methylerythritol phosphate pathway I	Csection	T1D	Stool	24	T1D_Csection_Stool
+methylerythritol phosphate pathway II	Csection	T1D	Stool	24	T1D_Csection_Stool
+N10-formyl-tetrahydrofolate biosynthesis	Csection	T1D	Stool	24	T1D_Csection_Stool
+NAD biosynthesis I (from aspartate)	Csection	T1D	Stool	24	T1D_Csection_Stool
+NAD salvage pathway I	Csection	T1D	Stool	24	T1D_Csection_Stool
+pantothenate and coenzyme A biosynthesis I	Csection	T1D	Stool	24	T1D_Csection_Stool
+phosphopantothenate biosynthesis I	Csection	T1D	Stool	24	T1D_Csection_Stool
+purine ribonucleosides degradation	Csection	T1D	Stool	24	T1D_Csection_Stool
+queuosine biosynthesis	Csection	T1D	Stool	24	T1D_Csection_Stool
+sucrose degradation IV (sucrose phosphorylase)	Csection	T1D	Stool	24	T1D_Csection_Stool
+superpathay of heme biosynthesis from glutamate	Csection	T1D	Stool	24	T1D_Csection_Stool
+superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	Csection	T1D	Stool	24	T1D_Csection_Stool
+superpathway of hexitol degradation (bacteria)	Csection	T1D	Stool	24	T1D_Csection_Stool
+superpathway of L-aspartate and L-asparagine biosynthesis	Csection	T1D	Stool	24	T1D_Csection_Stool
+superpathway of pyrimidine deoxyribonucleosides degradation	Csection	T1D	Stool	24	T1D_Csection_Stool
+superpathway of S-adenosyl-L-methionine biosynthesis	Csection	T1D	Stool	24	T1D_Csection_Stool
+superpathway of thiamin diphosphate biosynthesis I	Csection	T1D	Stool	24	T1D_Csection_Stool
+superpathway of thiamin diphosphate biosynthesis II	Csection	T1D	Stool	24	T1D_Csection_Stool
+taxadiene biosynthesis (engineered)	Csection	T1D	Stool	24	T1D_Csection_Stool
+TCA cycle I (prokaryotic)	Csection	T1D	Stool	24	T1D_Csection_Stool
+TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)	Csection	T1D	Stool	24	T1D_Csection_Stool
+TCA cycle VII (acetate-producers)	Csection	T1D	Stool	24	T1D_Csection_Stool
+tetrapyrrole biosynthesis I (from glutamate)	Csection	T1D	Stool	24	T1D_Csection_Stool
+tetrapyrrole biosynthesis II (from glycine)	Csection	T1D	Stool	24	T1D_Csection_Stool
+thiamin salvage II	Csection	T1D	Stool	24	T1D_Csection_Stool
+thiazole biosynthesis I (E. coli)	Csection	T1D	Stool	24	T1D_Csection_Stool
+thiazole biosynthesis II (Bacillus)	Csection	T1D	Stool	24	T1D_Csection_Stool
+tRNA charging	Csection	T1D	Stool	24	T1D_Csection_Stool
+urate biosynthesis/inosine 5'-phosphate degradation	Csection	T1D	Stool	24	T1D_Csection_Stool
+"adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I"	Csection	T1D	Ear	23	T1D_Csection_Ear
+adenosylcobalamin salvage from cobinamide II	Csection	T1D	Ear	23	T1D_Csection_Ear
+"1,4-dihydroxy-2-naphthoate biosynthesis I"	Csection	T1D	Stool	23	T1D_Csection_Stool
+"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"	Csection	T1D	Stool	23	T1D_Csection_Stool
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"	Csection	T1D	Stool	23	T1D_Csection_Stool
+"superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation"	Csection	T1D	Stool	23	T1D_Csection_Stool
+(5Z)-dodec-5-enoate biosynthesis	Csection	T1D	Stool	23	T1D_Csection_Stool
+adenosine nucleotides degradation II	Csection	T1D	Stool	23	T1D_Csection_Stool
+aspartate superpathway	Csection	T1D	Stool	23	T1D_Csection_Stool
+fatty acid elongation -- saturated	Csection	T1D	Stool	23	T1D_Csection_Stool
+glyoxylate cycle	Csection	T1D	Stool	23	T1D_Csection_Stool
+incomplete reductive TCA cycle	Csection	T1D	Stool	23	T1D_Csection_Stool
+L-arginine biosynthesis III (via N-acetyl-L-citrulline)	Csection	T1D	Stool	23	T1D_Csection_Stool
+L-methionine biosynthesis III	Csection	T1D	Stool	23	T1D_Csection_Stool
+peptidoglycan biosynthesis V (&beta;-lactam resistance)	Csection	T1D	Stool	23	T1D_Csection_Stool
+preQ0 biosynthesis	Csection	T1D	Stool	23	T1D_Csection_Stool
+purine nucleotides degradation II (aerobic)	Csection	T1D	Stool	23	T1D_Csection_Stool
+pyruvate fermentation to acetone	Csection	T1D	Stool	23	T1D_Csection_Stool
+sulfate reduction I (assimilatory)	Csection	T1D	Stool	23	T1D_Csection_Stool
+superpathway of glycolysis and Entner-Doudoroff	Csection	T1D	Stool	23	T1D_Csection_Stool
+superpathway of glyoxylate bypass and TCA	Csection	T1D	Stool	23	T1D_Csection_Stool
+superpathway of L-methionine biosynthesis (transsulfuration)	Csection	T1D	Stool	23	T1D_Csection_Stool
+superpathway of menaquinol-11 biosynthesis	Csection	T1D	Stool	23	T1D_Csection_Stool
+superpathway of menaquinol-12 biosynthesis	Csection	T1D	Stool	23	T1D_Csection_Stool
+superpathway of menaquinol-13 biosynthesis	Csection	T1D	Stool	23	T1D_Csection_Stool
+superpathway of menaquinol-7 biosynthesis	Csection	T1D	Stool	23	T1D_Csection_Stool
+superpathway of N-acetylneuraminate degradation	Csection	T1D	Stool	23	T1D_Csection_Stool
+superpathway of phylloquinol biosynthesis	Csection	T1D	Stool	23	T1D_Csection_Stool
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	Csection	T1D	Stool	23	T1D_Csection_Stool
+superpathway of sulfate assimilation and cysteine biosynthesis	Csection	T1D	Stool	23	T1D_Csection_Stool
+TCA cycle IV (2-oxoglutarate decarboxylase)	Csection	T1D	Stool	23	T1D_Csection_Stool
+TCA cycle VIII (helicobacter)	Csection	T1D	Stool	23	T1D_Csection_Stool
+acetyl-CoA fermentation to butanoate II	Csection	T1D	Ear	22	T1D_Csection_Ear
+"arginine, ornithine and proline interconversion"	Csection	T1D	Stool	22	T1D_Csection_Stool
+"superpathway of histidine, purine, and pyrimidine biosynthesis"	Csection	T1D	Stool	22	T1D_Csection_Stool
+4-deoxy-L-threo-hex-4-enopyranuronate degradation	Csection	T1D	Stool	22	T1D_Csection_Stool
+anhydromuropeptides recycling	Csection	T1D	Stool	22	T1D_Csection_Stool
+CMP-3-deoxy-D-manno-octulosonate biosynthesis I	Csection	T1D	Stool	22	T1D_Csection_Stool
+colanic acid building blocks biosynthesis	Csection	T1D	Stool	22	T1D_Csection_Stool
+D-fructuronate degradation	Csection	T1D	Stool	22	T1D_Csection_Stool
+D-galacturonate degradation I	Csection	T1D	Stool	22	T1D_Csection_Stool
+dTDP-N-acetylthomosamine biosynthesis	Csection	T1D	Stool	22	T1D_Csection_Stool
+enterobactin biosynthesis	Csection	T1D	Stool	22	T1D_Csection_Stool
+fatty acid &beta;-oxidation I	Csection	T1D	Stool	22	T1D_Csection_Stool
+Kdo transfer to lipid IVA III (Chlamydia)	Csection	T1D	Stool	22	T1D_Csection_Stool
+L-rhamnose degradation I	Csection	T1D	Stool	22	T1D_Csection_Stool
+lipid IVA biosynthesis	Csection	T1D	Stool	22	T1D_Csection_Stool
+peptidoglycan biosynthesis II (staphylococci)	Csection	T1D	Stool	22	T1D_Csection_Stool
+pyrimidine deoxyribonucleotides de novo biosynthesis III	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of &beta;-D-glucuronide and D-glucuronate degradation	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of arginine and polyamine biosynthesis	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of demethylmenaquinol-6 biosynthesis I	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of demethylmenaquinol-8 biosynthesis	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of demethylmenaquinol-9 biosynthesis	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of glucose and xylose degradation	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of heme biosynthesis from uroporphyrinogen-III	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of hexuronide and hexuronate degradation	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of L-methionine biosynthesis (by sulfhydrylation)	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of L-phenylalanine biosynthesis	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of L-tyrosine biosynthesis	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of menaquinol-10 biosynthesis	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of menaquinol-6 biosynthesis I	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of menaquinol-8 biosynthesis I	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of menaquinol-9 biosynthesis	Csection	T1D	Stool	22	T1D_Csection_Stool
+superpathway of polyamine biosynthesis I	Csection	T1D	Stool	22	T1D_Csection_Stool
+teichoic acid (poly-glycerol) biosynthesis	Csection	T1D	Stool	22	T1D_Csection_Stool
+"superpathway of (R,R)-butanediol biosynthesis"	Csection	T1D	Stool	21	T1D_Csection_Stool
+"superpathway of 2,3-butanediol biosynthesis"	Csection	T1D	Stool	21	T1D_Csection_Stool
+"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"	Csection	T1D	Stool	21	T1D_Csection_Stool
+2-methylcitrate cycle I	Csection	T1D	Stool	21	T1D_Csection_Stool
+2-methylcitrate cycle II	Csection	T1D	Stool	21	T1D_Csection_Stool
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	Csection	T1D	Stool	21	T1D_Csection_Stool
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate	Csection	T1D	Stool	21	T1D_Csection_Stool
+4-aminobutanoate degradation V	Csection	T1D	Stool	21	T1D_Csection_Stool
+8-amino-7-oxononanoate biosynthesis I	Csection	T1D	Stool	21	T1D_Csection_Stool
+ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	Csection	T1D	Stool	21	T1D_Csection_Stool
+allantoin degradation IV (anaerobic)	Csection	T1D	Stool	21	T1D_Csection_Stool
+allantoin degradation to glyoxylate III	Csection	T1D	Stool	21	T1D_Csection_Stool
+biotin biosynthesis I	Csection	T1D	Stool	21	T1D_Csection_Stool
+cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate	Csection	T1D	Stool	21	T1D_Csection_Stool
+D-galactarate degradation I	Csection	T1D	Stool	21	T1D_Csection_Stool
+D-glucarate degradation I	Csection	T1D	Stool	21	T1D_Csection_Stool
+enterobacterial common antigen biosynthesis	Csection	T1D	Stool	21	T1D_Csection_Stool
+formaldehyde assimilation II (RuMP Cycle)	Csection	T1D	Stool	21	T1D_Csection_Stool
+formaldehyde oxidation I	Csection	T1D	Stool	21	T1D_Csection_Stool
+fucose degradation	Csection	T1D	Stool	21	T1D_Csection_Stool
+glucose and glucose-1-phosphate degradation	Csection	T1D	Stool	21	T1D_Csection_Stool
+ketogluconate metabolism	Csection	T1D	Stool	21	T1D_Csection_Stool
+L-arginine degradation II (AST pathway)	Csection	T1D	Stool	21	T1D_Csection_Stool
+L-histidine degradation I	Csection	T1D	Stool	21	T1D_Csection_Stool
+methylphosphonate degradation I	Csection	T1D	Stool	21	T1D_Csection_Stool
+NAD salvage pathway II	Csection	T1D	Stool	21	T1D_Csection_Stool
+oleate biosynthesis IV (anaerobic)	Csection	T1D	Stool	21	T1D_Csection_Stool
+palmitate biosynthesis II (bacteria and plants)	Csection	T1D	Stool	21	T1D_Csection_Stool
+palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	Csection	T1D	Stool	21	T1D_Csection_Stool
+phenylacetate degradation I (aerobic)	Csection	T1D	Stool	21	T1D_Csection_Stool
+polymyxin resistance	Csection	T1D	Stool	21	T1D_Csection_Stool
+ppGpp biosynthesis	Csection	T1D	Stool	21	T1D_Csection_Stool
+purine nucleobases degradation I (anaerobic)	Csection	T1D	Stool	21	T1D_Csection_Stool
+pyridoxal 5'-phosphate biosynthesis I	Csection	T1D	Stool	21	T1D_Csection_Stool
+reductive TCA cycle I	Csection	T1D	Stool	21	T1D_Csection_Stool
+stearate biosynthesis II (bacteria and plants)	Csection	T1D	Stool	21	T1D_Csection_Stool
+sulfoglycolysis	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of (Kdo)2-lipid A biosynthesis	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of chorismate metabolism	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of D-glucarate and D-galactarate degradation	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of fatty acid biosynthesis initiation (E. coli)	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of fucose and rhamnose degradation	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of glycol metabolism and degradation	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of heme biosynthesis from glycine	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of L-arginine and L-ornithine degradation	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of L-tryptophan biosynthesis	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of methylglyoxal degradation	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of ornithine degradation	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of phenylethylamine degradation	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of sulfur oxidation (Acidianus ambivalens)	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of ubiquinol-8 biosynthesis (prokaryotic)	Csection	T1D	Stool	21	T1D_Csection_Stool
+superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis	Csection	T1D	Stool	21	T1D_Csection_Stool
+tRNA processing	Csection	T1D	Stool	21	T1D_Csection_Stool
+ubiquinol-10 biosynthesis (prokaryotic)	Csection	T1D	Stool	21	T1D_Csection_Stool
+ubiquinol-7 biosynthesis (prokaryotic)	Csection	T1D	Stool	21	T1D_Csection_Stool
+ubiquinol-8 biosynthesis (prokaryotic)	Csection	T1D	Stool	21	T1D_Csection_Stool
+ubiquinol-9 biosynthesis (prokaryotic)	Csection	T1D	Stool	21	T1D_Csection_Stool
+urea cycle	Csection	T1D	Stool	21	T1D_Csection_Stool
+"1,4-dihydroxy-2-naphthoate biosynthesis I"	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+"arginine, ornithine and proline interconversion"	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+"hexitol fermentation to lactate, formate, ethanol and acetate"	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+"superpathway of (R,R)-butanediol biosynthesis"	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+"superpathway of 2,3-butanediol biosynthesis"	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+"superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation"	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+(5Z)-dodec-5-enoate biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+4-deoxy-L-threo-hex-4-enopyranuronate degradation	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+5-aminoimidazole ribonucleotide biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+5-aminoimidazole ribonucleotide biosynthesis II	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+8-amino-7-oxononanoate biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+acetylene degradation	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+adenine and adenosine salvage III	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+adenosine deoxyribonucleotides de novo biosynthesis II	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+adenosine ribonucleotides de novo biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+anhydromuropeptides recycling	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+aspartate superpathway	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+Bifidobacterium shunt	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+biotin biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+Calvin-Benson-Bassham cycle	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+CDP-diacylglycerol biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+CDP-diacylglycerol biosynthesis II	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+chorismate biosynthesis from 3-dehydroquinate	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+chorismate biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+cis-vaccenate biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+CMP-3-deoxy-D-manno-octulosonate biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+coenzyme A biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+D-fructuronate degradation	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+dTDP-L-rhamnose biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+fatty acid elongation -- saturated	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+flavin biosynthesis I (bacteria and plants)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+formaldehyde assimilation II (RuMP Cycle)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+formaldehyde oxidation I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+galactose degradation I (Leloir pathway)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+GDP-mannose biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+gluconeogenesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+glucose and glucose-1-phosphate degradation	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+glycolysis I (from glucose 6-phosphate)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+glycolysis II (from fructose 6-phosphate)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+glycolysis III (from glucose)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+glyoxylate cycle	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+gondoate biosynthesis (anaerobic)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+guanosine deoxyribonucleotides de novo biosynthesis II	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+guanosine nucleotides degradation III	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+guanosine ribonucleotides de novo biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+heme biosynthesis I (aerobic)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+heme biosynthesis II (anaerobic)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+heterolactic fermentation	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+homolactic fermentation	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+incomplete reductive TCA cycle	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+inosine-5'-phosphate biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+inosine-5'-phosphate biosynthesis III	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+Kdo transfer to lipid IVA III (Chlamydia)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-arginine biosynthesis I (via L-ornithine)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-arginine biosynthesis II (acetyl cycle)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-arginine biosynthesis III (via N-acetyl-L-citrulline)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-arginine biosynthesis IV (archaebacteria)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-histidine biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-histidine degradation I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-isoleucine biosynthesis I (from threonine)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-isoleucine biosynthesis II	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-isoleucine biosynthesis III	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-isoleucine biosynthesis IV	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-lysine biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-lysine biosynthesis II	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-lysine biosynthesis III	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-lysine biosynthesis VI	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-methionine biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-methionine biosynthesis III	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-ornithine biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-tryptophan biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+L-valine biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+lactose and galactose degradation I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+lipid IVA biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+methylerythritol phosphate pathway I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+methylerythritol phosphate pathway II	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+mevalonate pathway I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+mixed acid fermentation	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+N10-formyl-tetrahydrofolate biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+NAD biosynthesis I (from aspartate)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+NAD salvage pathway I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+O-antigen building blocks biosynthesis (E. coli)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+oleate biosynthesis IV (anaerobic)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+palmitate biosynthesis II (bacteria and plants)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+pantothenate and coenzyme A biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+pentose phosphate pathway	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+pentose phosphate pathway (non-oxidative branch)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+peptidoglycan biosynthesis I (meso-diaminopimelate containing)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+peptidoglycan biosynthesis II (staphylococci)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+peptidoglycan biosynthesis III (mycobacteria)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+peptidoglycan biosynthesis IV (Enterococcus faecium)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+peptidoglycan biosynthesis V (&beta;-lactam resistance)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+peptidoglycan maturation (meso-diaminopimelate containing)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+phosphatidylglycerol biosynthesis I (plastidic)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+phosphatidylglycerol biosynthesis II (non-plastidic)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+phosphopantothenate biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+polyisoprenoid biosynthesis (E. coli)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+preQ0 biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+purine nucleobases degradation I (anaerobic)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+purine ribonucleosides degradation	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+pyrimidine deoxyribonucleosides salvage	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+pyrimidine deoxyribonucleotide phosphorylation	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+pyrimidine deoxyribonucleotides de novo biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+pyrimidine deoxyribonucleotides de novo biosynthesis II	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+pyruvate fermentation to acetate and lactate II	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+pyruvate fermentation to isobutanol (engineered)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+queuosine biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+S-adenosyl-L-methionine cycle I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+stearate biosynthesis II (bacteria and plants)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+sucrose degradation III (sucrose invertase)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+sucrose degradation IV (sucrose phosphorylase)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+sulfate reduction I (assimilatory)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathay of heme biosynthesis from glutamate	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of adenosine nucleotides de novo biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of adenosine nucleotides de novo biosynthesis II	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of arginine and polyamine biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of aromatic amino acid biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of branched amino acid biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of demethylmenaquinol-8 biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of fatty acid biosynthesis initiation (E. coli)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of glucose and xylose degradation	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of glycolysis and Entner-Doudoroff	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of glyoxylate bypass and TCA	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of guanosine nucleotides de novo biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of guanosine nucleotides de novo biosynthesis II	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of heme biosynthesis from uroporphyrinogen-III	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of hexitol degradation (bacteria)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of L-alanine biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of L-aspartate and L-asparagine biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of L-isoleucine biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of L-methionine biosynthesis (transsulfuration)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of L-phenylalanine biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of L-serine and glycine biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of L-threonine biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of L-tyrosine biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of menaquinol-11 biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of menaquinol-12 biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of menaquinol-13 biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of menaquinol-7 biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of menaquinol-8 biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of N-acetylneuraminate degradation	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of phospholipid biosynthesis I (bacteria)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of phylloquinol biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of polyamine biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of purine deoxyribonucleosides degradation	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of purine nucleotides de novo biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of purine nucleotides de novo biosynthesis II	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of pyrimidine deoxyribonucleoside salvage	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of pyrimidine deoxyribonucleosides degradation	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of pyrimidine nucleobases salvage	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of pyrimidine ribonucleosides salvage	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of S-adenosyl-L-methionine biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of sulfate assimilation and cysteine biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of sulfur oxidation (Acidianus ambivalens)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of tetrahydrofolate biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of tetrahydrofolate biosynthesis and salvage	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of thiamin diphosphate biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of thiamin diphosphate biosynthesis II	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of ubiquinol-8 biosynthesis (prokaryotic)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+taxadiene biosynthesis (engineered)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+TCA cycle I (prokaryotic)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+TCA cycle IV (2-oxoglutarate decarboxylase)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+TCA cycle VI (obligate autotrophs)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+TCA cycle VII (acetate-producers)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+TCA cycle VIII (helicobacter)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+teichoic acid (poly-glycerol) biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+tetrapyrrole biosynthesis I (from glutamate)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+tetrapyrrole biosynthesis II (from glycine)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+thiamin salvage II	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+thiazole biosynthesis I (E. coli)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+thiazole biosynthesis II (Bacillus)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+tRNA charging	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+ubiquinol-10 biosynthesis (prokaryotic)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+ubiquinol-7 biosynthesis (prokaryotic)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+ubiquinol-8 biosynthesis (prokaryotic)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+ubiquinol-9 biosynthesis (prokaryotic)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+UDP-N-acetyl-D-glucosamine biosynthesis I	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+UMP biosynthesis	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+urate biosynthesis/inosine 5'-phosphate degradation	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+urea cycle	Vaginal	Control	Ear	20	Control_Vaginal_Ear
+aerobic respiration I (cytochrome c)	Csection	T1D	Ear	20	T1D_Csection_Ear
+glutaryl-CoA degradation	Csection	T1D	Ear	20	T1D_Csection_Ear
+nitrate reduction VI (assimilatory)	Csection	T1D	Ear	20	T1D_Csection_Ear
+"adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I"	Csection	T1D	Stool	20	T1D_Csection_Stool
+adenosylcobalamin salvage from cobinamide II	Csection	T1D	Stool	20	T1D_Csection_Stool
+catechol degradation I (meta-cleavage pathway)	Csection	T1D	Stool	20	T1D_Csection_Stool
+toluene degradation I (aerobic) (via o-cresol)	Csection	T1D	Stool	20	T1D_Csection_Stool
+toluene degradation II (aerobic) (via 4-methylcatechol)	Csection	T1D	Stool	20	T1D_Csection_Stool
+"1,4-dihydroxy-2-naphthoate biosynthesis I"	Csection	Control	Ear	19	Control_Csection_Ear
+"arginine, ornithine and proline interconversion"	Csection	Control	Ear	19	Control_Csection_Ear
+"hexitol fermentation to lactate, formate, ethanol and acetate"	Csection	Control	Ear	19	Control_Csection_Ear
+"superpathway of (R,R)-butanediol biosynthesis"	Csection	Control	Ear	19	Control_Csection_Ear
+"superpathway of 2,3-butanediol biosynthesis"	Csection	Control	Ear	19	Control_Csection_Ear
+"superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation"	Csection	Control	Ear	19	Control_Csection_Ear
+5-aminoimidazole ribonucleotide biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+5-aminoimidazole ribonucleotide biosynthesis II	Csection	Control	Ear	19	Control_Csection_Ear
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)	Csection	Control	Ear	19	Control_Csection_Ear
+acetylene degradation	Csection	Control	Ear	19	Control_Csection_Ear
+adenine and adenosine salvage III	Csection	Control	Ear	19	Control_Csection_Ear
+adenosine deoxyribonucleotides de novo biosynthesis II	Csection	Control	Ear	19	Control_Csection_Ear
+adenosine ribonucleotides de novo biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+Bifidobacterium shunt	Csection	Control	Ear	19	Control_Csection_Ear
+Calvin-Benson-Bassham cycle	Csection	Control	Ear	19	Control_Csection_Ear
+CDP-diacylglycerol biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+CDP-diacylglycerol biosynthesis II	Csection	Control	Ear	19	Control_Csection_Ear
+chorismate biosynthesis from 3-dehydroquinate	Csection	Control	Ear	19	Control_Csection_Ear
+chorismate biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+cis-vaccenate biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+coenzyme A biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+dTDP-L-rhamnose biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+fatty acid elongation -- saturated	Csection	Control	Ear	19	Control_Csection_Ear
+flavin biosynthesis I (bacteria and plants)	Csection	Control	Ear	19	Control_Csection_Ear
+formaldehyde assimilation II (RuMP Cycle)	Csection	Control	Ear	19	Control_Csection_Ear
+formaldehyde oxidation I	Csection	Control	Ear	19	Control_Csection_Ear
+galactose degradation I (Leloir pathway)	Csection	Control	Ear	19	Control_Csection_Ear
+GDP-mannose biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+gluconeogenesis I	Csection	Control	Ear	19	Control_Csection_Ear
+glycogen biosynthesis I (from ADP-D-Glucose)	Csection	Control	Ear	19	Control_Csection_Ear
+glycogen degradation I (bacterial)	Csection	Control	Ear	19	Control_Csection_Ear
+glycolysis I (from glucose 6-phosphate)	Csection	Control	Ear	19	Control_Csection_Ear
+glycolysis II (from fructose 6-phosphate)	Csection	Control	Ear	19	Control_Csection_Ear
+glycolysis III (from glucose)	Csection	Control	Ear	19	Control_Csection_Ear
+gondoate biosynthesis (anaerobic)	Csection	Control	Ear	19	Control_Csection_Ear
+guanosine deoxyribonucleotides de novo biosynthesis II	Csection	Control	Ear	19	Control_Csection_Ear
+guanosine ribonucleotides de novo biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+heme biosynthesis I (aerobic)	Csection	Control	Ear	19	Control_Csection_Ear
+heme biosynthesis II (anaerobic)	Csection	Control	Ear	19	Control_Csection_Ear
+heterolactic fermentation	Csection	Control	Ear	19	Control_Csection_Ear
+homolactic fermentation	Csection	Control	Ear	19	Control_Csection_Ear
+incomplete reductive TCA cycle	Csection	Control	Ear	19	Control_Csection_Ear
+inosine-5'-phosphate biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+inosine-5'-phosphate biosynthesis III	Csection	Control	Ear	19	Control_Csection_Ear
+L-arginine biosynthesis I (via L-ornithine)	Csection	Control	Ear	19	Control_Csection_Ear
+L-arginine biosynthesis II (acetyl cycle)	Csection	Control	Ear	19	Control_Csection_Ear
+L-histidine biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+L-histidine degradation I	Csection	Control	Ear	19	Control_Csection_Ear
+L-isoleucine biosynthesis I (from threonine)	Csection	Control	Ear	19	Control_Csection_Ear
+L-isoleucine biosynthesis II	Csection	Control	Ear	19	Control_Csection_Ear
+L-isoleucine biosynthesis III	Csection	Control	Ear	19	Control_Csection_Ear
+L-isoleucine biosynthesis IV	Csection	Control	Ear	19	Control_Csection_Ear
+L-lysine biosynthesis II	Csection	Control	Ear	19	Control_Csection_Ear
+L-lysine biosynthesis III	Csection	Control	Ear	19	Control_Csection_Ear
+L-lysine biosynthesis VI	Csection	Control	Ear	19	Control_Csection_Ear
+L-methionine biosynthesis III	Csection	Control	Ear	19	Control_Csection_Ear
+L-ornithine biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+L-tryptophan biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+L-valine biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+lactose and galactose degradation I	Csection	Control	Ear	19	Control_Csection_Ear
+methylerythritol phosphate pathway I	Csection	Control	Ear	19	Control_Csection_Ear
+methylerythritol phosphate pathway II	Csection	Control	Ear	19	Control_Csection_Ear
+mevalonate pathway I	Csection	Control	Ear	19	Control_Csection_Ear
+mixed acid fermentation	Csection	Control	Ear	19	Control_Csection_Ear
+O-antigen building blocks biosynthesis (E. coli)	Csection	Control	Ear	19	Control_Csection_Ear
+pantothenate and coenzyme A biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+pentose phosphate pathway	Csection	Control	Ear	19	Control_Csection_Ear
+pentose phosphate pathway (non-oxidative branch)	Csection	Control	Ear	19	Control_Csection_Ear
+peptidoglycan biosynthesis I (meso-diaminopimelate containing)	Csection	Control	Ear	19	Control_Csection_Ear
+peptidoglycan biosynthesis II (staphylococci)	Csection	Control	Ear	19	Control_Csection_Ear
+peptidoglycan biosynthesis III (mycobacteria)	Csection	Control	Ear	19	Control_Csection_Ear
+peptidoglycan biosynthesis IV (Enterococcus faecium)	Csection	Control	Ear	19	Control_Csection_Ear
+peptidoglycan biosynthesis V (&beta;-lactam resistance)	Csection	Control	Ear	19	Control_Csection_Ear
+peptidoglycan maturation (meso-diaminopimelate containing)	Csection	Control	Ear	19	Control_Csection_Ear
+phosphatidylglycerol biosynthesis I (plastidic)	Csection	Control	Ear	19	Control_Csection_Ear
+phosphatidylglycerol biosynthesis II (non-plastidic)	Csection	Control	Ear	19	Control_Csection_Ear
+phosphopantothenate biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+polyisoprenoid biosynthesis (E. coli)	Csection	Control	Ear	19	Control_Csection_Ear
+preQ0 biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+purine ribonucleosides degradation	Csection	Control	Ear	19	Control_Csection_Ear
+pyrimidine deoxyribonucleosides salvage	Csection	Control	Ear	19	Control_Csection_Ear
+pyrimidine deoxyribonucleotide phosphorylation	Csection	Control	Ear	19	Control_Csection_Ear
+pyrimidine deoxyribonucleotides de novo biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+pyrimidine deoxyribonucleotides de novo biosynthesis II	Csection	Control	Ear	19	Control_Csection_Ear
+pyrimidine deoxyribonucleotides de novo biosynthesis III	Csection	Control	Ear	19	Control_Csection_Ear
+pyruvate fermentation to acetate and lactate II	Csection	Control	Ear	19	Control_Csection_Ear
+pyruvate fermentation to isobutanol (engineered)	Csection	Control	Ear	19	Control_Csection_Ear
+queuosine biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+reductive TCA cycle I	Csection	Control	Ear	19	Control_Csection_Ear
+S-adenosyl-L-methionine cycle I	Csection	Control	Ear	19	Control_Csection_Ear
+starch degradation V	Csection	Control	Ear	19	Control_Csection_Ear
+sucrose degradation III (sucrose invertase)	Csection	Control	Ear	19	Control_Csection_Ear
+sulfate reduction I (assimilatory)	Csection	Control	Ear	19	Control_Csection_Ear
+superpathay of heme biosynthesis from glutamate	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of adenosine nucleotides de novo biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of adenosine nucleotides de novo biosynthesis II	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of aromatic amino acid biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of branched amino acid biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of glycolysis and Entner-Doudoroff	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of guanosine nucleotides de novo biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of guanosine nucleotides de novo biosynthesis II	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of hexitol degradation (bacteria)	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of L-alanine biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of L-aspartate and L-asparagine biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of L-isoleucine biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of L-methionine biosynthesis (by sulfhydrylation)	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of L-serine and glycine biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of L-threonine biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of menaquinol-11 biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of menaquinol-12 biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of menaquinol-13 biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of menaquinol-7 biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of N-acetylneuraminate degradation	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of phospholipid biosynthesis I (bacteria)	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of phylloquinol biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of purine deoxyribonucleosides degradation	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of purine nucleotides de novo biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of purine nucleotides de novo biosynthesis II	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of pyrimidine deoxyribonucleoside salvage	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of pyrimidine deoxyribonucleosides degradation	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of pyrimidine nucleobases salvage	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of pyrimidine ribonucleosides salvage	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of sulfate assimilation and cysteine biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of sulfur oxidation (Acidianus ambivalens)	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of tetrahydrofolate biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+superpathway of tetrahydrofolate biosynthesis and salvage	Csection	Control	Ear	19	Control_Csection_Ear
+taxadiene biosynthesis (engineered)	Csection	Control	Ear	19	Control_Csection_Ear
+TCA cycle I (prokaryotic)	Csection	Control	Ear	19	Control_Csection_Ear
+TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)	Csection	Control	Ear	19	Control_Csection_Ear
+TCA cycle VI (obligate autotrophs)	Csection	Control	Ear	19	Control_Csection_Ear
+TCA cycle VII (acetate-producers)	Csection	Control	Ear	19	Control_Csection_Ear
+TCA cycle VIII (helicobacter)	Csection	Control	Ear	19	Control_Csection_Ear
+teichoic acid (poly-glycerol) biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+tetrapyrrole biosynthesis I (from glutamate)	Csection	Control	Ear	19	Control_Csection_Ear
+tetrapyrrole biosynthesis II (from glycine)	Csection	Control	Ear	19	Control_Csection_Ear
+thiamin salvage II	Csection	Control	Ear	19	Control_Csection_Ear
+thiazole biosynthesis I (E. coli)	Csection	Control	Ear	19	Control_Csection_Ear
+thiazole biosynthesis II (Bacillus)	Csection	Control	Ear	19	Control_Csection_Ear
+tRNA charging	Csection	Control	Ear	19	Control_Csection_Ear
+UDP-N-acetyl-D-glucosamine biosynthesis I	Csection	Control	Ear	19	Control_Csection_Ear
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	Csection	Control	Ear	19	Control_Csection_Ear
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	Csection	Control	Ear	19	Control_Csection_Ear
+UMP biosynthesis	Csection	Control	Ear	19	Control_Csection_Ear
+urea cycle	Csection	Control	Ear	19	Control_Csection_Ear
+"superpathway of histidine, purine, and pyrimidine biosynthesis"	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+2-methylcitrate cycle I	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+2-methylcitrate cycle II	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+adenosine nucleotides degradation II	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+adenosylcobalamin salvage from cobinamide I	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+aerobic respiration I (cytochrome c)	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+allantoin degradation IV (anaerobic)	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+allantoin degradation to glyoxylate III	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+catechol degradation I (meta-cleavage pathway)	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+colanic acid building blocks biosynthesis	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+D-galactarate degradation I	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+D-galacturonate degradation I	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+D-glucarate degradation I	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+dTDP-N-acetylthomosamine biosynthesis	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+enterobacterial common antigen biosynthesis	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+enterobactin biosynthesis	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+fatty acid &beta;-oxidation I	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+fucose degradation	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+glycogen biosynthesis I (from ADP-D-Glucose)	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+glycogen degradation I (bacterial)	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+L-arginine degradation II (AST pathway)	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+L-rhamnose degradation I	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+methylphosphonate degradation I	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+NAD salvage pathway II	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+phenylacetate degradation I (aerobic)	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+polymyxin resistance	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+ppGpp biosynthesis	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+purine nucleotides degradation II (aerobic)	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+pyruvate fermentation to acetone	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+reductive TCA cycle I	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+starch degradation V	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of &beta;-D-glucuronide and D-glucuronate degradation	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of D-glucarate and D-galactarate degradation	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of demethylmenaquinol-6 biosynthesis I	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of demethylmenaquinol-9 biosynthesis	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of fucose and rhamnose degradation	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of glycol metabolism and degradation	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of hexuronide and hexuronate degradation	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of L-arginine and L-ornithine degradation	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of L-methionine biosynthesis (by sulfhydrylation)	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of L-tryptophan biosynthesis	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of menaquinol-10 biosynthesis	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of menaquinol-6 biosynthesis I	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of menaquinol-9 biosynthesis	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of methylglyoxal degradation	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of phenylethylamine degradation	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+toluene degradation I (aerobic) (via o-cresol)	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+toluene degradation II (aerobic) (via 4-methylcatechol)	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+tRNA processing	Vaginal	Control	Ear	19	Control_Vaginal_Ear
+L-glutamate degradation V (via hydroxyglutarate)	Csection	T1D	Ear	19	T1D_Csection_Ear
+mycolate biosynthesis	Csection	T1D	Ear	19	T1D_Csection_Ear
+pyruvate fermentation to butanoate	Csection	T1D	Ear	19	T1D_Csection_Ear
+superpathway of Clostridium acetobutylicum acidogenic fermentation	Csection	T1D	Ear	19	T1D_Csection_Ear
+L-glutamate and L-glutamine biosynthesis	Csection	T1D	Stool	19	T1D_Csection_Stool
+"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"	Csection	Control	Ear	18	Control_Csection_Ear
+"superpathway of histidine, purine, and pyrimidine biosynthesis"	Csection	Control	Ear	18	Control_Csection_Ear
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"	Csection	Control	Ear	18	Control_Csection_Ear
+(5Z)-dodec-5-enoate biosynthesis	Csection	Control	Ear	18	Control_Csection_Ear
+4-deoxy-L-threo-hex-4-enopyranuronate degradation	Csection	Control	Ear	18	Control_Csection_Ear
+adenosylcobalamin salvage from cobinamide I	Csection	Control	Ear	18	Control_Csection_Ear
+aspartate superpathway	Csection	Control	Ear	18	Control_Csection_Ear
+CMP-3-deoxy-D-manno-octulosonate biosynthesis I	Csection	Control	Ear	18	Control_Csection_Ear
+colanic acid building blocks biosynthesis	Csection	Control	Ear	18	Control_Csection_Ear
+D-fructuronate degradation	Csection	Control	Ear	18	Control_Csection_Ear
+glucose and glucose-1-phosphate degradation	Csection	Control	Ear	18	Control_Csection_Ear
+glyoxylate cycle	Csection	Control	Ear	18	Control_Csection_Ear
+guanosine nucleotides degradation III	Csection	Control	Ear	18	Control_Csection_Ear
+Kdo transfer to lipid IVA III (Chlamydia)	Csection	Control	Ear	18	Control_Csection_Ear
+L-arginine biosynthesis III (via N-acetyl-L-citrulline)	Csection	Control	Ear	18	Control_Csection_Ear
+L-arginine biosynthesis IV (archaebacteria)	Csection	Control	Ear	18	Control_Csection_Ear
+L-lysine biosynthesis I	Csection	Control	Ear	18	Control_Csection_Ear
+L-methionine biosynthesis I	Csection	Control	Ear	18	Control_Csection_Ear
+lipid IVA biosynthesis	Csection	Control	Ear	18	Control_Csection_Ear
+N10-formyl-tetrahydrofolate biosynthesis	Csection	Control	Ear	18	Control_Csection_Ear
+NAD biosynthesis I (from aspartate)	Csection	Control	Ear	18	Control_Csection_Ear
+NAD salvage pathway I	Csection	Control	Ear	18	Control_Csection_Ear
+purine nucleobases degradation I (anaerobic)	Csection	Control	Ear	18	Control_Csection_Ear
+sucrose degradation IV (sucrose phosphorylase)	Csection	Control	Ear	18	Control_Csection_Ear
+superpathway of &beta;-D-glucuronide and D-glucuronate degradation	Csection	Control	Ear	18	Control_Csection_Ear
+superpathway of arginine and polyamine biosynthesis	Csection	Control	Ear	18	Control_Csection_Ear
+superpathway of demethylmenaquinol-8 biosynthesis	Csection	Control	Ear	18	Control_Csection_Ear
+superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis	Csection	Control	Ear	18	Control_Csection_Ear
+superpathway of glucose and xylose degradation	Csection	Control	Ear	18	Control_Csection_Ear
+superpathway of glyoxylate bypass and TCA	Csection	Control	Ear	18	Control_Csection_Ear
+superpathway of L-methionine biosynthesis (transsulfuration)	Csection	Control	Ear	18	Control_Csection_Ear
+superpathway of menaquinol-8 biosynthesis I	Csection	Control	Ear	18	Control_Csection_Ear
+superpathway of polyamine biosynthesis I	Csection	Control	Ear	18	Control_Csection_Ear
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	Csection	Control	Ear	18	Control_Csection_Ear
+superpathway of S-adenosyl-L-methionine biosynthesis	Csection	Control	Ear	18	Control_Csection_Ear
+superpathway of thiamin diphosphate biosynthesis I	Csection	Control	Ear	18	Control_Csection_Ear
+superpathway of thiamin diphosphate biosynthesis II	Csection	Control	Ear	18	Control_Csection_Ear
+superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis	Csection	Control	Ear	18	Control_Csection_Ear
+TCA cycle IV (2-oxoglutarate decarboxylase)	Csection	Control	Ear	18	Control_Csection_Ear
+urate biosynthesis/inosine 5'-phosphate degradation	Csection	Control	Ear	18	Control_Csection_Ear
+"adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I"	Vaginal	Control	Ear	18	Control_Vaginal_Ear
+adenosylcobalamin salvage from cobinamide II	Vaginal	Control	Ear	18	Control_Vaginal_Ear
+ketogluconate metabolism	Vaginal	Control	Ear	18	Control_Vaginal_Ear
+pyridoxal 5'-phosphate biosynthesis I	Vaginal	Control	Ear	18	Control_Vaginal_Ear
+pyrimidine deoxyribonucleotides de novo biosynthesis III	Vaginal	Control	Ear	18	Control_Vaginal_Ear
+sulfoglycolysis	Vaginal	Control	Ear	18	Control_Vaginal_Ear
+superpathway of (Kdo)2-lipid A biosynthesis	Vaginal	Control	Ear	18	Control_Vaginal_Ear
+superpathway of chorismate metabolism	Vaginal	Control	Ear	18	Control_Vaginal_Ear
+superpathway of heme biosynthesis from glycine	Vaginal	Control	Ear	18	Control_Vaginal_Ear
+superpathway of ornithine degradation	Vaginal	Control	Ear	18	Control_Vaginal_Ear
+superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	Vaginal	Control	Ear	18	Control_Vaginal_Ear
+acetyl-CoA fermentation to butanoate II	Csection	T1D	Stool	18	T1D_Csection_Stool
+aerobic respiration I (cytochrome c)	Csection	T1D	Stool	18	T1D_Csection_Stool
+"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"	Csection	Control	Ear	17	Control_Csection_Ear
+2-methylcitrate cycle I	Csection	Control	Ear	17	Control_Csection_Ear
+2-methylcitrate cycle II	Csection	Control	Ear	17	Control_Csection_Ear
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	Csection	Control	Ear	17	Control_Csection_Ear
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate	Csection	Control	Ear	17	Control_Csection_Ear
+4-aminobutanoate degradation V	Csection	Control	Ear	17	Control_Csection_Ear
+8-amino-7-oxononanoate biosynthesis I	Csection	Control	Ear	17	Control_Csection_Ear
+acetyl-CoA fermentation to butanoate II	Csection	Control	Ear	17	Control_Csection_Ear
+adenosine nucleotides degradation II	Csection	Control	Ear	17	Control_Csection_Ear
+ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	Csection	Control	Ear	17	Control_Csection_Ear
+aerobic respiration I (cytochrome c)	Csection	Control	Ear	17	Control_Csection_Ear
+allantoin degradation IV (anaerobic)	Csection	Control	Ear	17	Control_Csection_Ear
+allantoin degradation to glyoxylate III	Csection	Control	Ear	17	Control_Csection_Ear
+anhydromuropeptides recycling	Csection	Control	Ear	17	Control_Csection_Ear
+biotin biosynthesis I	Csection	Control	Ear	17	Control_Csection_Ear
+catechol degradation I (meta-cleavage pathway)	Csection	Control	Ear	17	Control_Csection_Ear
+cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate	Csection	Control	Ear	17	Control_Csection_Ear
+D-galactarate degradation I	Csection	Control	Ear	17	Control_Csection_Ear
+D-galacturonate degradation I	Csection	Control	Ear	17	Control_Csection_Ear
+D-glucarate degradation I	Csection	Control	Ear	17	Control_Csection_Ear
+dTDP-N-acetylthomosamine biosynthesis	Csection	Control	Ear	17	Control_Csection_Ear
+enterobacterial common antigen biosynthesis	Csection	Control	Ear	17	Control_Csection_Ear
+enterobactin biosynthesis	Csection	Control	Ear	17	Control_Csection_Ear
+fatty acid &beta;-oxidation I	Csection	Control	Ear	17	Control_Csection_Ear
+fucose degradation	Csection	Control	Ear	17	Control_Csection_Ear
+glutaryl-CoA degradation	Csection	Control	Ear	17	Control_Csection_Ear
+ketogluconate metabolism	Csection	Control	Ear	17	Control_Csection_Ear
+L-arginine degradation II (AST pathway)	Csection	Control	Ear	17	Control_Csection_Ear
+L-rhamnose degradation I	Csection	Control	Ear	17	Control_Csection_Ear
+methylphosphonate degradation I	Csection	Control	Ear	17	Control_Csection_Ear
+NAD salvage pathway II	Csection	Control	Ear	17	Control_Csection_Ear
+oleate biosynthesis IV (anaerobic)	Csection	Control	Ear	17	Control_Csection_Ear
+palmitate biosynthesis II (bacteria and plants)	Csection	Control	Ear	17	Control_Csection_Ear
+palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	Csection	Control	Ear	17	Control_Csection_Ear
+phenylacetate degradation I (aerobic)	Csection	Control	Ear	17	Control_Csection_Ear
+polymyxin resistance	Csection	Control	Ear	17	Control_Csection_Ear
+ppGpp biosynthesis	Csection	Control	Ear	17	Control_Csection_Ear
+purine nucleotides degradation II (aerobic)	Csection	Control	Ear	17	Control_Csection_Ear
+pyridoxal 5'-phosphate biosynthesis I	Csection	Control	Ear	17	Control_Csection_Ear
+pyruvate fermentation to acetone	Csection	Control	Ear	17	Control_Csection_Ear
+pyruvate fermentation to butanoate	Csection	Control	Ear	17	Control_Csection_Ear
+stearate biosynthesis II (bacteria and plants)	Csection	Control	Ear	17	Control_Csection_Ear
+sulfoglycolysis	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of (Kdo)2-lipid A biosynthesis	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of chorismate metabolism	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of Clostridium acetobutylicum acidogenic fermentation	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of D-glucarate and D-galactarate degradation	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of demethylmenaquinol-6 biosynthesis I	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of demethylmenaquinol-9 biosynthesis	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of fatty acid biosynthesis initiation (E. coli)	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of fucose and rhamnose degradation	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of glycol metabolism and degradation	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of heme biosynthesis from glycine	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of heme biosynthesis from uroporphyrinogen-III	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of hexuronide and hexuronate degradation	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of L-arginine and L-ornithine degradation	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of L-phenylalanine biosynthesis	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of L-tryptophan biosynthesis	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of L-tyrosine biosynthesis	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of menaquinol-10 biosynthesis	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of menaquinol-6 biosynthesis I	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of menaquinol-9 biosynthesis	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of methylglyoxal degradation	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of ornithine degradation	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of phenylethylamine degradation	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	Csection	Control	Ear	17	Control_Csection_Ear
+superpathway of ubiquinol-8 biosynthesis (prokaryotic)	Csection	Control	Ear	17	Control_Csection_Ear
+toluene degradation I (aerobic) (via o-cresol)	Csection	Control	Ear	17	Control_Csection_Ear
+toluene degradation II (aerobic) (via 4-methylcatechol)	Csection	Control	Ear	17	Control_Csection_Ear
+tRNA processing	Csection	Control	Ear	17	Control_Csection_Ear
+ubiquinol-10 biosynthesis (prokaryotic)	Csection	Control	Ear	17	Control_Csection_Ear
+ubiquinol-7 biosynthesis (prokaryotic)	Csection	Control	Ear	17	Control_Csection_Ear
+ubiquinol-8 biosynthesis (prokaryotic)	Csection	Control	Ear	17	Control_Csection_Ear
+ubiquinol-9 biosynthesis (prokaryotic)	Csection	Control	Ear	17	Control_Csection_Ear
+4-aminobutanoate degradation V	Vaginal	Control	Ear	17	Control_Vaginal_Ear
+glycerol degradation to butanol	Vaginal	Control	Ear	17	Control_Vaginal_Ear
+mycolate biosynthesis	Vaginal	Control	Ear	17	Control_Vaginal_Ear
+pyruvate fermentation to propanoate I	Csection	T1D	Ear	17	T1D_Csection_Ear
+"adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I"	Csection	Control	Ear	16	Control_Csection_Ear
+adenosylcobalamin salvage from cobinamide II	Csection	Control	Ear	16	Control_Csection_Ear
+L-glutamate and L-glutamine biosynthesis	Csection	Control	Ear	16	Control_Csection_Ear
+acetyl-CoA fermentation to butanoate II	Vaginal	Control	Ear	16	Control_Vaginal_Ear
+L-glutamate and L-glutamine biosynthesis	Vaginal	Control	Ear	16	Control_Vaginal_Ear
+glycerol degradation to butanol	Csection	T1D	Ear	16	T1D_Csection_Ear
+reductive acetyl coenzyme A pathway	Csection	T1D	Ear	16	T1D_Csection_Ear
+"1,4-dihydroxy-2-naphthoate biosynthesis I"	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+"arginine, ornithine and proline interconversion"	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+"hexitol fermentation to lactate, formate, ethanol and acetate"	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+"superpathway of (R,R)-butanediol biosynthesis"	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+"superpathway of 2,3-butanediol biosynthesis"	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+"superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation"	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+(5Z)-dodec-5-enoate biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+5-aminoimidazole ribonucleotide biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+5-aminoimidazole ribonucleotide biosynthesis II	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+acetylene degradation	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+adenine and adenosine salvage III	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+adenosine deoxyribonucleotides de novo biosynthesis II	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+adenosine ribonucleotides de novo biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+Bifidobacterium shunt	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+Calvin-Benson-Bassham cycle	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+CDP-diacylglycerol biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+CDP-diacylglycerol biosynthesis II	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+chorismate biosynthesis from 3-dehydroquinate	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+chorismate biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+cis-vaccenate biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+coenzyme A biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+dTDP-L-rhamnose biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+fatty acid elongation -- saturated	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+flavin biosynthesis I (bacteria and plants)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+formaldehyde assimilation II (RuMP Cycle)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+formaldehyde oxidation I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+galactose degradation I (Leloir pathway)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+gluconeogenesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+glycogen biosynthesis I (from ADP-D-Glucose)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+glycogen degradation I (bacterial)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+glycolysis I (from glucose 6-phosphate)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+glycolysis II (from fructose 6-phosphate)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+glycolysis III (from glucose)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+gondoate biosynthesis (anaerobic)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+guanosine deoxyribonucleotides de novo biosynthesis II	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+guanosine nucleotides degradation III	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+guanosine ribonucleotides de novo biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+heme biosynthesis I (aerobic)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+heme biosynthesis II (anaerobic)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+heterolactic fermentation	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+homolactic fermentation	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+incomplete reductive TCA cycle	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+inosine-5'-phosphate biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+inosine-5'-phosphate biosynthesis III	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-arginine biosynthesis I (via L-ornithine)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-arginine biosynthesis II (acetyl cycle)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-arginine biosynthesis III (via N-acetyl-L-citrulline)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-arginine biosynthesis IV (archaebacteria)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-histidine biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-histidine degradation I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-isoleucine biosynthesis I (from threonine)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-isoleucine biosynthesis II	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-isoleucine biosynthesis III	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-isoleucine biosynthesis IV	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-lysine biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-lysine biosynthesis II	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-lysine biosynthesis III	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-lysine biosynthesis VI	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-methionine biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-methionine biosynthesis III	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-ornithine biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-tryptophan biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+L-valine biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+lactose and galactose degradation I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+mevalonate pathway I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+mixed acid fermentation	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+O-antigen building blocks biosynthesis (E. coli)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+pantothenate and coenzyme A biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+pentose phosphate pathway	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+pentose phosphate pathway (non-oxidative branch)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+peptidoglycan biosynthesis I (meso-diaminopimelate containing)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+peptidoglycan biosynthesis II (staphylococci)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+peptidoglycan biosynthesis III (mycobacteria)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+peptidoglycan biosynthesis IV (Enterococcus faecium)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+peptidoglycan biosynthesis V (&beta;-lactam resistance)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+peptidoglycan maturation (meso-diaminopimelate containing)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+phosphatidylglycerol biosynthesis I (plastidic)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+phosphatidylglycerol biosynthesis II (non-plastidic)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+phosphopantothenate biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+polyisoprenoid biosynthesis (E. coli)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+preQ0 biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+purine ribonucleosides degradation	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+pyrimidine deoxyribonucleosides salvage	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+pyrimidine deoxyribonucleotide phosphorylation	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+pyrimidine deoxyribonucleotides de novo biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+pyrimidine deoxyribonucleotides de novo biosynthesis II	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+pyruvate fermentation to acetate and lactate II	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+pyruvate fermentation to isobutanol (engineered)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+queuosine biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+reductive TCA cycle I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+S-adenosyl-L-methionine cycle I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+starch degradation V	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+sucrose degradation III (sucrose invertase)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+sucrose degradation IV (sucrose phosphorylase)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+sulfate reduction I (assimilatory)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of adenosine nucleotides de novo biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of adenosine nucleotides de novo biosynthesis II	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of aromatic amino acid biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of branched amino acid biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of glycolysis and Entner-Doudoroff	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of guanosine nucleotides de novo biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of guanosine nucleotides de novo biosynthesis II	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of hexitol degradation (bacteria)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of L-alanine biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of L-isoleucine biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of L-serine and glycine biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of L-threonine biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of menaquinol-11 biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of menaquinol-12 biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of menaquinol-13 biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of menaquinol-7 biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of N-acetylneuraminate degradation	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of phospholipid biosynthesis I (bacteria)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of phylloquinol biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of purine deoxyribonucleosides degradation	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of purine nucleotides de novo biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of purine nucleotides de novo biosynthesis II	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of pyrimidine deoxyribonucleoside salvage	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of pyrimidine deoxyribonucleosides degradation	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of pyrimidine nucleobases salvage	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of pyrimidine ribonucleosides salvage	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of S-adenosyl-L-methionine biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of sulfate assimilation and cysteine biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of sulfur oxidation (Acidianus ambivalens)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of tetrahydrofolate biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+superpathway of tetrahydrofolate biosynthesis and salvage	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+TCA cycle I (prokaryotic)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+TCA cycle VI (obligate autotrophs)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+TCA cycle VII (acetate-producers)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+TCA cycle VIII (helicobacter)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+teichoic acid (poly-glycerol) biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+tetrapyrrole biosynthesis I (from glutamate)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+tetrapyrrole biosynthesis II (from glycine)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+thiamin salvage II	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+thiazole biosynthesis II (Bacillus)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+UDP-N-acetyl-D-glucosamine biosynthesis I	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+UMP biosynthesis	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+urate biosynthesis/inosine 5'-phosphate degradation	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+urea cycle	Vaginal	T1D	Ear	16	T1D_Vaginal_Ear
+"1,4-dihydroxy-2-naphthoate biosynthesis I"	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+"arginine, ornithine and proline interconversion"	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+"hexitol fermentation to lactate, formate, ethanol and acetate"	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+"superpathway of (R,R)-butanediol biosynthesis"	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+"superpathway of 2,3-butanediol biosynthesis"	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+"superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation"	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+(5Z)-dodec-5-enoate biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+4-deoxy-L-threo-hex-4-enopyranuronate degradation	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+5-aminoimidazole ribonucleotide biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+5-aminoimidazole ribonucleotide biosynthesis II	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+8-amino-7-oxononanoate biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+acetylene degradation	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+adenine and adenosine salvage III	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+adenosine deoxyribonucleotides de novo biosynthesis II	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+adenosine ribonucleotides de novo biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+anhydromuropeptides recycling	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+aspartate superpathway	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+Bifidobacterium shunt	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+biotin biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+Calvin-Benson-Bassham cycle	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+CDP-diacylglycerol biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+CDP-diacylglycerol biosynthesis II	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+chorismate biosynthesis from 3-dehydroquinate	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+chorismate biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+cis-vaccenate biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+CMP-3-deoxy-D-manno-octulosonate biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+coenzyme A biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+D-fructuronate degradation	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+dTDP-L-rhamnose biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+fatty acid elongation -- saturated	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+flavin biosynthesis I (bacteria and plants)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+formaldehyde assimilation II (RuMP Cycle)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+formaldehyde oxidation I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+galactose degradation I (Leloir pathway)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+GDP-mannose biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+gluconeogenesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+glucose and glucose-1-phosphate degradation	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+glycolysis I (from glucose 6-phosphate)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+glycolysis II (from fructose 6-phosphate)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+glycolysis III (from glucose)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+glyoxylate cycle	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+gondoate biosynthesis (anaerobic)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+guanosine deoxyribonucleotides de novo biosynthesis II	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+guanosine nucleotides degradation III	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+guanosine ribonucleotides de novo biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+heme biosynthesis I (aerobic)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+heme biosynthesis II (anaerobic)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+heterolactic fermentation	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+homolactic fermentation	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+incomplete reductive TCA cycle	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+inosine-5'-phosphate biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+inosine-5'-phosphate biosynthesis III	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+Kdo transfer to lipid IVA III (Chlamydia)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-arginine biosynthesis I (via L-ornithine)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-arginine biosynthesis II (acetyl cycle)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-arginine biosynthesis III (via N-acetyl-L-citrulline)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-arginine biosynthesis IV (archaebacteria)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-histidine biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-histidine degradation I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-isoleucine biosynthesis I (from threonine)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-isoleucine biosynthesis II	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-isoleucine biosynthesis III	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-isoleucine biosynthesis IV	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-lysine biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-lysine biosynthesis II	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-lysine biosynthesis III	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-lysine biosynthesis VI	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-methionine biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-methionine biosynthesis III	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-ornithine biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-tryptophan biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+L-valine biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+lactose and galactose degradation I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+lipid IVA biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+methylerythritol phosphate pathway I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+methylerythritol phosphate pathway II	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+mevalonate pathway I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+mixed acid fermentation	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+N10-formyl-tetrahydrofolate biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+NAD biosynthesis I (from aspartate)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+NAD salvage pathway I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+O-antigen building blocks biosynthesis (E. coli)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+oleate biosynthesis IV (anaerobic)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+palmitate biosynthesis II (bacteria and plants)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+pantothenate and coenzyme A biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+pentose phosphate pathway	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+pentose phosphate pathway (non-oxidative branch)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+peptidoglycan biosynthesis I (meso-diaminopimelate containing)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+peptidoglycan biosynthesis II (staphylococci)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+peptidoglycan biosynthesis III (mycobacteria)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+peptidoglycan biosynthesis IV (Enterococcus faecium)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+peptidoglycan biosynthesis V (&beta;-lactam resistance)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+peptidoglycan maturation (meso-diaminopimelate containing)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+phosphatidylglycerol biosynthesis I (plastidic)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+phosphatidylglycerol biosynthesis II (non-plastidic)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+phosphopantothenate biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+polyisoprenoid biosynthesis (E. coli)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+preQ0 biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+purine nucleobases degradation I (anaerobic)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+purine ribonucleosides degradation	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+pyrimidine deoxyribonucleosides salvage	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+pyrimidine deoxyribonucleotide phosphorylation	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+pyrimidine deoxyribonucleotides de novo biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+pyrimidine deoxyribonucleotides de novo biosynthesis II	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+pyruvate fermentation to acetate and lactate II	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+pyruvate fermentation to isobutanol (engineered)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+queuosine biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+S-adenosyl-L-methionine cycle I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+stearate biosynthesis II (bacteria and plants)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+sucrose degradation III (sucrose invertase)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+sucrose degradation IV (sucrose phosphorylase)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+sulfate reduction I (assimilatory)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathay of heme biosynthesis from glutamate	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of adenosine nucleotides de novo biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of adenosine nucleotides de novo biosynthesis II	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of arginine and polyamine biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of aromatic amino acid biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of branched amino acid biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of demethylmenaquinol-8 biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of fatty acid biosynthesis initiation (E. coli)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of glucose and xylose degradation	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of glycolysis and Entner-Doudoroff	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of glyoxylate bypass and TCA	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of guanosine nucleotides de novo biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of guanosine nucleotides de novo biosynthesis II	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of heme biosynthesis from uroporphyrinogen-III	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of hexitol degradation (bacteria)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of L-alanine biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of L-aspartate and L-asparagine biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of L-isoleucine biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of L-methionine biosynthesis (transsulfuration)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of L-phenylalanine biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of L-serine and glycine biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of L-threonine biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of L-tyrosine biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of menaquinol-11 biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of menaquinol-12 biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of menaquinol-13 biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of menaquinol-7 biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of menaquinol-8 biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of N-acetylneuraminate degradation	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of phospholipid biosynthesis I (bacteria)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of phylloquinol biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of polyamine biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of purine deoxyribonucleosides degradation	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of purine nucleotides de novo biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of purine nucleotides de novo biosynthesis II	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of pyrimidine deoxyribonucleoside salvage	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of pyrimidine deoxyribonucleosides degradation	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of pyrimidine nucleobases salvage	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of pyrimidine ribonucleosides salvage	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of S-adenosyl-L-methionine biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of sulfate assimilation and cysteine biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of sulfur oxidation (Acidianus ambivalens)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of tetrahydrofolate biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of tetrahydrofolate biosynthesis and salvage	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of thiamin diphosphate biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of thiamin diphosphate biosynthesis II	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of ubiquinol-8 biosynthesis (prokaryotic)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+taxadiene biosynthesis (engineered)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+TCA cycle I (prokaryotic)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+TCA cycle IV (2-oxoglutarate decarboxylase)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+TCA cycle VI (obligate autotrophs)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+TCA cycle VII (acetate-producers)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+TCA cycle VIII (helicobacter)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+teichoic acid (poly-glycerol) biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+tetrapyrrole biosynthesis I (from glutamate)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+tetrapyrrole biosynthesis II (from glycine)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+thiamin salvage II	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+thiazole biosynthesis I (E. coli)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+thiazole biosynthesis II (Bacillus)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+tRNA charging	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+ubiquinol-10 biosynthesis (prokaryotic)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+ubiquinol-7 biosynthesis (prokaryotic)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+ubiquinol-8 biosynthesis (prokaryotic)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+ubiquinol-9 biosynthesis (prokaryotic)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+UDP-N-acetyl-D-glucosamine biosynthesis I	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+UMP biosynthesis	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+urate biosynthesis/inosine 5'-phosphate degradation	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+urea cycle	Vaginal	Control	Stool	16	Control_Vaginal_Stool
+glutaryl-CoA degradation	Csection	T1D	Stool	16	T1D_Csection_Stool
+nitrate reduction VI (assimilatory)	Csection	T1D	Stool	16	T1D_Csection_Stool
+pyruvate fermentation to butanoate	Csection	T1D	Stool	16	T1D_Csection_Stool
+pyruvate fermentation to propanoate I	Csection	T1D	Stool	16	T1D_Csection_Stool
+superpathway of Clostridium acetobutylicum acidogenic fermentation	Csection	T1D	Stool	16	T1D_Csection_Stool
+"arginine, ornithine and proline interconversion"	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+"hexitol fermentation to lactate, formate, ethanol and acetate"	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+"superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation"	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+(5Z)-dodec-5-enoate biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+4-deoxy-L-threo-hex-4-enopyranuronate degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+5-aminoimidazole ribonucleotide biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+5-aminoimidazole ribonucleotide biosynthesis II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+8-amino-7-oxononanoate biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+acetylene degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+adenine and adenosine salvage III	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+adenosine deoxyribonucleotides de novo biosynthesis II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+adenosine nucleotides degradation II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+adenosine ribonucleotides de novo biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+adenosylcobalamin salvage from cobinamide I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+allantoin degradation IV (anaerobic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+allantoin degradation to glyoxylate III	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+anhydromuropeptides recycling	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+aspartate superpathway	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+Bifidobacterium shunt	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+biotin biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+Calvin-Benson-Bassham cycle	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+catechol degradation I (meta-cleavage pathway)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+CDP-diacylglycerol biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+CDP-diacylglycerol biosynthesis II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+chorismate biosynthesis from 3-dehydroquinate	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+chorismate biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+cis-vaccenate biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+CMP-3-deoxy-D-manno-octulosonate biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+coenzyme A biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+colanic acid building blocks biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+D-fructuronate degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+D-galactarate degradation I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+D-galacturonate degradation I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+D-glucarate degradation I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+dTDP-L-rhamnose biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+dTDP-N-acetylthomosamine biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+enterobacterial common antigen biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+enterobactin biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+fatty acid elongation -- saturated	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+flavin biosynthesis I (bacteria and plants)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+fucose degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+galactose degradation I (Leloir pathway)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+GDP-mannose biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+gluconeogenesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+glucose and glucose-1-phosphate degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+glycogen biosynthesis I (from ADP-D-Glucose)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+glycogen degradation I (bacterial)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+glycolysis I (from glucose 6-phosphate)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+glycolysis II (from fructose 6-phosphate)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+glycolysis III (from glucose)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+glyoxylate cycle	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+gondoate biosynthesis (anaerobic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+guanosine deoxyribonucleotides de novo biosynthesis II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+guanosine nucleotides degradation III	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+guanosine ribonucleotides de novo biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+heme biosynthesis II (anaerobic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+heterolactic fermentation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+homolactic fermentation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+incomplete reductive TCA cycle	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+inosine-5'-phosphate biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+inosine-5'-phosphate biosynthesis III	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-arginine biosynthesis I (via L-ornithine)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-arginine biosynthesis II (acetyl cycle)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-arginine biosynthesis III (via N-acetyl-L-citrulline)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-arginine biosynthesis IV (archaebacteria)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-arginine degradation II (AST pathway)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-histidine biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-isoleucine biosynthesis I (from threonine)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-isoleucine biosynthesis II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-isoleucine biosynthesis III	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-isoleucine biosynthesis IV	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-lysine biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-lysine biosynthesis II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-lysine biosynthesis III	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-lysine biosynthesis VI	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-methionine biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-ornithine biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-rhamnose degradation I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-tryptophan biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-valine biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+lactose and galactose degradation I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+lipid IVA biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+methylerythritol phosphate pathway I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+methylerythritol phosphate pathway II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+methylphosphonate degradation I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+mevalonate pathway I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+mixed acid fermentation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+N10-formyl-tetrahydrofolate biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+NAD salvage pathway II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+O-antigen building blocks biosynthesis (E. coli)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+oleate biosynthesis IV (anaerobic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+palmitate biosynthesis II (bacteria and plants)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+pantothenate and coenzyme A biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+pentose phosphate pathway	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+pentose phosphate pathway (non-oxidative branch)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+peptidoglycan biosynthesis I (meso-diaminopimelate containing)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+peptidoglycan biosynthesis III (mycobacteria)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+peptidoglycan biosynthesis IV (Enterococcus faecium)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+peptidoglycan biosynthesis V (&beta;-lactam resistance)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+peptidoglycan maturation (meso-diaminopimelate containing)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+phenylacetate degradation I (aerobic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+phosphatidylglycerol biosynthesis I (plastidic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+phosphatidylglycerol biosynthesis II (non-plastidic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+phosphopantothenate biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+polyisoprenoid biosynthesis (E. coli)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+polymyxin resistance	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+preQ0 biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+purine nucleobases degradation I (anaerobic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+purine nucleotides degradation II (aerobic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+purine ribonucleosides degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+pyrimidine deoxyribonucleosides salvage	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+pyrimidine deoxyribonucleotide phosphorylation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+pyrimidine deoxyribonucleotides de novo biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+pyrimidine deoxyribonucleotides de novo biosynthesis II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+pyruvate fermentation to acetate and lactate II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+pyruvate fermentation to acetone	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+pyruvate fermentation to isobutanol (engineered)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+queuosine biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+S-adenosyl-L-methionine cycle I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+starch degradation V	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+stearate biosynthesis II (bacteria and plants)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+sucrose degradation III (sucrose invertase)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+sucrose degradation IV (sucrose phosphorylase)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+sulfate reduction I (assimilatory)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of &beta;-D-glucuronide and D-glucuronate degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of adenosine nucleotides de novo biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of adenosine nucleotides de novo biosynthesis II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of arginine and polyamine biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of aromatic amino acid biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of branched amino acid biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of D-glucarate and D-galactarate degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of fatty acid biosynthesis initiation (E. coli)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of fucose and rhamnose degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of glucose and xylose degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of glycol metabolism and degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of glycolysis and Entner-Doudoroff	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of glyoxylate bypass and TCA	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of guanosine nucleotides de novo biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of guanosine nucleotides de novo biosynthesis II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of hexitol degradation (bacteria)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of hexuronide and hexuronate degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of L-alanine biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of L-arginine and L-ornithine degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of L-aspartate and L-asparagine biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of L-isoleucine biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of L-methionine biosynthesis (transsulfuration)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of L-phenylalanine biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of L-serine and glycine biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of L-threonine biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of L-tryptophan biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of L-tyrosine biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of methylglyoxal degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of N-acetylneuraminate degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of phenylethylamine degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of phospholipid biosynthesis I (bacteria)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of polyamine biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of purine deoxyribonucleosides degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of purine nucleotides de novo biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of purine nucleotides de novo biosynthesis II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of pyrimidine deoxyribonucleoside salvage	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of pyrimidine deoxyribonucleosides degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of pyrimidine nucleobases salvage	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of pyrimidine ribonucleosides salvage	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of S-adenosyl-L-methionine biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of sulfate assimilation and cysteine biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of tetrahydrofolate biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of tetrahydrofolate biosynthesis and salvage	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of thiamin diphosphate biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of thiamin diphosphate biosynthesis II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of ubiquinol-8 biosynthesis (prokaryotic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+taxadiene biosynthesis (engineered)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+TCA cycle I (prokaryotic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+TCA cycle IV (2-oxoglutarate decarboxylase)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+TCA cycle VI (obligate autotrophs)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+TCA cycle VII (acetate-producers)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+tetrapyrrole biosynthesis I (from glutamate)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+tetrapyrrole biosynthesis II (from glycine)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+thiamin salvage II	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+thiazole biosynthesis I (E. coli)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+thiazole biosynthesis II (Bacillus)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+toluene degradation I (aerobic) (via o-cresol)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+toluene degradation II (aerobic) (via 4-methylcatechol)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+tRNA charging	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+tRNA processing	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+ubiquinol-10 biosynthesis (prokaryotic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+ubiquinol-7 biosynthesis (prokaryotic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+ubiquinol-8 biosynthesis (prokaryotic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+ubiquinol-9 biosynthesis (prokaryotic)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+UDP-N-acetyl-D-glucosamine biosynthesis I	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+UMP biosynthesis	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+urate biosynthesis/inosine 5'-phosphate degradation	Vaginal	T1D	Stool	16	T1D_Vaginal_Stool
+L-glutamate degradation V (via hydroxyglutarate)	Csection	Control	Ear	15	Control_Csection_Ear
+nitrate reduction VI (assimilatory)	Csection	Control	Ear	15	Control_Csection_Ear
+fatty acid salvage	Vaginal	Control	Ear	15	Control_Vaginal_Ear
+glutaryl-CoA degradation	Vaginal	Control	Ear	15	Control_Vaginal_Ear
+nitrate reduction VI (assimilatory)	Vaginal	Control	Ear	15	Control_Vaginal_Ear
+pyruvate fermentation to butanoate	Vaginal	Control	Ear	15	Control_Vaginal_Ear
+pyruvate fermentation to propanoate I	Vaginal	Control	Ear	15	Control_Vaginal_Ear
+superpathway of Clostridium acetobutylicum acidogenic fermentation	Vaginal	Control	Ear	15	Control_Vaginal_Ear
+"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+"superpathway of histidine, purine, and pyrimidine biosynthesis"	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+2-methylcitrate cycle I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+2-methylcitrate cycle II	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+4-aminobutanoate degradation V	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+4-deoxy-L-threo-hex-4-enopyranuronate degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+8-amino-7-oxononanoate biosynthesis I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+adenosine nucleotides degradation II	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+adenosylcobalamin salvage from cobinamide I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+allantoin degradation IV (anaerobic)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+allantoin degradation to glyoxylate III	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+anhydromuropeptides recycling	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+aspartate superpathway	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+biotin biosynthesis I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+catechol degradation I (meta-cleavage pathway)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+CMP-3-deoxy-D-manno-octulosonate biosynthesis I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+colanic acid building blocks biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+D-fructuronate degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+D-galactarate degradation I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+D-galacturonate degradation I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+D-glucarate degradation I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+dTDP-N-acetylthomosamine biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+enterobacterial common antigen biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+enterobactin biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+fatty acid &beta;-oxidation I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+fucose degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+GDP-mannose biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+glucose and glucose-1-phosphate degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+glyoxylate cycle	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+Kdo transfer to lipid IVA III (Chlamydia)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+ketogluconate metabolism	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+L-arginine degradation II (AST pathway)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+L-rhamnose degradation I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+lipid IVA biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+methylerythritol phosphate pathway I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+methylerythritol phosphate pathway II	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+methylphosphonate degradation I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+N10-formyl-tetrahydrofolate biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+NAD biosynthesis I (from aspartate)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+NAD salvage pathway I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+NAD salvage pathway II	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+oleate biosynthesis IV (anaerobic)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+palmitate biosynthesis II (bacteria and plants)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+phenylacetate degradation I (aerobic)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+polymyxin resistance	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+ppGpp biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+purine nucleobases degradation I (anaerobic)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+purine nucleotides degradation II (aerobic)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+pyridoxal 5'-phosphate biosynthesis I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+pyrimidine deoxyribonucleotides de novo biosynthesis III	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+pyruvate fermentation to acetone	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+stearate biosynthesis II (bacteria and plants)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+sulfoglycolysis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathay of heme biosynthesis from glutamate	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of &beta;-D-glucuronide and D-glucuronate degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of (Kdo)2-lipid A biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of arginine and polyamine biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of chorismate metabolism	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of D-glucarate and D-galactarate degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of demethylmenaquinol-6 biosynthesis I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of demethylmenaquinol-8 biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of demethylmenaquinol-9 biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of fatty acid biosynthesis initiation (E. coli)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of fucose and rhamnose degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of glucose and xylose degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of glycol metabolism and degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of glyoxylate bypass and TCA	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of heme biosynthesis from glycine	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of heme biosynthesis from uroporphyrinogen-III	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of hexuronide and hexuronate degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of L-arginine and L-ornithine degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of L-aspartate and L-asparagine biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of L-methionine biosynthesis (by sulfhydrylation)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of L-methionine biosynthesis (transsulfuration)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of L-phenylalanine biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of L-tryptophan biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of L-tyrosine biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of menaquinol-10 biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of menaquinol-6 biosynthesis I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of menaquinol-8 biosynthesis I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of menaquinol-9 biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of methylglyoxal degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of ornithine degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of phenylethylamine degradation	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of polyamine biosynthesis I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of thiamin diphosphate biosynthesis I	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of thiamin diphosphate biosynthesis II	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of ubiquinol-8 biosynthesis (prokaryotic)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+taxadiene biosynthesis (engineered)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+TCA cycle IV (2-oxoglutarate decarboxylase)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+thiazole biosynthesis I (E. coli)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+toluene degradation I (aerobic) (via o-cresol)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+toluene degradation II (aerobic) (via 4-methylcatechol)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+tRNA charging	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+tRNA processing	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+ubiquinol-10 biosynthesis (prokaryotic)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+ubiquinol-7 biosynthesis (prokaryotic)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+ubiquinol-8 biosynthesis (prokaryotic)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+ubiquinol-9 biosynthesis (prokaryotic)	Vaginal	T1D	Ear	15	T1D_Vaginal_Ear
+"superpathway of histidine, purine, and pyrimidine biosynthesis"	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+2-methylcitrate cycle I	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+2-methylcitrate cycle II	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+adenosine nucleotides degradation II	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+adenosylcobalamin salvage from cobinamide I	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+aerobic respiration I (cytochrome c)	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+allantoin degradation IV (anaerobic)	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+allantoin degradation to glyoxylate III	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+catechol degradation I (meta-cleavage pathway)	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+colanic acid building blocks biosynthesis	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+D-galactarate degradation I	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+D-galacturonate degradation I	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+D-glucarate degradation I	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+dTDP-N-acetylthomosamine biosynthesis	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+enterobacterial common antigen biosynthesis	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+enterobactin biosynthesis	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+fatty acid &beta;-oxidation I	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+fucose degradation	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+glycogen biosynthesis I (from ADP-D-Glucose)	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+glycogen degradation I (bacterial)	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+L-arginine degradation II (AST pathway)	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+L-rhamnose degradation I	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+methylphosphonate degradation I	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+NAD salvage pathway II	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+phenylacetate degradation I (aerobic)	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+polymyxin resistance	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+ppGpp biosynthesis	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+purine nucleotides degradation II (aerobic)	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+pyruvate fermentation to acetone	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+reductive TCA cycle I	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+starch degradation V	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of &beta;-D-glucuronide and D-glucuronate degradation	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of D-glucarate and D-galactarate degradation	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of demethylmenaquinol-6 biosynthesis I	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of demethylmenaquinol-9 biosynthesis	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of fucose and rhamnose degradation	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of glycol metabolism and degradation	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of hexuronide and hexuronate degradation	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of L-arginine and L-ornithine degradation	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of L-methionine biosynthesis (by sulfhydrylation)	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of L-tryptophan biosynthesis	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of menaquinol-10 biosynthesis	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of menaquinol-6 biosynthesis I	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of menaquinol-9 biosynthesis	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of methylglyoxal degradation	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of phenylethylamine degradation	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+toluene degradation I (aerobic) (via o-cresol)	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+toluene degradation II (aerobic) (via 4-methylcatechol)	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+tRNA processing	Vaginal	Control	Stool	15	Control_Vaginal_Stool
+L-glutamate degradation V (via hydroxyglutarate)	Csection	T1D	Stool	15	T1D_Csection_Stool
+mycolate biosynthesis	Csection	T1D	Stool	15	T1D_Csection_Stool
+"1,4-dihydroxy-2-naphthoate biosynthesis I"	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+"superpathway of (R,R)-butanediol biosynthesis"	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+"superpathway of 2,3-butanediol biosynthesis"	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+"superpathway of histidine, purine, and pyrimidine biosynthesis"	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+2-methylcitrate cycle I	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+2-methylcitrate cycle II	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+4-aminobutanoate degradation V	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+fatty acid &beta;-oxidation I	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+formaldehyde assimilation II (RuMP Cycle)	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+formaldehyde oxidation I	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+heme biosynthesis I (aerobic)	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+Kdo transfer to lipid IVA III (Chlamydia)	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+ketogluconate metabolism	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+L-histidine degradation I	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+L-methionine biosynthesis III	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+NAD biosynthesis I (from aspartate)	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+NAD salvage pathway I	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+peptidoglycan biosynthesis II (staphylococci)	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+ppGpp biosynthesis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+pyridoxal 5'-phosphate biosynthesis I	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+pyrimidine deoxyribonucleotides de novo biosynthesis III	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+reductive TCA cycle I	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+sulfoglycolysis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathay of heme biosynthesis from glutamate	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of (Kdo)2-lipid A biosynthesis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of chorismate metabolism	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of demethylmenaquinol-6 biosynthesis I	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of demethylmenaquinol-8 biosynthesis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of demethylmenaquinol-9 biosynthesis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of heme biosynthesis from glycine	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of heme biosynthesis from uroporphyrinogen-III	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of L-methionine biosynthesis (by sulfhydrylation)	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of menaquinol-10 biosynthesis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of menaquinol-11 biosynthesis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of menaquinol-12 biosynthesis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of menaquinol-13 biosynthesis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of menaquinol-6 biosynthesis I	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of menaquinol-7 biosynthesis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of menaquinol-8 biosynthesis I	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of menaquinol-9 biosynthesis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of ornithine degradation	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of phylloquinol biosynthesis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+superpathway of sulfur oxidation (Acidianus ambivalens)	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+TCA cycle VIII (helicobacter)	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+teichoic acid (poly-glycerol) biosynthesis	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+urea cycle	Vaginal	T1D	Stool	15	T1D_Vaginal_Stool
+L-leucine degradation I	Csection	Control	Ear	14	Control_Csection_Ear
+L-valine degradation I	Csection	Control	Ear	14	Control_Csection_Ear
+pyruvate fermentation to propanoate I	Csection	Control	Ear	14	Control_Csection_Ear
+aromatic biogenic amine degradation (bacteria)	Vaginal	Control	Ear	14	Control_Vaginal_Ear
+L-glutamate degradation V (via hydroxyglutarate)	Vaginal	Control	Ear	14	Control_Vaginal_Ear
+L-leucine degradation I	Vaginal	Control	Ear	14	Control_Vaginal_Ear
+L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	Vaginal	Control	Ear	14	Control_Vaginal_Ear
+L-tyrosine degradation I	Vaginal	Control	Ear	14	Control_Vaginal_Ear
+L-valine degradation I	Vaginal	Control	Ear	14	Control_Vaginal_Ear
+NAD biosynthesis II (from tryptophan)	Vaginal	Control	Ear	14	Control_Vaginal_Ear
+"cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)"	Csection	T1D	Ear	14	T1D_Csection_Ear
+aromatic biogenic amine degradation (bacteria)	Csection	T1D	Ear	14	T1D_Csection_Ear
+"adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I"	Vaginal	Control	Stool	14	Control_Vaginal_Stool
+adenosylcobalamin salvage from cobinamide II	Vaginal	Control	Stool	14	Control_Vaginal_Stool
+ketogluconate metabolism	Vaginal	Control	Stool	14	Control_Vaginal_Stool
+pyridoxal 5'-phosphate biosynthesis I	Vaginal	Control	Stool	14	Control_Vaginal_Stool
+pyrimidine deoxyribonucleotides de novo biosynthesis III	Vaginal	Control	Stool	14	Control_Vaginal_Stool
+sulfoglycolysis	Vaginal	Control	Stool	14	Control_Vaginal_Stool
+superpathway of (Kdo)2-lipid A biosynthesis	Vaginal	Control	Stool	14	Control_Vaginal_Stool
+superpathway of chorismate metabolism	Vaginal	Control	Stool	14	Control_Vaginal_Stool
+superpathway of heme biosynthesis from glycine	Vaginal	Control	Stool	14	Control_Vaginal_Stool
+superpathway of ornithine degradation	Vaginal	Control	Stool	14	Control_Vaginal_Stool
+superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	Vaginal	Control	Stool	14	Control_Vaginal_Stool
+reductive acetyl coenzyme A pathway	Csection	T1D	Stool	14	T1D_Csection_Stool
+glycerol degradation to butanol	Csection	Control	Ear	13	Control_Csection_Ear
+L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	Csection	Control	Ear	13	Control_Csection_Ear
+L-tyrosine degradation I	Csection	Control	Ear	13	Control_Csection_Ear
+mycolate biosynthesis	Csection	Control	Ear	13	Control_Csection_Ear
+NAD biosynthesis II (from tryptophan)	Csection	Control	Ear	13	Control_Csection_Ear
+reductive acetyl coenzyme A pathway	Csection	Control	Ear	13	Control_Csection_Ear
+fatty acid salvage	Csection	T1D	Ear	13	T1D_Csection_Ear
+L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	Csection	T1D	Ear	13	T1D_Csection_Ear
+L-tyrosine degradation I	Csection	T1D	Ear	13	T1D_Csection_Ear
+mannan degradation	Csection	T1D	Ear	13	T1D_Csection_Ear
+NAD biosynthesis II (from tryptophan)	Csection	T1D	Ear	13	T1D_Csection_Ear
+"hexitol fermentation to lactate, formate, ethanol and acetate"	Csection	Control	Stool	13	Control_Csection_Stool
+5-aminoimidazole ribonucleotide biosynthesis I	Csection	Control	Stool	13	Control_Csection_Stool
+5-aminoimidazole ribonucleotide biosynthesis II	Csection	Control	Stool	13	Control_Csection_Stool
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	Csection	Control	Stool	13	Control_Csection_Stool
+acetylene degradation	Csection	Control	Stool	13	Control_Csection_Stool
+adenine and adenosine salvage III	Csection	Control	Stool	13	Control_Csection_Stool
+adenosine deoxyribonucleotides de novo biosynthesis II	Csection	Control	Stool	13	Control_Csection_Stool
+adenosine ribonucleotides de novo biosynthesis	Csection	Control	Stool	13	Control_Csection_Stool
+Bifidobacterium shunt	Csection	Control	Stool	13	Control_Csection_Stool
+Calvin-Benson-Bassham cycle	Csection	Control	Stool	13	Control_Csection_Stool
+CDP-diacylglycerol biosynthesis I	Csection	Control	Stool	13	Control_Csection_Stool
+CDP-diacylglycerol biosynthesis II	Csection	Control	Stool	13	Control_Csection_Stool
+coenzyme A biosynthesis I	Csection	Control	Stool	13	Control_Csection_Stool
+galactose degradation I (Leloir pathway)	Csection	Control	Stool	13	Control_Csection_Stool
+gluconeogenesis I	Csection	Control	Stool	13	Control_Csection_Stool
+glycogen biosynthesis I (from ADP-D-Glucose)	Csection	Control	Stool	13	Control_Csection_Stool
+glycogen degradation I (bacterial)	Csection	Control	Stool	13	Control_Csection_Stool
+glycolysis I (from glucose 6-phosphate)	Csection	Control	Stool	13	Control_Csection_Stool
+glycolysis II (from fructose 6-phosphate)	Csection	Control	Stool	13	Control_Csection_Stool
+glycolysis III (from glucose)	Csection	Control	Stool	13	Control_Csection_Stool
+guanosine deoxyribonucleotides de novo biosynthesis II	Csection	Control	Stool	13	Control_Csection_Stool
+guanosine ribonucleotides de novo biosynthesis	Csection	Control	Stool	13	Control_Csection_Stool
+heme biosynthesis II (anaerobic)	Csection	Control	Stool	13	Control_Csection_Stool
+heterolactic fermentation	Csection	Control	Stool	13	Control_Csection_Stool
+homolactic fermentation	Csection	Control	Stool	13	Control_Csection_Stool
+inosine-5'-phosphate biosynthesis I	Csection	Control	Stool	13	Control_Csection_Stool
+L-lysine biosynthesis II	Csection	Control	Stool	13	Control_Csection_Stool
+L-lysine biosynthesis III	Csection	Control	Stool	13	Control_Csection_Stool
+L-lysine biosynthesis VI	Csection	Control	Stool	13	Control_Csection_Stool
+lactose and galactose degradation I	Csection	Control	Stool	13	Control_Csection_Stool
+methylerythritol phosphate pathway I	Csection	Control	Stool	13	Control_Csection_Stool
+methylerythritol phosphate pathway II	Csection	Control	Stool	13	Control_Csection_Stool
+mevalonate pathway I	Csection	Control	Stool	13	Control_Csection_Stool
+pentose phosphate pathway	Csection	Control	Stool	13	Control_Csection_Stool
+pentose phosphate pathway (non-oxidative branch)	Csection	Control	Stool	13	Control_Csection_Stool
+peptidoglycan biosynthesis I (meso-diaminopimelate containing)	Csection	Control	Stool	13	Control_Csection_Stool
+peptidoglycan biosynthesis III (mycobacteria)	Csection	Control	Stool	13	Control_Csection_Stool
+peptidoglycan biosynthesis IV (Enterococcus faecium)	Csection	Control	Stool	13	Control_Csection_Stool
+peptidoglycan maturation (meso-diaminopimelate containing)	Csection	Control	Stool	13	Control_Csection_Stool
+phosphatidylglycerol biosynthesis I (plastidic)	Csection	Control	Stool	13	Control_Csection_Stool
+phosphatidylglycerol biosynthesis II (non-plastidic)	Csection	Control	Stool	13	Control_Csection_Stool
+polyisoprenoid biosynthesis (E. coli)	Csection	Control	Stool	13	Control_Csection_Stool
+pyrimidine deoxyribonucleosides salvage	Csection	Control	Stool	13	Control_Csection_Stool
+pyruvate fermentation to acetate and lactate II	Csection	Control	Stool	13	Control_Csection_Stool
+S-adenosyl-L-methionine cycle I	Csection	Control	Stool	13	Control_Csection_Stool
+starch degradation V	Csection	Control	Stool	13	Control_Csection_Stool
+sucrose degradation III (sucrose invertase)	Csection	Control	Stool	13	Control_Csection_Stool
+superpathway of 5-aminoimidazole ribonucleotide biosynthesis	Csection	Control	Stool	13	Control_Csection_Stool
+superpathway of adenosine nucleotides de novo biosynthesis I	Csection	Control	Stool	13	Control_Csection_Stool
+superpathway of adenosine nucleotides de novo biosynthesis II	Csection	Control	Stool	13	Control_Csection_Stool
+superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	Csection	Control	Stool	13	Control_Csection_Stool
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	Csection	Control	Stool	13	Control_Csection_Stool
+superpathway of hexitol degradation (bacteria)	Csection	Control	Stool	13	Control_Csection_Stool
+superpathway of L-aspartate and L-asparagine biosynthesis	Csection	Control	Stool	13	Control_Csection_Stool
+superpathway of phospholipid biosynthesis I (bacteria)	Csection	Control	Stool	13	Control_Csection_Stool
+superpathway of purine deoxyribonucleosides degradation	Csection	Control	Stool	13	Control_Csection_Stool
+superpathway of pyrimidine nucleobases salvage	Csection	Control	Stool	13	Control_Csection_Stool
+superpathway of tetrahydrofolate biosynthesis	Csection	Control	Stool	13	Control_Csection_Stool
+superpathway of tetrahydrofolate biosynthesis and salvage	Csection	Control	Stool	13	Control_Csection_Stool
+thiamin salvage II	Csection	Control	Stool	13	Control_Csection_Stool
+thiazole biosynthesis I (E. coli)	Csection	Control	Stool	13	Control_Csection_Stool
+thiazole biosynthesis II (Bacillus)	Csection	Control	Stool	13	Control_Csection_Stool
+UDP-N-acetyl-D-glucosamine biosynthesis I	Csection	Control	Stool	13	Control_Csection_Stool
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	Csection	Control	Stool	13	Control_Csection_Stool
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	Csection	Control	Stool	13	Control_Csection_Stool
+UMP biosynthesis	Csection	Control	Stool	13	Control_Csection_Stool
+4-aminobutanoate degradation V	Vaginal	Control	Stool	13	Control_Vaginal_Stool
+glycerol degradation to butanol	Vaginal	Control	Stool	13	Control_Vaginal_Stool
+mycolate biosynthesis	Vaginal	Control	Stool	13	Control_Vaginal_Stool
+"cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)"	Csection	Control	Ear	12	Control_Csection_Ear
+aromatic biogenic amine degradation (bacteria)	Csection	Control	Ear	12	Control_Csection_Ear
+fatty acid salvage	Csection	Control	Ear	12	Control_Csection_Ear
+mannan degradation	Csection	Control	Ear	12	Control_Csection_Ear
+"cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)"	Vaginal	Control	Ear	12	Control_Vaginal_Ear
+"mono-trans, poly-cis decaprenyl phosphate biosynthesis"	Vaginal	Control	Ear	12	Control_Vaginal_Ear
+mycothiol biosynthesis	Vaginal	Control	Ear	12	Control_Vaginal_Ear
+reductive acetyl coenzyme A pathway	Vaginal	Control	Ear	12	Control_Vaginal_Ear
+isopropanol biosynthesis	Csection	T1D	Ear	12	T1D_Csection_Ear
+L-valine degradation I	Csection	T1D	Ear	12	T1D_Csection_Ear
+superpathway of polyamine biosynthesis II	Csection	T1D	Ear	12	T1D_Csection_Ear
+L-glutamate and L-glutamine biosynthesis	Vaginal	T1D	Ear	12	T1D_Vaginal_Ear
+pyruvate fermentation to butanoate	Vaginal	T1D	Ear	12	T1D_Vaginal_Ear
+superpathway of Clostridium acetobutylicum acidogenic fermentation	Vaginal	T1D	Ear	12	T1D_Vaginal_Ear
+"1,4-dihydroxy-2-naphthoate biosynthesis I"	Csection	Control	Stool	12	Control_Csection_Stool
+"arginine, ornithine and proline interconversion"	Csection	Control	Stool	12	Control_Csection_Stool
+"superpathway of (R,R)-butanediol biosynthesis"	Csection	Control	Stool	12	Control_Csection_Stool
+"superpathway of 2,3-butanediol biosynthesis"	Csection	Control	Stool	12	Control_Csection_Stool
+"superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation"	Csection	Control	Stool	12	Control_Csection_Stool
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)	Csection	Control	Stool	12	Control_Csection_Stool
+chorismate biosynthesis from 3-dehydroquinate	Csection	Control	Stool	12	Control_Csection_Stool
+chorismate biosynthesis I	Csection	Control	Stool	12	Control_Csection_Stool
+cis-vaccenate biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+dTDP-L-rhamnose biosynthesis I	Csection	Control	Stool	12	Control_Csection_Stool
+fatty acid elongation -- saturated	Csection	Control	Stool	12	Control_Csection_Stool
+flavin biosynthesis I (bacteria and plants)	Csection	Control	Stool	12	Control_Csection_Stool
+formaldehyde assimilation II (RuMP Cycle)	Csection	Control	Stool	12	Control_Csection_Stool
+formaldehyde oxidation I	Csection	Control	Stool	12	Control_Csection_Stool
+GDP-mannose biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+gondoate biosynthesis (anaerobic)	Csection	Control	Stool	12	Control_Csection_Stool
+heme biosynthesis I (aerobic)	Csection	Control	Stool	12	Control_Csection_Stool
+incomplete reductive TCA cycle	Csection	Control	Stool	12	Control_Csection_Stool
+inosine-5'-phosphate biosynthesis III	Csection	Control	Stool	12	Control_Csection_Stool
+L-arginine biosynthesis I (via L-ornithine)	Csection	Control	Stool	12	Control_Csection_Stool
+L-arginine biosynthesis II (acetyl cycle)	Csection	Control	Stool	12	Control_Csection_Stool
+L-histidine biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+L-histidine degradation I	Csection	Control	Stool	12	Control_Csection_Stool
+L-isoleucine biosynthesis I (from threonine)	Csection	Control	Stool	12	Control_Csection_Stool
+L-isoleucine biosynthesis II	Csection	Control	Stool	12	Control_Csection_Stool
+L-isoleucine biosynthesis III	Csection	Control	Stool	12	Control_Csection_Stool
+L-isoleucine biosynthesis IV	Csection	Control	Stool	12	Control_Csection_Stool
+L-methionine biosynthesis III	Csection	Control	Stool	12	Control_Csection_Stool
+L-ornithine biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+L-tryptophan biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+L-valine biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+mixed acid fermentation	Csection	Control	Stool	12	Control_Csection_Stool
+O-antigen building blocks biosynthesis (E. coli)	Csection	Control	Stool	12	Control_Csection_Stool
+pantothenate and coenzyme A biosynthesis I	Csection	Control	Stool	12	Control_Csection_Stool
+peptidoglycan biosynthesis II (staphylococci)	Csection	Control	Stool	12	Control_Csection_Stool
+peptidoglycan biosynthesis V (&beta;-lactam resistance)	Csection	Control	Stool	12	Control_Csection_Stool
+phosphopantothenate biosynthesis I	Csection	Control	Stool	12	Control_Csection_Stool
+preQ0 biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+purine nucleobases degradation I (anaerobic)	Csection	Control	Stool	12	Control_Csection_Stool
+purine ribonucleosides degradation	Csection	Control	Stool	12	Control_Csection_Stool
+pyrimidine deoxyribonucleotide phosphorylation	Csection	Control	Stool	12	Control_Csection_Stool
+pyrimidine deoxyribonucleotides de novo biosynthesis I	Csection	Control	Stool	12	Control_Csection_Stool
+pyrimidine deoxyribonucleotides de novo biosynthesis II	Csection	Control	Stool	12	Control_Csection_Stool
+pyrimidine deoxyribonucleotides de novo biosynthesis III	Csection	Control	Stool	12	Control_Csection_Stool
+pyruvate fermentation to isobutanol (engineered)	Csection	Control	Stool	12	Control_Csection_Stool
+queuosine biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+reductive TCA cycle I	Csection	Control	Stool	12	Control_Csection_Stool
+sulfate reduction I (assimilatory)	Csection	Control	Stool	12	Control_Csection_Stool
+superpathay of heme biosynthesis from glutamate	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of aromatic amino acid biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of branched amino acid biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of glycolysis and Entner-Doudoroff	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of guanosine nucleotides de novo biosynthesis I	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of guanosine nucleotides de novo biosynthesis II	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of L-alanine biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of L-isoleucine biosynthesis I	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of L-methionine biosynthesis (by sulfhydrylation)	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of L-serine and glycine biosynthesis I	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of L-threonine biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of menaquinol-11 biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of menaquinol-12 biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of menaquinol-13 biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of menaquinol-7 biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of N-acetylneuraminate degradation	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of phylloquinol biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of purine nucleotides de novo biosynthesis I	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of purine nucleotides de novo biosynthesis II	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of pyrimidine deoxyribonucleoside salvage	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of pyrimidine deoxyribonucleosides degradation	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of pyrimidine ribonucleosides salvage	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of sulfate assimilation and cysteine biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of sulfur oxidation (Acidianus ambivalens)	Csection	Control	Stool	12	Control_Csection_Stool
+superpathway of thiamin diphosphate biosynthesis I	Csection	Control	Stool	12	Control_Csection_Stool
+taxadiene biosynthesis (engineered)	Csection	Control	Stool	12	Control_Csection_Stool
+TCA cycle I (prokaryotic)	Csection	Control	Stool	12	Control_Csection_Stool
+TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)	Csection	Control	Stool	12	Control_Csection_Stool
+TCA cycle VI (obligate autotrophs)	Csection	Control	Stool	12	Control_Csection_Stool
+TCA cycle VII (acetate-producers)	Csection	Control	Stool	12	Control_Csection_Stool
+TCA cycle VIII (helicobacter)	Csection	Control	Stool	12	Control_Csection_Stool
+teichoic acid (poly-glycerol) biosynthesis	Csection	Control	Stool	12	Control_Csection_Stool
+tetrapyrrole biosynthesis I (from glutamate)	Csection	Control	Stool	12	Control_Csection_Stool
+tetrapyrrole biosynthesis II (from glycine)	Csection	Control	Stool	12	Control_Csection_Stool
+tRNA charging	Csection	Control	Stool	12	Control_Csection_Stool
+urea cycle	Csection	Control	Stool	12	Control_Csection_Stool
+acetyl-CoA fermentation to butanoate II	Vaginal	Control	Stool	12	Control_Vaginal_Stool
+glutaryl-CoA degradation	Vaginal	Control	Stool	12	Control_Vaginal_Stool
+L-glutamate and L-glutamine biosynthesis	Vaginal	Control	Stool	12	Control_Vaginal_Stool
+aromatic biogenic amine degradation (bacteria)	Csection	T1D	Stool	12	T1D_Csection_Stool
+glycerol degradation to butanol	Csection	T1D	Stool	12	T1D_Csection_Stool
+L-glutamate and L-glutamine biosynthesis	Vaginal	T1D	Stool	12	T1D_Vaginal_Stool
+pyruvate fermentation to butanoate	Vaginal	T1D	Stool	12	T1D_Vaginal_Stool
+superpathway of Clostridium acetobutylicum acidogenic fermentation	Vaginal	T1D	Stool	12	T1D_Vaginal_Stool
+CMP-legionaminate biosynthesis I	Csection	Control	Ear	11	Control_Csection_Ear
+isopropanol biosynthesis	Csection	Control	Ear	11	Control_Csection_Ear
+2-amino-3-carboxymuconate semialdehyde degradation to 2-oxopentenoate	Csection	T1D	Ear	11	T1D_Csection_Ear
+2-nitrobenzoate degradation I	Csection	T1D	Ear	11	T1D_Csection_Ear
+catechol degradation to 2-oxopent-4-enoate II	Csection	T1D	Ear	11	T1D_Csection_Ear
+L-leucine degradation I	Csection	T1D	Ear	11	T1D_Csection_Ear
+"adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I"	Vaginal	T1D	Ear	11	T1D_Vaginal_Ear
+acetyl-CoA fermentation to butanoate II	Vaginal	T1D	Ear	11	T1D_Vaginal_Ear
+adenosylcobalamin salvage from cobinamide II	Vaginal	T1D	Ear	11	T1D_Vaginal_Ear
+aerobic respiration I (cytochrome c)	Vaginal	T1D	Ear	11	T1D_Vaginal_Ear
+glutaryl-CoA degradation	Vaginal	T1D	Ear	11	T1D_Vaginal_Ear
+L-glutamate degradation V (via hydroxyglutarate)	Vaginal	T1D	Ear	11	T1D_Vaginal_Ear
+mycolate biosynthesis	Vaginal	T1D	Ear	11	T1D_Vaginal_Ear
+nitrate reduction VI (assimilatory)	Vaginal	T1D	Ear	11	T1D_Vaginal_Ear
+"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"	Csection	Control	Stool	11	Control_Csection_Stool
+"superpathway of histidine, purine, and pyrimidine biosynthesis"	Csection	Control	Stool	11	Control_Csection_Stool
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"	Csection	Control	Stool	11	Control_Csection_Stool
+(5Z)-dodec-5-enoate biosynthesis	Csection	Control	Stool	11	Control_Csection_Stool
+4-deoxy-L-threo-hex-4-enopyranuronate degradation	Csection	Control	Stool	11	Control_Csection_Stool
+adenosylcobalamin salvage from cobinamide I	Csection	Control	Stool	11	Control_Csection_Stool
+aerobic respiration I (cytochrome c)	Csection	Control	Stool	11	Control_Csection_Stool
+aspartate superpathway	Csection	Control	Stool	11	Control_Csection_Stool
+CMP-3-deoxy-D-manno-octulosonate biosynthesis I	Csection	Control	Stool	11	Control_Csection_Stool
+colanic acid building blocks biosynthesis	Csection	Control	Stool	11	Control_Csection_Stool
+D-fructuronate degradation	Csection	Control	Stool	11	Control_Csection_Stool
+glucose and glucose-1-phosphate degradation	Csection	Control	Stool	11	Control_Csection_Stool
+glyoxylate cycle	Csection	Control	Stool	11	Control_Csection_Stool
+guanosine nucleotides degradation III	Csection	Control	Stool	11	Control_Csection_Stool
+Kdo transfer to lipid IVA III (Chlamydia)	Csection	Control	Stool	11	Control_Csection_Stool
+L-arginine biosynthesis III (via N-acetyl-L-citrulline)	Csection	Control	Stool	11	Control_Csection_Stool
+L-arginine biosynthesis IV (archaebacteria)	Csection	Control	Stool	11	Control_Csection_Stool
+L-lysine biosynthesis I	Csection	Control	Stool	11	Control_Csection_Stool
+L-methionine biosynthesis I	Csection	Control	Stool	11	Control_Csection_Stool
+lipid IVA biosynthesis	Csection	Control	Stool	11	Control_Csection_Stool
+N10-formyl-tetrahydrofolate biosynthesis	Csection	Control	Stool	11	Control_Csection_Stool
+NAD biosynthesis I (from aspartate)	Csection	Control	Stool	11	Control_Csection_Stool
+NAD salvage pathway I	Csection	Control	Stool	11	Control_Csection_Stool
+sucrose degradation IV (sucrose phosphorylase)	Csection	Control	Stool	11	Control_Csection_Stool
+superpathway of &beta;-D-glucuronide and D-glucuronate degradation	Csection	Control	Stool	11	Control_Csection_Stool
+superpathway of arginine and polyamine biosynthesis	Csection	Control	Stool	11	Control_Csection_Stool
+superpathway of demethylmenaquinol-8 biosynthesis	Csection	Control	Stool	11	Control_Csection_Stool
+superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis	Csection	Control	Stool	11	Control_Csection_Stool
+superpathway of glucose and xylose degradation	Csection	Control	Stool	11	Control_Csection_Stool
+superpathway of glyoxylate bypass and TCA	Csection	Control	Stool	11	Control_Csection_Stool
+superpathway of L-methionine biosynthesis (transsulfuration)	Csection	Control	Stool	11	Control_Csection_Stool
+superpathway of menaquinol-8 biosynthesis I	Csection	Control	Stool	11	Control_Csection_Stool
+superpathway of polyamine biosynthesis I	Csection	Control	Stool	11	Control_Csection_Stool
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	Csection	Control	Stool	11	Control_Csection_Stool
+superpathway of S-adenosyl-L-methionine biosynthesis	Csection	Control	Stool	11	Control_Csection_Stool
+superpathway of thiamin diphosphate biosynthesis II	Csection	Control	Stool	11	Control_Csection_Stool
+superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis	Csection	Control	Stool	11	Control_Csection_Stool
+TCA cycle IV (2-oxoglutarate decarboxylase)	Csection	Control	Stool	11	Control_Csection_Stool
+urate biosynthesis/inosine 5'-phosphate degradation	Csection	Control	Stool	11	Control_Csection_Stool
+fatty acid salvage	Vaginal	Control	Stool	11	Control_Vaginal_Stool
+L-glutamate degradation V (via hydroxyglutarate)	Vaginal	Control	Stool	11	Control_Vaginal_Stool
+L-leucine degradation I	Vaginal	Control	Stool	11	Control_Vaginal_Stool
+L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	Vaginal	Control	Stool	11	Control_Vaginal_Stool
+L-tyrosine degradation I	Vaginal	Control	Stool	11	Control_Vaginal_Stool
+L-valine degradation I	Vaginal	Control	Stool	11	Control_Vaginal_Stool
+NAD biosynthesis II (from tryptophan)	Vaginal	Control	Stool	11	Control_Vaginal_Stool
+nitrate reduction VI (assimilatory)	Vaginal	Control	Stool	11	Control_Vaginal_Stool
+pyruvate fermentation to butanoate	Vaginal	Control	Stool	11	Control_Vaginal_Stool
+pyruvate fermentation to propanoate I	Vaginal	Control	Stool	11	Control_Vaginal_Stool
+superpathway of Clostridium acetobutylicum acidogenic fermentation	Vaginal	Control	Stool	11	Control_Vaginal_Stool
+"cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)"	Csection	T1D	Stool	11	T1D_Csection_Stool
+"adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I"	Vaginal	T1D	Stool	11	T1D_Vaginal_Stool
+acetyl-CoA fermentation to butanoate II	Vaginal	T1D	Stool	11	T1D_Vaginal_Stool
+adenosylcobalamin salvage from cobinamide II	Vaginal	T1D	Stool	11	T1D_Vaginal_Stool
+aerobic respiration I (cytochrome c)	Vaginal	T1D	Stool	11	T1D_Vaginal_Stool
+glutaryl-CoA degradation	Vaginal	T1D	Stool	11	T1D_Vaginal_Stool
+L-glutamate degradation V (via hydroxyglutarate)	Vaginal	T1D	Stool	11	T1D_Vaginal_Stool
+mycolate biosynthesis	Vaginal	T1D	Stool	11	T1D_Vaginal_Stool
+nitrate reduction VI (assimilatory)	Vaginal	T1D	Stool	11	T1D_Vaginal_Stool

@@ -1,0 +1,10 @@
+baseMean	log2FoldChange	lfcSE	stat	pvalue	padj	Kingdom	Phylum	Class	Order	Family	Genus	
+ASV_7	15427.33358	-6.701101769	1.32522685	-5.056569575	4.27E-07	7.42E-05	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus
+ASV_11	5794.43142	-6.436658272	1.352454255	-4.759242871	1.94E-06	0.000270105	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus
+ASV_39	1717.509508	-7.15403759	1.72020722	-4.158823138	3.20E-05	0.003176065	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus
+ASV_61	740.0084484	-6.870053414	1.76674654	-3.888533674	0.000100852	0.007787991	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus
+ASV_207	48.88862142	-25.69505922	3.113306032	-8.253303388	1.54E-16	1.07E-13	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella
+ASV_225	39.99190811	6.035724747	0.971010646	6.215920258	5.10E-10	1.77E-07	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus
+ASV_230	15.48458786	-4.274306357	1.062557695	-4.022658136	5.75E-05	0.004999221	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus
+ASV_278	76.76014479	-12.66361886	2.097183503	-6.038393324	1.56E-09	3.61E-07	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus
+ASV_416	15.21883527	4.172784023	0.926427104	4.504168763	6.66E-06	0.000771835	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus

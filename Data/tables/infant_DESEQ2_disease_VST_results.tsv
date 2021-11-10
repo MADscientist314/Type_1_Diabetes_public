@@ -1,0 +1,8 @@
+"baseMean"	"log2FoldChange"	"lfcSE"	"stat"	"pvalue"	"padj"	"Kingdom"	"Phylum"	"Class"	"Order"	"Family"	"Genus"
+"ASV_134"	6034.04660994973	3.4627953879224	0.661728522281693	5.23295471076629	1.66821624436198e-07	1.22891930001333e-05	"Bacteria"	"Actinobacteria"	"Actinobacteria"	"Micrococcales"	"Micrococcaceae"	"Micrococcus"
+"ASV_220"	149.369795292294	4.40969140736351	0.792137887825697	5.56682299273358	2.59425681846588e-08	2.8666537844048e-06	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rhodobacterales"	"Rhodobacteraceae"	"Paracoccus"
+"ASV_284"	102.757384919116	4.70946625947192	1.12365600796	4.19119928706827	2.77483789660221e-05	0.00122647835029818	"Bacteria"	"Actinobacteria"	"Coriobacteriia"	"Coriobacteriales"	"Coriobacteriaceae"	"Collinsella"
+"ASV_522"	90.3817848473651	-24.6764341175121	3.28311083425743	-7.51617455616401	5.64022372302059e-14	1.24648944278755e-11	"Bacteria"	"Firmicutes"	"Erysipelotrichia"	"Erysipelotrichales"	"Erysipelotrichaceae"	"Erysipelatoclostridium"
+"ASV_976"	61.707332146403	3.082817770131	0.662352022279379	4.65434944928827	3.2500520231051e-06	0.000179565374276557	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Sphingomonadales"	"Sphingomonadaceae"	"Sphingomonas"
+"ASV_1146"	22.5541970326656	2.82495235088669	0.726298245617231	3.88952109953943	0.000100442236096908	0.00369962236290277	"Bacteria"	"Proteobacteria"	"Alphaproteobacteria"	"Rhizobiales"	"Beijerinckiaceae"	"Methylobacterium"
+"ASV_1246"	20.5095968522012	3.6195050293721	0.967906552002321	3.73951909085064	0.000184372646068621	0.00582090782588075	"Bacteria"	"Firmicutes"	"Clostridia"	"Clostridiales"	"Ruminococcaceae"	"Ruminococcaceae_UCG-002"

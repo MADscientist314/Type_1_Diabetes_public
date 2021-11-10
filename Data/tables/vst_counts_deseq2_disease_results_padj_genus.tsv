@@ -1,0 +1,11 @@
+
+out of 11 with nonzero total read count
+adjusted p-value < 0.01
+LFC > 0 (up)       : 10, 91%
+LFC < 0 (down)     : 1, 9.1%
+outliers [1]       : 0, 0%
+low counts [2]     : 0, 0%
+(mean count < 6)
+[1] see 'cooksCutoff' argument of ?results
+[2] see 'independentFiltering' argument of ?results
+

@@ -1,0 +1,5 @@
+	Cases	Control
+Age	30.5	32.4
+Age_deliv	30	32
+Ethnicity	50	42
+Geographical	50	42

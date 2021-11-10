@@ -1,0 +1,4 @@
+Delivery_mode	Cases	Control
+Caesarian	33	20
+Vaginal	12	17
+Vacuum-assisted vaginal delivery	5	5

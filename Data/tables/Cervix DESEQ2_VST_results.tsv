@@ -1,0 +1,6 @@
+"baseMean"	"log2FoldChange"	"lfcSE"	"stat"	"pvalue"	"padj"	"Kingdom"	"Phylum"	"Class"	"Order"	"Family"	"Genus"
+"ASV_72"	42.1255516179577	2.57154423660338	0.502238045316265	5.12017012766137	3.05260144141432e-07	7.47276832858225e-05	"Bacteria"	"Firmicutes"	"Bacilli"	"Lactobacillales"	"Lactobacillaceae"	"Lactobacillus"
+"ASV_73"	20.2799282913377	-3.84526229626859	0.542698030226031	-7.08545467664045	1.38588522826704e-12	5.65441173132952e-10	"Bacteria"	"Firmicutes"	"Bacilli"	"Lactobacillales"	"Lactobacillaceae"	"Lactobacillus"
+"ASV_90"	7.32403923751594	-24.9522177745985	2.92162100777608	-8.5405388680416	1.33597342515223e-17	1.63523147238633e-14	"Bacteria"	"Actinobacteria"	"Actinobacteria"	"Bifidobacteriales"	"Bifidobacteriaceae"	"Bifidobacterium"
+"ASV_147"	13.242105859189	-2.69245217943301	0.49217972445906	-5.4704654532289	4.48855197271613e-08	1.37349690365114e-05	"Bacteria"	"Firmicutes"	"Bacilli"	"Lactobacillales"	"Lactobacillaceae"	"Lactobacillus"
+"ASV_263"	2.28117035550199	-24.1102677894536	2.92192556060378	-8.25149966670318	1.5641907315881e-16	9.5728472773192e-14	"Bacteria"	"Actinobacteria"	"Actinobacteria"	"Bifidobacteriales"	"Bifidobacteriaceae"	"Bifidobacterium"

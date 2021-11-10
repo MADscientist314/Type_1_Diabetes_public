@@ -1,0 +1,12 @@
+
+	2-sample test for equality of proportions with continuity correction
+
+data:  tally(Delivery ~ Antibiotics_2)
+X-squared = 21.655, df = 1, p-value = 3.263e-06
+alternative hypothesis: two.sided
+95 percent confidence interval:
+ -0.7224222 -0.3139604
+sample estimates:
+   prop 1    prop 2 
+0.2115385 0.7297297 
+

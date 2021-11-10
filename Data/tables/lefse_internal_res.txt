@@ -1,0 +1,34 @@
+taxa	mean	sampletype with highest mean	highest sampletype mean	LDA score
+Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae	4.776650048	Anus	4.500526356	2.00E-55
+Bacteria.Actinobacteria.Coriobacteriia	4.998735967	Anus	4.720485316	7.44E-53
+Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales	4.998735967	Anus	4.721126135	7.44E-53
+Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales.Eggerthellaceae	4.333858511	Anus	4.06489753	2.92E-42
+Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales.Coriobacteriaceae	4.842972998	Anus	4.614727831	1.21E-41
+Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales.Coriobacteriaceae.Collinsella	4.842972998	Anus	4.616066058	1.21E-41
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae	4.811996955	Ear	4.486477962	8.66E-38
+Bacteria.Epsilonbacteraeota.Campylobacteria.Campylobacterales.Campylobacteraceae.Campylobacter	5.250553734	Anus	4.961307733	9.16E-38
+Bacteria.Epsilonbacteraeota	5.250553734	Anus	4.963564918	9.16E-38
+Bacteria.Epsilonbacteraeota.Campylobacteria.Campylobacterales.Campylobacteraceae	5.250553734	Anus	4.96282366	9.16E-38
+Bacteria.Epsilonbacteraeota.Campylobacteria	5.250553734	Anus	4.961059394	9.16E-38
+Bacteria.Epsilonbacteraeota.Campylobacteria.Campylobacterales	5.250553734	Anus	4.964565735	9.16E-38
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales.Moraxellaceae.Enhydrobacter	4.755440118	Ear	4.436828102	3.70E-37
+Bacteria.Proteobacteria.Gammaproteobacteria.Pseudomonadales	4.825282943	Ear	4.501029273	1.46E-36
+Bacteria.Firmicutes.Clostridia.Clostridiales.Family_XI	4.501821556	Anus	4.233896674	1.89E-36
+Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	4.934807622	Anus	4.572555264	6.36E-36
+Bacteria.Proteobacteria.Gammaproteobacteria.Betaproteobacteriales.Burkholderiaceae.Ralstonia	4.686218079	Ear	4.380206379	6.60E-36
+Bacteria.Firmicutes.Negativicutes	4.884730118	Anus	4.575884898	1.36E-34
+Bacteria.Firmicutes.Negativicutes.Selenomonadales	4.884730118	Anus	4.575192183	1.36E-34
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Xanthobacteraceae.Bradyrhizobium	4.406747328	Ear	4.148220168	8.89E-33
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales	4.575638128	Ear	4.293685996	7.06E-32
+Bacteria.Actinobacteria.Actinobacteria.Micrococcales.Micrococcaceae	4.720541362	Ear	4.405505399	1.70E-31
+Bacteria.Proteobacteria.Alphaproteobacteria.Rhizobiales.Xanthobacteraceae	4.481544423	Ear	4.202681792	2.23E-31
+Bacteria.Actinobacteria.Actinobacteria.Micrococcales	5.06660841	Stool	4.700147139	1.00E-26
+Bacteria.Proteobacteria.Gammaproteobacteria.Betaproteobacteriales	5.207140398	Ear	4.865104902	1.01E-25
+Bacteria.Firmicutes.Clostridia.Clostridiales	5.378033558	Anus	4.916692966	1.15E-25
+Bacteria.Firmicutes.Clostridia	5.378033558	Anus	4.91237671	1.15E-25
+Bacteria.Proteobacteria.Gammaproteobacteria	5.436845618	Ear	5.040756214	2.29E-24
+Bacteria.Proteobacteria.Gammaproteobacteria.Betaproteobacteriales.Burkholderiaceae	4.993645304	Ear	4.638996428	9.82E-24
+Bacteria	5.994663811	Anus	5.294496947	2.59E-11
+				
+				
+"g all the features, the logarithm value of the highest mean among all the classes, and if the feature is discriminative, the class with the highest mean and the logarithmic LDA score."				

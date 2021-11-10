@@ -1,0 +1,22 @@
+
+Call:
+adonis(formula = euc_dist_2 ~ disease * SampleType * Antibiotics_2,      data = sample_info_tab_2, permutations = 9999, method = "bray",      strata = sample_info_tab_2$SampleType) 
+
+Blocks:  strata 
+Permutation: free
+Number of permutations: 9999
+
+Terms added sequentially (first to last)
+
+                                  Df SumsOfSqs MeanSqs F.Model      R2 Pr(>F)    
+disease                            1     22417   22417  2.4139 0.00731 0.0001 ***
+SampleType                         5    625668  125134 13.4746 0.20389 0.0139 *  
+Antibiotics_2                      1     19292   19292  2.0774 0.00629 0.0002 ***
+disease:SampleType                 5     51411   10282  1.1072 0.01675 0.1846    
+disease:Antibiotics_2              1     19632   19632  2.1140 0.00640 0.0001 ***
+SampleType:Antibiotics_2           5     41891    8378  0.9022 0.01365 0.8489    
+disease:SampleType:Antibiotics_2   5     41005    8201  0.8831 0.01336 0.8891    
+Residuals                        242   2247371    9287         0.73236           
+Total                            265   3068686                 1.00000           
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

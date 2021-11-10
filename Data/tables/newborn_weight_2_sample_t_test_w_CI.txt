@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  newborn_weight by disease
+t = -1.5431, df = 89.187, p-value = 0.1264
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -343.61315   43.20362
+sample estimates:
+mean in group Control     mean in group T1D 
+             3402.595              3552.800 
+

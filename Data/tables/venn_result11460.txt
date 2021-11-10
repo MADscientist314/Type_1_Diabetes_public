@@ -1,0 +1,43 @@
+Names	total	elements
+Control_Csection_Ear Control_Csection_Stool Control_Vaginal_Ear Control_Vaginal_Stool T1D_Csection_Ear T1D_Csection_Stool T1D_Vaginal_Ear T1D_Vaginal_Stool	13	Anaerococcus
+		Finegoldia
+		Escherichia/Shigella
+		Streptococcus
+		Prevotella
+		Bacteroides
+		Ezakiella
+		Gardnerella
+		Staphylococcus
+		Corynebacterium_1
+		Enterococcus
+		Lactobacillus
+		Peptoniphilus
+Control_Csection_Ear Control_Vaginal_Ear Control_Vaginal_Stool T1D_Csection_Ear T1D_Csection_Stool T1D_Vaginal_Ear T1D_Vaginal_Stool	2	Bifidobacterium
+		Porphyromonas
+Control_Csection_Ear Control_Vaginal_Ear Control_Vaginal_Stool T1D_Csection_Ear T1D_Csection_Stool T1D_Vaginal_Ear	1	Faecalibacterium
+Control_Csection_Ear Control_Vaginal_Ear T1D_Csection_Ear T1D_Csection_Stool T1D_Vaginal_Ear T1D_Vaginal_Stool	2	Pseudomonas
+		Blautia
+Control_Csection_Ear Control_Vaginal_Ear Control_Vaginal_Stool T1D_Csection_Ear T1D_Csection_Stool	1	Dialister
+Control_Csection_Ear Control_Vaginal_Ear Control_Vaginal_Stool T1D_Csection_Ear	1	Lawsonella
+Control_Csection_Ear Control_Vaginal_Ear T1D_Csection_Ear T1D_Csection_Stool	2	Micrococcus
+		Acinetobacter
+Control_Csection_Ear Control_Vaginal_Ear T1D_Csection_Ear	1	Corynebacterium
+Control_Vaginal_Ear Control_Vaginal_Stool T1D_Csection_Ear	1	Actinomyces
+Control_Vaginal_Ear T1D_Csection_Ear T1D_Csection_Stool	2	Veillonella
+		Prevotella_6
+Control_Csection_Ear Control_Vaginal_Ear	1	Agathobacter
+Control_Vaginal_Ear T1D_Csection_Ear	2	Kocuria
+		Parabacteroides
+T1D_Csection_Ear T1D_Csection_Stool	2	Haemophilus
+		Enhydrobacter
+Control_Csection_Ear	3	Alistipes
+		genus
+		Subdoligranulum
+Control_Vaginal_Ear	5	Murdochiella
+		Cutibacterium
+		Romboutsia
+		Bradyrhizobium
+		Campylobacter
+T1D_Csection_Ear	3	Ralstonia
+		Ruminococcus_2
+		Ruminococcaceae_UCG-002

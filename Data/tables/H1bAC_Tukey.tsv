@@ -1,0 +1,11 @@
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = x)
+
+$variable
+                                       diff        lwr        upr     p adj
+Second.Trimester-First.Trimester -0.9936170 -1.3829062 -0.6043278 0.0000000
+Delivery-First.Trimester         -0.8586383 -1.2420437 -0.4752329 0.0000013
+Delivery-Second.Trimester         0.1349787 -0.2484267  0.5183841 0.6826300
+

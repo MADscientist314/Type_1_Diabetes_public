@@ -1,0 +1,10 @@
+ASV	baseMean	log2FoldChange	lfcSE	stat	pvalue	padj	Kingdom	Phylum	Class	Order	Family	Genus
+ASV_19	30278.77044	-3.106940878	0.801666914	-3.875600732	0.000106362	0.003322967	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Gardnerella
+ASV_25	24252.56811	-4.553970426	0.744345212	-6.118089234	9.47E-10	2.08E-07	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus
+ASV_112	25215.18361	-5.617689413	1.168982796	-4.805621976	1.54E-06	8.48E-05	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_6
+ASV_153	24038.60345	-5.521159802	1.139148155	-4.846744276	1.26E-06	8.48E-05	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia
+ASV_261	3917.406334	-6.780835478	1.430317621	-4.740790003	2.13E-06	9.37E-05	Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XI	Murdochiella
+ASV_307	2552.692256	-7.16312972	1.45825224	-4.912133526	9.01E-07	8.48E-05	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Peptostreptococcus
+ASV_417	2979.701457	-27.44756402	7.415048196	-3.701602915	0.000214242	0.00523702	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia
+ASV_650	2419.133977	-5.402060751	1.405167219	-3.844425545	0.000120835	0.003322967	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Mobiluncus
+ASV_1702	1130.369596	-14.26655918	3.237584913	-4.406543633	1.05E-05	0.000385122	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Dermabacteraceae	Dermabacter

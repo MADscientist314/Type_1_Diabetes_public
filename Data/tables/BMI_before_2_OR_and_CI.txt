@@ -1,0 +1,5 @@
+# A tibble: 2 x 7
+  term              estimate std.error statistic p.value      conf.low     conf.high
+  <chr>                <dbl>     <dbl>     <dbl>   <dbl>         <dbl>         <dbl>
+1 (Intercept)  6671400156.       0.176    129.    0      4725461634.   9418673453.  
+2 q$diseaseT1D          1.71     0.240      2.23  0.0260          1.07          2.74

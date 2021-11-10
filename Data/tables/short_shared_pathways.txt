@@ -1,0 +1,34 @@
+BioCyc ID	shared pathway
+NONOXIPENT-PWY	pentose phosphate pathway (non-oxidative branch)
+PWY-6277	superpathway of 5-aminoimidazole ribonucleotide biosynthesis
+DAPLYSINESYN-PWY	L-lysine biosynthesis I
+PWY-6892	thiazole biosynthesis I (E. coli)
+RIBOSYN2-PWY	flavin biosynthesis I (bacteria and plants)
+COBALSYN-PWY	adenosylcobalamin salvage from cobinamide I
+1CMET2-PWY	N10-formyl-tetrahydrofolate biosynthesis
+HISDEG-PWY	L-histidine degradation I
+BIOTIN-BIOSYNTHESIS-PWY	biotin biosynthesis I
+PWY-1269	CMP-3-deoxy-D-manno-octulosonate biosynthesis I
+GLYOXYLATE-BYPASS	glyoxylate cycle
+ARGDEG-PWY	"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"
+COLANSYN-PWY	colanic acid building blocks biosynthesis
+PWY-3781	aerobic respiration I (cytochrome c)   
+PWY-5022	4-aminobutanoate degradation V 
+PWY-5028	L-histidine degradation II
+PWY-6121	5-aminoimidazole ribonucleotide biosynthesis I
+PWY-6122	5-aminoimidazole ribonucleotide biosynthesis II
+PWY0-862	(5Z)-dodec-5-enoate biosynthesis
+PWY-6608	guanosine nucleotides degradation III
+PWY-5659	GDP-mannose biosynthesis
+THISYN-PWY	superpathway of thiamin diphosphate biosynthesis I
+PWY-6519	8-amino-7-oxononanoate biosynthesis I 
+NAGLIPASYN-PWY	lipid IVA biosynthesis
+GALACTARDEG-PWY	D-galactarate degradation I
+PWY-6497	D-glucarate degradation I
+FUCCAT-PWY	fucose degradation
+PWY0-42	2-methylcitrate cycle I
+PWY-5747	2-methylcitrate cycle II
+PWY-5509	"adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I "
+PWY-5505	L-glutamate and L-glutamine biosynthesis
+LEU-DEG2-PWY	L-leucine degradation I
+PWY-7377	"cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)"

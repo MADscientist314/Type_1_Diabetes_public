@@ -1,0 +1,2258 @@
+[[1]]
+              10k.m1.S47_Introitus 10k.m2.S59_Vagina 10k.m3.S71_Cervix
+10k.S24_Stool         0.0001049874      1.462643e-08      1.050353e-04
+10k.u.S8_Ear          0.0001005090      0.000000e+00      2.867046e-15
+              10k.o.S62_Anus   Unknown
+10k.S24_Stool    0.038126366 0.9616636
+10k.u.S8_Ear     0.004630089 0.9952694
+
+[[2]]
+           patient disease   Host SampleType Delivery Antibiotics
+10k.m1.S47      10 Control Mother  Introitus     <NA>        <NA>
+10k.m2.S59      10 Control Mother     Vagina     <NA>        <NA>
+10k.m3.S71      10 Control Mother     Cervix     <NA>        <NA>
+10k.o.S62       10 Control Mother       Anus     <NA>        <NA>
+10k.S24         10 Control Infant      Stool Csection      No_Abx
+10k.u.S8        10 Control Infant        Ear Csection      No_Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+10k.m1.S47               39           3280   NA   NA   NA   NA   NA
+10k.m2.S59               39           3280   NA   NA   NA   NA   NA
+10k.m3.S71               39           3280   NA   NA   NA   NA   NA
+10k.o.S62                39           3280   NA   NA   NA   NA   NA
+10k.S24                  39           3280   NA   NA   NA   NA   NA
+10k.u.S8                 39           3280   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+10k.m1.S47              37.3622            16.74925           65.6458
+10k.m2.S59              37.3622            16.74925           65.6458
+10k.m3.S71              37.3622            16.74925           65.6458
+10k.o.S62               37.3622            16.74925           65.6458
+10k.S24                 37.3622            16.74925           65.6458
+10k.u.S8                37.3622            16.74925           65.6458
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+10k.m1.S47     21.48438    26.36719            NA            NA
+10k.m2.S59     21.48438    26.36719            NA            NA
+10k.m3.S71     21.48438    26.36719            NA            NA
+10k.o.S62      21.48438    26.36719            NA            NA
+10k.S24        21.48438    26.36719            NA            NA
+10k.u.S8       21.48438    26.36719            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+10k.m1.S47            NA          NA               NA        No_Abx
+10k.m2.S59            NA          NA               NA        No_Abx
+10k.m3.S71            NA          NA               NA        No_Abx
+10k.o.S62             NA          NA               NA        No_Abx
+10k.S24               NA          NA               NA        No_Abx
+10k.u.S8              NA          NA               NA        No_Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+10k.m1.S47                        <NA>                    <NA>
+10k.m2.S59                        <NA>                    <NA>
+10k.m3.S71                        <NA>                    <NA>
+10k.o.S62                         <NA>                    <NA>
+10k.S24                           <NA>                    <NA>
+10k.u.S8                          <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+10k.m1.S47                         <NA> Introitus 10k.m1.S47     source NA
+10k.m2.S59                         <NA>    Vagina 10k.m2.S59     source NA
+10k.m3.S71                         <NA>    Cervix 10k.m3.S71     source NA
+10k.o.S62                          <NA>      Anus  10k.o.S62     source NA
+10k.S24                            <NA>     Stool    10k.S24       sink  2
+10k.u.S8                           <NA>       Ear   10k.u.S8       sink  1
+
+[[3]]
+              11k.m1.S75_Introitus 11k.m2.S87_Vagina 11k.m3.S83_Cervix
+11k.S30_Stool          0.001853025      1.571681e-06      3.385239e-05
+11k.u.S32_Ear          0.059000640      1.892189e-02      3.593805e-01
+              11k.o.S29_Anus   Unknown
+11k.S30_Stool     0.00433475 0.9937768
+11k.u.S32_Ear     0.02623930 0.5364576
+
+[[4]]
+           patient disease   Host SampleType Delivery Antibiotics
+11k.m1.S75      11 Control Mother  Introitus     <NA>        <NA>
+11k.m2.S87      11 Control Mother     Vagina     <NA>        <NA>
+11k.m3.S83      11 Control Mother     Cervix     <NA>        <NA>
+11k.o.S29       11 Control Mother       Anus     <NA>        <NA>
+11k.S30         11 Control Infant      Stool  Vaginal      No_Abx
+11k.u.S32       11 Control Infant        Ear  Vaginal      No_Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+11k.m1.S75               39           3530   NA   NA   NA   NA   NA
+11k.m2.S87               39           3530   NA   NA   NA   NA   NA
+11k.m3.S83               39           3530   NA   NA   NA   NA   NA
+11k.o.S29                39           3530   NA   NA   NA   NA   NA
+11k.S30                  39           3530   NA   NA   NA   NA   NA
+11k.u.S32                39           3530   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+11k.m1.S75             23.71807            18.95838          79.35682
+11k.m2.S87             23.71807            18.95838          79.35682
+11k.m3.S83             23.71807            18.95838          79.35682
+11k.o.S29              23.71807            18.95838          79.35682
+11k.S30                23.71807            18.95838          79.35682
+11k.u.S32              23.71807            18.95838          79.35682
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+11k.m1.S75     26.12861    30.48338            NA            NA
+11k.m2.S87     26.12861    30.48338            NA            NA
+11k.m3.S83     26.12861    30.48338            NA            NA
+11k.o.S29      26.12861    30.48338            NA            NA
+11k.S30        26.12861    30.48338            NA            NA
+11k.u.S32      26.12861    30.48338            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+11k.m1.S75            NA          NA               NA        No_Abx
+11k.m2.S87            NA          NA               NA        No_Abx
+11k.m3.S83            NA          NA               NA        No_Abx
+11k.o.S29             NA          NA               NA        No_Abx
+11k.S30               NA          NA               NA        No_Abx
+11k.u.S32             NA          NA               NA        No_Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+11k.m1.S75                        <NA>                    <NA>
+11k.m2.S87                        <NA>                    <NA>
+11k.m3.S83                        <NA>                    <NA>
+11k.o.S29                         <NA>                    <NA>
+11k.S30                           <NA>                    <NA>
+11k.u.S32                         <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+11k.m1.S75                         <NA> Introitus 11k.m1.S75     source NA
+11k.m2.S87                         <NA>    Vagina 11k.m2.S87     source NA
+11k.m3.S83                         <NA>    Cervix 11k.m3.S83     source NA
+11k.o.S29                          <NA>      Anus  11k.o.S29     source NA
+11k.S30                            <NA>     Stool    11k.S30       sink  2
+11k.u.S32                          <NA>       Ear  11k.u.S32       sink  1
+
+[[5]]
+              12k.m1.S95_Introitus 12k.m2.S12_Vagina 12k.m3.S24_Cervix
+12k.S36_Stool         9.903379e-06      5.413454e-08       0.004919153
+12k.u.S48_Ear         6.531832e-05      7.234080e-03       0.015532686
+              12k.o.S1_Anus   Unknown
+12k.S36_Stool   0.004057461 0.9910134
+12k.u.S48_Ear   0.083868463 0.8932995
+
+[[6]]
+           patient disease   Host SampleType Delivery Antibiotics
+12k.m1.S95      12 Control Mother  Introitus     <NA>        <NA>
+12k.m2.S12      12 Control Mother     Vagina     <NA>        <NA>
+12k.m3.S24      12 Control Mother     Cervix     <NA>        <NA>
+12k.o.S1        12 Control Mother       Anus     <NA>        <NA>
+12k.S36         12 Control Infant      Stool Csection      No_Abx
+12k.u.S48       12 Control Infant        Ear Csection      No_Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+12k.m1.S95               38           4530   NA   NA   NA   NA   NA
+12k.m2.S12               38           4530   NA   NA   NA   NA   NA
+12k.m3.S24               38           4530   NA   NA   NA   NA   NA
+12k.o.S1                 38           4530   NA   NA   NA   NA   NA
+12k.S36                  38           4530   NA   NA   NA   NA   NA
+12k.u.S48                38           4530   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+12k.m1.S95                   NA                  NA                NA
+12k.m2.S12                   NA                  NA                NA
+12k.m3.S24                   NA                  NA                NA
+12k.o.S1                     NA                  NA                NA
+12k.S36                      NA                  NA                NA
+12k.u.S48                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+12k.m1.S95     21.63332    28.39373            NA            NA
+12k.m2.S12     21.63332    28.39373            NA            NA
+12k.m3.S24     21.63332    28.39373            NA            NA
+12k.o.S1       21.63332    28.39373            NA            NA
+12k.S36        21.63332    28.39373            NA            NA
+12k.u.S48      21.63332    28.39373            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+12k.m1.S95            NA          NA               NA        No_Abx
+12k.m2.S12            NA          NA               NA        No_Abx
+12k.m3.S24            NA          NA               NA        No_Abx
+12k.o.S1              NA          NA               NA        No_Abx
+12k.S36               NA          NA               NA        No_Abx
+12k.u.S48             NA          NA               NA        No_Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+12k.m1.S95                        <NA>                    <NA>
+12k.m2.S12                        <NA>                    <NA>
+12k.m3.S24                        <NA>                    <NA>
+12k.o.S1                          <NA>                    <NA>
+12k.S36                           <NA>                    <NA>
+12k.u.S48                         <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+12k.m1.S95                         <NA> Introitus 12k.m1.S95     source NA
+12k.m2.S12                         <NA>    Vagina 12k.m2.S12     source NA
+12k.m3.S24                         <NA>    Cervix 12k.m3.S24     source NA
+12k.o.S1                           <NA>      Anus   12k.o.S1     source NA
+12k.S36                            <NA>     Stool    12k.S36       sink  2
+12k.u.S48                          <NA>       Ear  12k.u.S48       sink  1
+
+[[7]]
+              13k.m1.S72_Introitus 13k.m2.S84_Vagina 13k.m3.S96_Cervix
+13k.S40_Stool         0.0004845562      1.777211e-06      2.071762e-08
+13k.u.S60_Ear         0.1879164672      1.299057e-02      2.596987e-01
+              13k.o.S44_Anus   Unknown
+13k.S40_Stool   0.0003613362 0.9991523
+13k.u.S60_Ear   0.0007752908 0.5386190
+
+[[8]]
+           patient disease   Host SampleType Delivery Antibiotics
+13k.m1.S72      13 Control Mother  Introitus     <NA>        <NA>
+13k.m2.S84      13 Control Mother     Vagina     <NA>        <NA>
+13k.m3.S96      13 Control Mother     Cervix     <NA>        <NA>
+13k.o.S44       13 Control Mother       Anus     <NA>        <NA>
+13k.S40         13 Control Infant      Stool Csection         Abx
+13k.u.S60       13 Control Infant        Ear Csection         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+13k.m1.S72               38           3490   NA   NA   NA   NA   NA
+13k.m2.S84               38           3490   NA   NA   NA   NA   NA
+13k.m3.S96               38           3490   NA   NA   NA   NA   NA
+13k.o.S44                38           3490   NA   NA   NA   NA   NA
+13k.S40                  38           3490   NA   NA   NA   NA   NA
+13k.u.S60                38           3490   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+13k.m1.S72             25.97482             17.4512           80.6876
+13k.m2.S84             25.97482             17.4512           80.6876
+13k.m3.S96             25.97482             17.4512           80.6876
+13k.o.S44              25.97482             17.4512           80.6876
+13k.S40                25.97482             17.4512           80.6876
+13k.u.S60              25.97482             17.4512           80.6876
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+13k.m1.S72      25.0995    30.83653            NA            NA
+13k.m2.S84      25.0995    30.83653            NA            NA
+13k.m3.S96      25.0995    30.83653            NA            NA
+13k.o.S44       25.0995    30.83653            NA            NA
+13k.S40         25.0995    30.83653            NA            NA
+13k.u.S60       25.0995    30.83653            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+13k.m1.S72            NA          NA               NA           Abx
+13k.m2.S84            NA          NA               NA           Abx
+13k.m3.S96            NA          NA               NA           Abx
+13k.o.S44             NA          NA               NA           Abx
+13k.S40               NA          NA               NA           Abx
+13k.u.S60             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+13k.m1.S72                         AN1                    <NA>
+13k.m2.S84                         AN1                    <NA>
+13k.m3.S96                         AN1                    <NA>
+13k.o.S44                          AN1                    <NA>
+13k.S40                            AN1                    <NA>
+13k.u.S60                          AN1                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+13k.m1.S72                         <NA> Introitus 13k.m1.S72     source NA
+13k.m2.S84                         <NA>    Vagina 13k.m2.S84     source NA
+13k.m3.S96                         <NA>    Cervix 13k.m3.S96     source NA
+13k.o.S44                          <NA>      Anus  13k.o.S44     source NA
+13k.S40                            <NA>     Stool    13k.S40       sink  2
+13k.u.S60                          <NA>       Ear  13k.u.S60       sink  1
+
+[[9]]
+              14k.m1.S36_Introitus 14k.m2.S48_Vagina 14k.m3.S60_Cervix
+14k.S3_Stool            0.03657278      8.727011e-04     8.756888e-216
+14k.u.S13_Ear           0.08963492      1.685260e-10      9.984074e-56
+              14k.o.S25_Anus   Unknown
+14k.S3_Stool     0.448826104 0.5137284
+14k.u.S13_Ear    0.003193565 0.9071715
+
+[[10]]
+           patient disease   Host SampleType Delivery Antibiotics
+14k.m1.S36      14 Control Mother  Introitus     <NA>        <NA>
+14k.m2.S48      14 Control Mother     Vagina     <NA>        <NA>
+14k.m3.S60      14 Control Mother     Cervix     <NA>        <NA>
+14k.o.S25       14 Control Mother       Anus     <NA>        <NA>
+14k.S3          14 Control Infant      Stool  Vaginal         Abx
+14k.u.S13       14 Control Infant        Ear  Vaginal         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+14k.m1.S36               39           3140   NA   NA   NA   NA   NA
+14k.m2.S48               39           3140   NA   NA   NA   NA   NA
+14k.m3.S60               39           3140   NA   NA   NA   NA   NA
+14k.o.S25                39           3140   NA   NA   NA   NA   NA
+14k.S3                   39           3140   NA   NA   NA   NA   NA
+14k.u.S13                39           3140   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+14k.m1.S36                   NA                  NA                NA
+14k.m2.S48                   NA                  NA                NA
+14k.m3.S60                   NA                  NA                NA
+14k.o.S25                    NA                  NA                NA
+14k.S3                       NA                  NA                NA
+14k.u.S13                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+14k.m1.S36     23.38435    29.05329            NA            NA
+14k.m2.S48     23.38435    29.05329            NA            NA
+14k.m3.S60     23.38435    29.05329            NA            NA
+14k.o.S25      23.38435    29.05329            NA            NA
+14k.S3         23.38435    29.05329            NA            NA
+14k.u.S13      23.38435    29.05329            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+14k.m1.S36            NA          NA               NA           Abx
+14k.m2.S48            NA          NA               NA           Abx
+14k.m3.S60            NA          NA               NA           Abx
+14k.o.S25             NA          NA               NA           Abx
+14k.S3                NA          NA               NA           Abx
+14k.u.S13             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+14k.m1.S36                        <NA>                    <NA>
+14k.m2.S48                        <NA>                    <NA>
+14k.m3.S60                        <NA>                    <NA>
+14k.o.S25                         <NA>                    <NA>
+14k.S3                            <NA>                    <NA>
+14k.u.S13                         <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+14k.m1.S36                          AN5 Introitus 14k.m1.S36     source NA
+14k.m2.S48                          AN5    Vagina 14k.m2.S48     source NA
+14k.m3.S60                          AN5    Cervix 14k.m3.S60     source NA
+14k.o.S25                           AN5      Anus  14k.o.S25     source NA
+14k.S3                              AN5     Stool     14k.S3       sink  2
+14k.u.S13                           AN5       Ear  14k.u.S13       sink  1
+
+[[11]]
+              15k.m1.S49_Introitus 15k.m2.S55_Vagina 15k.m3.S61_Cervix
+15k.S9_Stool          0.0005429863      1.571943e-04      9.152435e-26
+15k.u.S84_Ear         0.1448170401      1.857125e-07      1.430573e-10
+                Unknown
+15k.S9_Stool  0.9992998
+15k.u.S84_Ear 0.8551828
+
+[[12]]
+           patient disease   Host SampleType Delivery Antibiotics
+15k.m1.S49      15 Control Mother  Introitus     <NA>        <NA>
+15k.m2.S55      15 Control Mother     Vagina     <NA>        <NA>
+15k.m3.S61      15 Control Mother     Cervix     <NA>        <NA>
+15k.S9          15 Control Infant      Stool Csection         Abx
+15k.u.S84       15 Control Infant        Ear Csection         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+15k.m1.S49               40           3500   NA   NA   NA   NA   NA
+15k.m2.S55               40           3500   NA   NA   NA   NA   NA
+15k.m3.S61               40           3500   NA   NA   NA   NA   NA
+15k.S9                   40           3500   NA   NA   NA   NA   NA
+15k.u.S84                40           3500   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+15k.m1.S49                   NA                  NA                NA
+15k.m2.S55                   NA                  NA                NA
+15k.m3.S61                   NA                  NA                NA
+15k.S9                       NA                  NA                NA
+15k.u.S84                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+15k.m1.S49     23.50781    28.28283            NA            NA
+15k.m2.S55     23.50781    28.28283            NA            NA
+15k.m3.S61     23.50781    28.28283            NA            NA
+15k.S9         23.50781    28.28283            NA            NA
+15k.u.S84      23.50781    28.28283            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+15k.m1.S49            NA          NA               NA           Abx
+15k.m2.S55            NA          NA               NA           Abx
+15k.m3.S61            NA          NA               NA           Abx
+15k.S9                NA          NA               NA           Abx
+15k.u.S84             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+15k.m1.S49                        <NA>                     AN2
+15k.m2.S55                        <NA>                     AN2
+15k.m3.S61                        <NA>                     AN2
+15k.S9                            <NA>                     AN2
+15k.u.S84                         <NA>                     AN2
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+15k.m1.S49                         <NA> Introitus 15k.m1.S49     source NA
+15k.m2.S55                         <NA>    Vagina 15k.m2.S55     source NA
+15k.m3.S61                         <NA>    Cervix 15k.m3.S61     source NA
+15k.S9                             <NA>     Stool     15k.S9       sink  2
+15k.u.S84                          <NA>       Ear  15k.u.S84       sink  1
+
+[[13]]
+              17k.m1.S85_Introitus 17k.m2.S91_Vagina 17k.m3.S50_Cervix
+17k.S15_Stool            0.3762085      0.0002753555     1.617247e-113
+17k.u.S60_Ear            0.9531353      0.0006824547     1.742750e-186
+              17k.o.S27_Anus    Unknown
+17k.S15_Stool     0.09532625 0.52818993
+17k.u.S60_Ear     0.01035472 0.03582752
+
+[[14]]
+           patient disease   Host SampleType Delivery Antibiotics
+17k.m1.S85      17 Control Mother  Introitus     <NA>        <NA>
+17k.m2.S91      17 Control Mother     Vagina     <NA>        <NA>
+17k.m3.S50      17 Control Mother     Cervix     <NA>        <NA>
+17k.o.S27       17 Control Mother       Anus     <NA>        <NA>
+17k.S15         17 Control Infant      Stool  Vaginal      No_Abx
+17k.u.S60       17 Control Infant        Ear  Vaginal      No_Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+17k.m1.S85               40           3620   NA   NA   NA   NA   NA
+17k.m2.S91               40           3620   NA   NA   NA   NA   NA
+17k.m3.S50               40           3620   NA   NA   NA   NA   NA
+17k.o.S27                40           3620   NA   NA   NA   NA   NA
+17k.S15                  40           3620   NA   NA   NA   NA   NA
+17k.u.S60                40           3620   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+17k.m1.S85                   NA                  NA                NA
+17k.m2.S91                   NA                  NA                NA
+17k.m3.S50                   NA                  NA                NA
+17k.o.S27                    NA                  NA                NA
+17k.S15                      NA                  NA                NA
+17k.u.S60                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+17k.m1.S85     23.83673    30.04082            NA            NA
+17k.m2.S91     23.83673    30.04082            NA            NA
+17k.m3.S50     23.83673    30.04082            NA            NA
+17k.o.S27      23.83673    30.04082            NA            NA
+17k.S15        23.83673    30.04082            NA            NA
+17k.u.S60      23.83673    30.04082            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+17k.m1.S85            NA          NA               NA        No_Abx
+17k.m2.S91            NA          NA               NA        No_Abx
+17k.m3.S50            NA          NA               NA        No_Abx
+17k.o.S27             NA          NA               NA        No_Abx
+17k.S15               NA          NA               NA        No_Abx
+17k.u.S60             NA          NA               NA        No_Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+17k.m1.S85                        <NA>                    <NA>
+17k.m2.S91                        <NA>                    <NA>
+17k.m3.S50                        <NA>                    <NA>
+17k.o.S27                         <NA>                    <NA>
+17k.S15                           <NA>                    <NA>
+17k.u.S60                         <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+17k.m1.S85                         <NA> Introitus 17k.m1.S85     source NA
+17k.m2.S91                         <NA>    Vagina 17k.m2.S91     source NA
+17k.m3.S50                         <NA>    Cervix 17k.m3.S50     source NA
+17k.o.S27                          <NA>      Anus  17k.o.S27     source NA
+17k.S15                            <NA>     Stool    17k.S15       sink  2
+17k.u.S60                          <NA>       Ear  17k.u.S60       sink  1
+
+[[15]]
+              18k.m1.S56_Introitus 18k.m2.S9_Vagina 18k.m3.S62_Cervix
+18k.u.S56_Ear         1.666363e-05     2.746454e-06      3.640627e-07
+              18k.o.S39_Anus   Unknown
+18k.u.S56_Ear     0.00927651 0.9907037
+
+[[16]]
+           patient disease   Host SampleType Delivery Antibiotics
+18k.m1.S56      18 Control Mother  Introitus     <NA>        <NA>
+18k.m2.S9       18 Control Mother     Vagina     <NA>        <NA>
+18k.m3.S62      18 Control Mother     Cervix     <NA>        <NA>
+18k.o.S39       18 Control Mother       Anus     <NA>        <NA>
+18k.u.S56       18 Control Infant        Ear  Vaginal      No_Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+18k.m1.S56               39           2750   NA   NA   NA   NA   NA
+18k.m2.S9                39           2750   NA   NA   NA   NA   NA
+18k.m3.S62               39           2750   NA   NA   NA   NA   NA
+18k.o.S39                39           2750   NA   NA   NA   NA   NA
+18k.u.S56                39           2750   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+18k.m1.S56             26.14863            17.10178          60.47661
+18k.m2.S9              26.14863            17.10178          60.47661
+18k.m3.S62             26.14863            17.10178          60.47661
+18k.o.S39              26.14863            17.10178          60.47661
+18k.u.S56              26.14863            17.10178          60.47661
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+18k.m1.S56     16.90103    20.78826            NA            NA
+18k.m2.S9      16.90103    20.78826            NA            NA
+18k.m3.S62     16.90103    20.78826            NA            NA
+18k.o.S39      16.90103    20.78826            NA            NA
+18k.u.S56      16.90103    20.78826            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+18k.m1.S56            NA          NA               NA        No_Abx
+18k.m2.S9             NA          NA               NA        No_Abx
+18k.m3.S62            NA          NA               NA        No_Abx
+18k.o.S39             NA          NA               NA        No_Abx
+18k.u.S56             NA          NA               NA        No_Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+18k.m1.S56                        <NA>                    <NA>
+18k.m2.S9                         <NA>                    <NA>
+18k.m3.S62                        <NA>                    <NA>
+18k.o.S39                         <NA>                    <NA>
+18k.u.S56                         <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+18k.m1.S56                         <NA> Introitus 18k.m1.S56     source NA
+18k.m2.S9                          <NA>    Vagina  18k.m2.S9     source NA
+18k.m3.S62                         <NA>    Cervix 18k.m3.S62     source NA
+18k.o.S39                          <NA>      Anus  18k.o.S39     source NA
+18k.u.S56                          <NA>       Ear  18k.u.S56       sink  1
+
+[[17]]
+              19k.m1.S21_Introitus 19k.m2.S33_Vagina 19k.m3.S68_Cervix
+19k.S25_Stool         9.046688e-05      1.044512e-05      8.057698e-07
+19k.u.S97_Ear         5.322906e-02      5.949971e-02      3.592676e-02
+              19k.o.S63_Anus   Unknown
+19k.S25_Stool    0.001273072 0.9986252
+19k.u.S97_Ear    0.008356613 0.8429879
+
+[[18]]
+           patient disease   Host SampleType Delivery Antibiotics
+19k.m1.S21      19 Control Mother  Introitus     <NA>        <NA>
+19k.m2.S33      19 Control Mother     Vagina     <NA>        <NA>
+19k.m3.S68      19 Control Mother     Cervix     <NA>        <NA>
+19k.o.S63       19 Control Mother       Anus     <NA>        <NA>
+19k.S25         19 Control Infant      Stool  Vaginal      No_Abx
+19k.u.S97       19 Control Infant        Ear  Vaginal      No_Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+19k.m1.S21               38           3530   NA   NA   NA   NA   NA
+19k.m2.S33               38           3530   NA   NA   NA   NA   NA
+19k.m3.S68               38           3530   NA   NA   NA   NA   NA
+19k.o.S63                38           3530   NA   NA   NA   NA   NA
+19k.S25                  38           3530   NA   NA   NA   NA   NA
+19k.u.S97                38           3530   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+19k.m1.S21                   NA                  NA                NA
+19k.m2.S33                   NA                  NA                NA
+19k.m3.S68                   NA                  NA                NA
+19k.o.S63                    NA                  NA                NA
+19k.S25                      NA                  NA                NA
+19k.u.S97                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+19k.m1.S21     23.33547    25.78193            NA            NA
+19k.m2.S33     23.33547    25.78193            NA            NA
+19k.m3.S68     23.33547    25.78193            NA            NA
+19k.o.S63      23.33547    25.78193            NA            NA
+19k.S25        23.33547    25.78193            NA            NA
+19k.u.S97      23.33547    25.78193            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+19k.m1.S21            NA          NA               NA        No_Abx
+19k.m2.S33            NA          NA               NA        No_Abx
+19k.m3.S68            NA          NA               NA        No_Abx
+19k.o.S63             NA          NA               NA        No_Abx
+19k.S25               NA          NA               NA        No_Abx
+19k.u.S97             NA          NA               NA        No_Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+19k.m1.S21                        <NA>                    <NA>
+19k.m2.S33                        <NA>                    <NA>
+19k.m3.S68                        <NA>                    <NA>
+19k.o.S63                         <NA>                    <NA>
+19k.S25                           <NA>                    <NA>
+19k.u.S97                         <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+19k.m1.S21                         <NA> Introitus 19k.m1.S21     source NA
+19k.m2.S33                         <NA>    Vagina 19k.m2.S33     source NA
+19k.m3.S68                         <NA>    Cervix 19k.m3.S68     source NA
+19k.o.S63                          <NA>      Anus  19k.o.S63     source NA
+19k.S25                            <NA>     Stool    19k.S25       sink  2
+19k.u.S97                          <NA>       Ear  19k.u.S97       sink  1
+
+[[19]]
+              20k.m1.S74_Introitus 20k.m2.S80_Vagina 20k.m3.S86_Cervix
+20k.S31_Stool          0.004287549      4.454931e-07      1.718858e-07
+20k.u.S98_Ear          0.019525400      1.976867e-06      3.568653e-09
+              20k.o.S87_Anus   Unknown
+20k.S31_Stool    0.002411834 0.9933000
+20k.u.S98_Ear    0.044391078 0.9360815
+
+[[20]]
+           patient disease   Host SampleType Delivery Antibiotics
+20k.m1.S74      20 Control Mother  Introitus     <NA>        <NA>
+20k.m2.S80      20 Control Mother     Vagina     <NA>        <NA>
+20k.m3.S86      20 Control Mother     Cervix     <NA>        <NA>
+20k.o.S87       20 Control Mother       Anus     <NA>        <NA>
+20k.S31         20 Control Infant      Stool Csection         Abx
+20k.u.S98       20 Control Infant        Ear Csection         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+20k.m1.S74               41           3200   NA   NA   NA   NA   NA
+20k.m2.S80               41           3200   NA   NA   NA   NA   NA
+20k.m3.S86               41           3200   NA   NA   NA   NA   NA
+20k.o.S87                41           3200   NA   NA   NA   NA   NA
+20k.S31                  41           3200   NA   NA   NA   NA   NA
+20k.u.S98                41           3200   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+20k.m1.S74                   NA                  NA                NA
+20k.m2.S80                   NA                  NA                NA
+20k.m3.S86                   NA                  NA                NA
+20k.o.S87                    NA                  NA                NA
+20k.S31                      NA                  NA                NA
+20k.u.S98                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+20k.m1.S74     21.41094    26.12861            NA            NA
+20k.m2.S80     21.41094    26.12861            NA            NA
+20k.m3.S86     21.41094    26.12861            NA            NA
+20k.o.S87      21.41094    26.12861            NA            NA
+20k.S31        21.41094    26.12861            NA            NA
+20k.u.S98      21.41094    26.12861            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+20k.m1.S74            NA          NA               NA           Abx
+20k.m2.S80            NA          NA               NA           Abx
+20k.m3.S86            NA          NA               NA           Abx
+20k.o.S87             NA          NA               NA           Abx
+20k.S31               NA          NA               NA           Abx
+20k.u.S98             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+20k.m1.S74                         AN1                    <NA>
+20k.m2.S80                         AN1                    <NA>
+20k.m3.S86                         AN1                    <NA>
+20k.o.S87                          AN1                    <NA>
+20k.S31                            AN1                    <NA>
+20k.u.S98                          AN1                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+20k.m1.S74                          AN5 Introitus 20k.m1.S74     source NA
+20k.m2.S80                          AN5    Vagina 20k.m2.S80     source NA
+20k.m3.S86                          AN5    Cervix 20k.m3.S86     source NA
+20k.o.S87                           AN5      Anus  20k.o.S87     source NA
+20k.S31                             AN5     Stool    20k.S31       sink  2
+20k.u.S98                           AN5       Ear  20k.u.S98       sink  1
+
+[[21]]
+              21k.m1.S77_Introitus 21k.m2.S89_Vagina 21k.m3.S27_Cervix
+21k.S37_Stool         9.537173e-06      5.197369e-10        0.01138756
+21k.u.S99_Ear         8.053934e-03      1.484795e-01        0.50639620
+              21k.o.S35_Anus 21k.o.S4_Anus   Unknown
+21k.S37_Stool    0.001844777  0.0002604444 0.9864977
+21k.u.S99_Ear    0.050225691  0.0543515561 0.2324931
+
+[[22]]
+           patient disease   Host SampleType Delivery Antibiotics
+21k.m1.S77      21 Control Mother  Introitus     <NA>        <NA>
+21k.m2.S89      21 Control Mother     Vagina     <NA>        <NA>
+21k.m3.S27      21 Control Mother     Cervix     <NA>        <NA>
+21k.o.S35       21 Control Mother       Anus     <NA>        <NA>
+21k.o.S4        21 Control Mother       Anus     <NA>        <NA>
+21k.S37         21 Control Infant      Stool  Vaginal      No_Abx
+21k.u.S99       21 Control Infant        Ear  Vaginal      No_Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+21k.m1.S77               39           3080   NA   NA   NA   NA   NA
+21k.m2.S89               39           3080   NA   NA   NA   NA   NA
+21k.m3.S27               39           3080   NA   NA   NA   NA   NA
+21k.o.S35                39           3080   NA   NA   NA   NA   NA
+21k.o.S4                 39           3080   NA   NA   NA   NA   NA
+21k.S37                  39           3080   NA   NA   NA   NA   NA
+21k.u.S99                39           3080   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+21k.m1.S77             27.78629            19.95312          75.27192
+21k.m2.S89             27.78629            19.95312          75.27192
+21k.m3.S27             27.78629            19.95312          75.27192
+21k.o.S35              27.78629            19.95312          75.27192
+21k.o.S4               27.78629            19.95312          75.27192
+21k.S37                27.78629            19.95312          75.27192
+21k.u.S99              27.78629            19.95312          75.27192
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+21k.m1.S77     27.60945    32.98792            NA            NA
+21k.m2.S89     27.60945    32.98792            NA            NA
+21k.m3.S27     27.60945    32.98792            NA            NA
+21k.o.S35      27.60945    32.98792            NA            NA
+21k.o.S4       27.60945    32.98792            NA            NA
+21k.S37        27.60945    32.98792            NA            NA
+21k.u.S99      27.60945    32.98792            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+21k.m1.S77            NA          NA               NA        No_Abx
+21k.m2.S89            NA          NA               NA        No_Abx
+21k.m3.S27            NA          NA               NA        No_Abx
+21k.o.S35             NA          NA               NA        No_Abx
+21k.o.S4              NA          NA               NA        No_Abx
+21k.S37               NA          NA               NA        No_Abx
+21k.u.S99             NA          NA               NA        No_Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+21k.m1.S77                        <NA>                    <NA>
+21k.m2.S89                        <NA>                    <NA>
+21k.m3.S27                        <NA>                    <NA>
+21k.o.S35                         <NA>                    <NA>
+21k.o.S4                          <NA>                    <NA>
+21k.S37                           <NA>                    <NA>
+21k.u.S99                         <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+21k.m1.S77                         <NA> Introitus 21k.m1.S77     source NA
+21k.m2.S89                         <NA>    Vagina 21k.m2.S89     source NA
+21k.m3.S27                         <NA>    Cervix 21k.m3.S27     source NA
+21k.o.S35                          <NA>      Anus  21k.o.S35     source NA
+21k.o.S4                           <NA>      Anus   21k.o.S4     source NA
+21k.S37                            <NA>     Stool    21k.S37       sink  2
+21k.u.S99                          <NA>       Ear  21k.u.S99       sink  1
+
+[[23]]
+               22k.m1.S6_Introitus 22k.m2.S18_Vagina 22k.m3.S30_Cervix
+22k.S41_Stool         5.152617e-08      2.702062e-10      3.384791e-13
+22k.u.S100_Ear        1.522672e-06      3.136859e-04      3.432987e-04
+               22k.o.S11_Anus 22k.o.S16_Anus   Unknown
+22k.S41_Stool     0.005322401   3.755853e-05 0.9946400
+22k.u.S100_Ear    0.053255914   4.725413e-02 0.8988315
+
+[[24]]
+           patient disease   Host SampleType Delivery Antibiotics
+22k.m1.S6       22 Control Mother  Introitus     <NA>        <NA>
+22k.m2.S18      22 Control Mother     Vagina     <NA>        <NA>
+22k.m3.S30      22 Control Mother     Cervix     <NA>        <NA>
+22k.o.S11       22 Control Mother       Anus     <NA>        <NA>
+22k.o.S16       22 Control Mother       Anus     <NA>        <NA>
+22k.S41         22 Control Infant      Stool  Vaginal      No_Abx
+22k.u.S100      22 Control Infant        Ear  Vaginal      No_Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+22k.m1.S6                41           3460   NA   NA   NA   NA   NA
+22k.m2.S18               41           3460   NA   NA   NA   NA   NA
+22k.m3.S30               41           3460   NA   NA   NA   NA   NA
+22k.o.S11                41           3460   NA   NA   NA   NA   NA
+22k.o.S16                41           3460   NA   NA   NA   NA   NA
+22k.S41                  41           3460   NA   NA   NA   NA   NA
+22k.u.S100               41           3460   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+22k.m1.S6                    NA                  NA                NA
+22k.m2.S18                   NA                  NA                NA
+22k.m3.S30                   NA                  NA                NA
+22k.o.S11                    NA                  NA                NA
+22k.o.S16                    NA                  NA                NA
+22k.S41                      NA                  NA                NA
+22k.u.S100                   NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+22k.m1.S6      29.24211    32.04615            NA            NA
+22k.m2.S18     29.24211    32.04615            NA            NA
+22k.m3.S30     29.24211    32.04615            NA            NA
+22k.o.S11      29.24211    32.04615            NA            NA
+22k.o.S16      29.24211    32.04615            NA            NA
+22k.S41        29.24211    32.04615            NA            NA
+22k.u.S100     29.24211    32.04615            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+22k.m1.S6             NA          NA               NA        No_Abx
+22k.m2.S18            NA          NA               NA        No_Abx
+22k.m3.S30            NA          NA               NA        No_Abx
+22k.o.S11             NA          NA               NA        No_Abx
+22k.o.S16             NA          NA               NA        No_Abx
+22k.S41               NA          NA               NA        No_Abx
+22k.u.S100            NA          NA               NA        No_Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+22k.m1.S6                         <NA>                    <NA>
+22k.m2.S18                        <NA>                    <NA>
+22k.m3.S30                        <NA>                    <NA>
+22k.o.S11                         <NA>                    <NA>
+22k.o.S16                         <NA>                    <NA>
+22k.S41                           <NA>                    <NA>
+22k.u.S100                        <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+22k.m1.S6                          <NA> Introitus  22k.m1.S6     source NA
+22k.m2.S18                         <NA>    Vagina 22k.m2.S18     source NA
+22k.m3.S30                         <NA>    Cervix 22k.m3.S30     source NA
+22k.o.S11                          <NA>      Anus  22k.o.S11     source NA
+22k.o.S16                          <NA>      Anus  22k.o.S16     source NA
+22k.S41                            <NA>     Stool    22k.S41       sink  2
+22k.u.S100                         <NA>       Ear 22k.u.S100       sink  1
+
+[[25]]
+              23k.m1.S59_Introitus 23k.m2.S15_Vagina 23k.m2.S71_Vagina
+23k.S4_Stool          3.935878e-08      1.121966e-04      4.635791e-06
+23k.u.S80_Ear         7.568472e-09      1.591829e-09      3.892057e-09
+              23k.m3.S5_Cervix 23k.o.S35_Anus   Unknown
+23k.S4_Stool       0.002665179    0.001321004 0.9958969
+23k.u.S80_Ear      0.003948117    0.008049423 0.9880024
+
+[[26]]
+           patient disease   Host SampleType Delivery Antibiotics
+23k.m1.S59      23 Control Mother  Introitus     <NA>        <NA>
+23k.m2.S15      23 Control Mother     Vagina     <NA>        <NA>
+23k.m2.S71      23 Control Mother     Vagina     <NA>        <NA>
+23k.m3.S5       23 Control Mother     Cervix     <NA>        <NA>
+23k.o.S35       23 Control Mother       Anus     <NA>        <NA>
+23k.S4          23 Control Infant      Stool Csection         Abx
+23k.u.S80       23 Control Infant        Ear Csection         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+23k.m1.S59               38           3120   NA   NA   NA   NA   NA
+23k.m2.S15               38           3120   NA   NA   NA   NA   NA
+23k.m2.S71               38           3120   NA   NA   NA   NA   NA
+23k.m3.S5                38           3120   NA   NA   NA   NA   NA
+23k.o.S35                38           3120   NA   NA   NA   NA   NA
+23k.S4                   38           3120   NA   NA   NA   NA   NA
+23k.u.S80                38           3120   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+23k.m1.S59                   NA                  NA                NA
+23k.m2.S15                   NA                  NA                NA
+23k.m2.S71                   NA                  NA                NA
+23k.m3.S5                    NA                  NA                NA
+23k.o.S35                    NA                  NA                NA
+23k.S4                       NA                  NA                NA
+23k.u.S80                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+23k.m1.S59     23.79536     29.3724            NA            NA
+23k.m2.S15     23.79536     29.3724            NA            NA
+23k.m2.S71     23.79536     29.3724            NA            NA
+23k.m3.S5      23.79536     29.3724            NA            NA
+23k.o.S35      23.79536     29.3724            NA            NA
+23k.S4         23.79536     29.3724            NA            NA
+23k.u.S80      23.79536     29.3724            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+23k.m1.S59            NA          NA               NA           Abx
+23k.m2.S15            NA          NA               NA           Abx
+23k.m2.S71            NA          NA               NA           Abx
+23k.m3.S5             NA          NA               NA           Abx
+23k.o.S35             NA          NA               NA           Abx
+23k.S4                NA          NA               NA           Abx
+23k.u.S80             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+23k.m1.S59                         AN1                    <NA>
+23k.m2.S15                         AN1                    <NA>
+23k.m2.S71                         AN1                    <NA>
+23k.m3.S5                          AN1                    <NA>
+23k.o.S35                          AN1                    <NA>
+23k.S4                             AN1                    <NA>
+23k.u.S80                          AN1                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+23k.m1.S59                         <NA> Introitus 23k.m1.S59     source NA
+23k.m2.S15                         <NA>    Vagina 23k.m2.S15     source NA
+23k.m2.S71                         <NA>    Vagina 23k.m2.S71     source NA
+23k.m3.S5                          <NA>    Cervix  23k.m3.S5     source NA
+23k.o.S35                          <NA>      Anus  23k.o.S35     source NA
+23k.S4                             <NA>     Stool     23k.S4       sink  2
+23k.u.S80                          <NA>       Ear  23k.u.S80       sink  1
+
+[[27]]
+              24k.m1.S27_Introitus 24k.m2.S39_Vagina 24k.m3.S51_Cervix
+24k.u.S92_Ear           0.03605248      0.0001798297       0.007294297
+              24k.o.S47_Anus 24k.o.S471_Anus   Unknown
+24k.u.S92_Ear     0.09686729       0.0266066 0.8329995
+
+[[28]]
+           patient disease   Host SampleType Delivery Antibiotics
+24k.m1.S27      24 Control Mother  Introitus     <NA>        <NA>
+24k.m2.S39      24 Control Mother     Vagina     <NA>        <NA>
+24k.m3.S51      24 Control Mother     Cervix     <NA>        <NA>
+24k.o.S47       24 Control Mother       Anus     <NA>        <NA>
+24k.o.S471      24 Control Mother       Anus     <NA>        <NA>
+24k.u.S92       24 Control Infant        Ear Csection         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+24k.m1.S27               38           3900   NA   NA   NA   NA   NA
+24k.m2.S39               38           3900   NA   NA   NA   NA   NA
+24k.m3.S51               38           3900   NA   NA   NA   NA   NA
+24k.o.S47                38           3900   NA   NA   NA   NA   NA
+24k.o.S471               38           3900   NA   NA   NA   NA   NA
+24k.u.S92                38           3900   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+24k.m1.S27                   NA                  NA                NA
+24k.m2.S39                   NA                  NA                NA
+24k.m3.S51                   NA                  NA                NA
+24k.o.S47                    NA                  NA                NA
+24k.o.S471                   NA                  NA                NA
+24k.u.S92                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+24k.m1.S27     23.58833    29.93903            NA            NA
+24k.m2.S39     23.58833    29.93903            NA            NA
+24k.m3.S51     23.58833    29.93903            NA            NA
+24k.o.S47      23.58833    29.93903            NA            NA
+24k.o.S471     23.58833    29.93903            NA            NA
+24k.u.S92      23.58833    29.93903            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+24k.m1.S27            NA          NA               NA           Abx
+24k.m2.S39            NA          NA               NA           Abx
+24k.m3.S51            NA          NA               NA           Abx
+24k.o.S47             NA          NA               NA           Abx
+24k.o.S471            NA          NA               NA           Abx
+24k.u.S92             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+24k.m1.S27                         AN1                    <NA>
+24k.m2.S39                         AN1                    <NA>
+24k.m3.S51                         AN1                    <NA>
+24k.o.S47                          AN1                    <NA>
+24k.o.S471                         AN1                    <NA>
+24k.u.S92                          AN1                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+24k.m1.S27                         <NA> Introitus 24k.m1.S27     source NA
+24k.m2.S39                         <NA>    Vagina 24k.m2.S39     source NA
+24k.m3.S51                         <NA>    Cervix 24k.m3.S51     source NA
+24k.o.S47                          <NA>      Anus  24k.o.S47     source NA
+24k.o.S471                         <NA>      Anus 24k.o.S471     source NA
+24k.u.S92                          <NA>       Ear  24k.u.S92       sink  1
+
+[[29]]
+              25k.m1.S83_Introitus 25k.m2.S42_Vagina 25k.m3.S54_Cervix
+25k.S10_Stool         2.450993e-06      0.0001148429      8.272975e-05
+25k.u.S9_Ear          6.114447e-02      0.0328338446      2.828474e-02
+              25k.o.S28_Anus   Unknown
+25k.S10_Stool   1.138730e-13 0.9998000
+25k.u.S9_Ear    2.418216e-02 0.8535548
+
+[[30]]
+           patient disease   Host SampleType Delivery Antibiotics
+25k.m1.S83      25 Control Mother  Introitus     <NA>        <NA>
+25k.m2.S42      25 Control Mother     Vagina     <NA>        <NA>
+25k.m3.S54      25 Control Mother     Cervix     <NA>        <NA>
+25k.o.S28       25 Control Mother       Anus     <NA>        <NA>
+25k.S10         25 Control Infant      Stool  Vaginal      No_Abx
+25k.u.S9        25 Control Infant        Ear  Vaginal      No_Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+25k.m1.S83               38           3160   NA   NA   NA   NA   NA
+25k.m2.S42               38           3160   NA   NA   NA   NA   NA
+25k.m3.S54               38           3160   NA   NA   NA   NA   NA
+25k.o.S28                38           3160   NA   NA   NA   NA   NA
+25k.S10                  38           3160   NA   NA   NA   NA   NA
+25k.u.S9                 38           3160   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+25k.m1.S83             27.70894            14.04885          55.27067
+25k.m2.S42             27.70894            14.04885          55.27067
+25k.m3.S54             27.70894            14.04885          55.27067
+25k.o.S28              27.70894            14.04885          55.27067
+25k.S10                27.70894            14.04885          55.27067
+25k.u.S9               27.70894            14.04885          55.27067
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+25k.m1.S83     18.77834    22.67574            NA            NA
+25k.m2.S42     18.77834    22.67574            NA            NA
+25k.m3.S54     18.77834    22.67574            NA            NA
+25k.o.S28      18.77834    22.67574            NA            NA
+25k.S10        18.77834    22.67574            NA            NA
+25k.u.S9       18.77834    22.67574            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+25k.m1.S83            NA          NA               NA        No_Abx
+25k.m2.S42            NA          NA               NA        No_Abx
+25k.m3.S54            NA          NA               NA        No_Abx
+25k.o.S28             NA          NA               NA        No_Abx
+25k.S10               NA          NA               NA        No_Abx
+25k.u.S9              NA          NA               NA        No_Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+25k.m1.S83                        <NA>                    <NA>
+25k.m2.S42                        <NA>                    <NA>
+25k.m3.S54                        <NA>                    <NA>
+25k.o.S28                         <NA>                    <NA>
+25k.S10                           <NA>                    <NA>
+25k.u.S9                          <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+25k.m1.S83                         <NA> Introitus 25k.m1.S83     source NA
+25k.m2.S42                         <NA>    Vagina 25k.m2.S42     source NA
+25k.m3.S54                         <NA>    Cervix 25k.m3.S54     source NA
+25k.o.S28                          <NA>      Anus  25k.o.S28     source NA
+25k.S10                            <NA>     Stool    25k.S10       sink  2
+25k.u.S9                           <NA>       Ear   25k.u.S9       sink  1
+
+[[31]]
+              26k.m1.S63_Introitus 26k.m2.S75_Vagina 26k.m3.S87_Cervix
+26k.S16_Stool         1.035441e-05      9.125157e-06      1.836632e-05
+26k.u.S59_Ear         1.248087e-04      2.567587e-04      7.843840e-05
+              26k.o.S40_Anus 26k.o.S71_Anus   Unknown
+26k.S16_Stool   1.032391e-05   0.0005521702 0.9993997
+26k.u.S59_Ear   5.343724e-04   0.0011071948 0.9978984
+
+[[32]]
+           patient disease   Host SampleType Delivery Antibiotics
+26k.m1.S63      26 Control Mother  Introitus     <NA>        <NA>
+26k.m2.S75      26 Control Mother     Vagina     <NA>        <NA>
+26k.m3.S87      26 Control Mother     Cervix     <NA>        <NA>
+26k.o.S40       26 Control Mother       Anus     <NA>        <NA>
+26k.o.S71       26 Control Mother       Anus     <NA>        <NA>
+26k.S16         26 Control Infant      Stool Csection         Abx
+26k.u.S59       26 Control Infant        Ear Csection         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+26k.m1.S63               38           3640   NA   NA   NA   NA   NA
+26k.m2.S75               38           3640   NA   NA   NA   NA   NA
+26k.m3.S87               38           3640   NA   NA   NA   NA   NA
+26k.o.S40                38           3640   NA   NA   NA   NA   NA
+26k.o.S71                38           3640   NA   NA   NA   NA   NA
+26k.S16                  38           3640   NA   NA   NA   NA   NA
+26k.u.S59                38           3640   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+26k.m1.S63             32.35892            15.84968          90.25372
+26k.m2.S75             32.35892            15.84968          90.25372
+26k.m3.S87             32.35892            15.84968          90.25372
+26k.o.S40              32.35892            15.84968          90.25372
+26k.o.S71              32.35892            15.84968          90.25372
+26k.S16                32.35892            15.84968          90.25372
+26k.u.S59              32.35892            15.84968          90.25372
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+26k.m1.S63     22.58271    27.96492            NA            NA
+26k.m2.S75     22.58271    27.96492            NA            NA
+26k.m3.S87     22.58271    27.96492            NA            NA
+26k.o.S40      22.58271    27.96492            NA            NA
+26k.o.S71      22.58271    27.96492            NA            NA
+26k.S16        22.58271    27.96492            NA            NA
+26k.u.S59      22.58271    27.96492            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+26k.m1.S63            NA          NA               NA           Abx
+26k.m2.S75            NA          NA               NA           Abx
+26k.m3.S87            NA          NA               NA           Abx
+26k.o.S40             NA          NA               NA           Abx
+26k.o.S71             NA          NA               NA           Abx
+26k.S16               NA          NA               NA           Abx
+26k.u.S59             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+26k.m1.S63                         AN1                    <NA>
+26k.m2.S75                         AN1                    <NA>
+26k.m3.S87                         AN1                    <NA>
+26k.o.S40                          AN1                    <NA>
+26k.o.S71                          AN1                    <NA>
+26k.S16                            AN1                    <NA>
+26k.u.S59                          AN1                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+26k.m1.S63                         <NA> Introitus 26k.m1.S63     source NA
+26k.m2.S75                         <NA>    Vagina 26k.m2.S75     source NA
+26k.m3.S87                         <NA>    Cervix 26k.m3.S87     source NA
+26k.o.S40                          <NA>      Anus  26k.o.S40     source NA
+26k.o.S71                          <NA>      Anus  26k.o.S71     source NA
+26k.S16                            <NA>     Stool    26k.S16       sink  2
+26k.u.S59                          <NA>       Ear  26k.u.S59       sink  1
+
+[[33]]
+               27k.m1.S4_Introitus 27k.m2.S16_Vagina 27k.m3.S3_Cervix
+27k.u.S102_Ear        0.0005367002      4.326336e-06     0.0004044513
+               27k.o.S52_Anus   Unknown
+27k.u.S102_Ear     0.01593343 0.9831211
+
+[[34]]
+           patient disease   Host SampleType Delivery Antibiotics
+27k.m1.S4       27 Control Mother  Introitus     <NA>        <NA>
+27k.m2.S16      27 Control Mother     Vagina     <NA>        <NA>
+27k.m3.S3       27 Control Mother     Cervix     <NA>        <NA>
+27k.o.S52       27 Control Mother       Anus     <NA>        <NA>
+27k.u.S102      27 Control Infant        Ear Csection         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+27k.m1.S4                39           3540   NA   NA   NA   NA   NA
+27k.m2.S16               39           3540   NA   NA   NA   NA   NA
+27k.m3.S3                39           3540   NA   NA   NA   NA   NA
+27k.o.S52                39           3540   NA   NA   NA   NA   NA
+27k.u.S102               39           3540   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+27k.m1.S4               16.2859             14.3119          52.42056
+27k.m2.S16              16.2859             14.3119          52.42056
+27k.m3.S3               16.2859             14.3119          52.42056
+27k.o.S52               16.2859             14.3119          52.42056
+27k.u.S102              16.2859             14.3119          52.42056
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+27k.m1.S4      18.51211    24.67128            NA            NA
+27k.m2.S16     18.51211    24.67128            NA            NA
+27k.m3.S3      18.51211    24.67128            NA            NA
+27k.o.S52      18.51211    24.67128            NA            NA
+27k.u.S102     18.51211    24.67128            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+27k.m1.S4             NA          NA               NA           Abx
+27k.m2.S16            NA          NA               NA           Abx
+27k.m3.S3             NA          NA               NA           Abx
+27k.o.S52             NA          NA               NA           Abx
+27k.u.S102            NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+27k.m1.S4                          AN1                    <NA>
+27k.m2.S16                         AN1                    <NA>
+27k.m3.S3                          AN1                    <NA>
+27k.o.S52                          AN1                    <NA>
+27k.u.S102                         AN1                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+27k.m1.S4                          <NA> Introitus  27k.m1.S4     source NA
+27k.m2.S16                         <NA>    Vagina 27k.m2.S16     source NA
+27k.m3.S3                          <NA>    Cervix  27k.m3.S3     source NA
+27k.o.S52                          <NA>      Anus  27k.o.S52     source NA
+27k.u.S102                         <NA>       Ear 27k.u.S102       sink  1
+
+[[35]]
+               28k.m1.S81_Introitus 28k.m2.S85_Vagina 28k.m3.S2_Cervix
+28k.u.S104_Ear         0.0001268264        0.04604429       0.05311007
+               28k.o.S64_Anus   Unknown
+28k.u.S104_Ear     0.02833948 0.8723793
+
+[[36]]
+           patient disease   Host SampleType Delivery Antibiotics
+28k.m1.S81      28 Control Mother  Introitus     <NA>        <NA>
+28k.m2.S85      28 Control Mother     Vagina     <NA>        <NA>
+28k.m3.S2       28 Control Mother     Cervix     <NA>        <NA>
+28k.o.S64       28 Control Mother       Anus     <NA>        <NA>
+28k.u.S104      28 Control Infant        Ear  Vaginal      No_Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+28k.m1.S81               40           2820   NA   NA   NA   NA   NA
+28k.m2.S85               40           2820   NA   NA   NA   NA   NA
+28k.m3.S2                40           2820   NA   NA   NA   NA   NA
+28k.o.S64                40           2820   NA   NA   NA   NA   NA
+28k.u.S104               40           2820   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+28k.m1.S81                   NA                  NA                NA
+28k.m2.S85                   NA                  NA                NA
+28k.m3.S2                    NA                  NA                NA
+28k.o.S64                    NA                  NA                NA
+28k.u.S104                   NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+28k.m1.S81     20.02884    26.03749            NA            NA
+28k.m2.S85     20.02884    26.03749            NA            NA
+28k.m3.S2      20.02884    26.03749            NA            NA
+28k.o.S64      20.02884    26.03749            NA            NA
+28k.u.S104     20.02884    26.03749            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+28k.m1.S81            NA          NA               NA        No_Abx
+28k.m2.S85            NA          NA               NA        No_Abx
+28k.m3.S2             NA          NA               NA        No_Abx
+28k.o.S64             NA          NA               NA        No_Abx
+28k.u.S104            NA          NA               NA        No_Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+28k.m1.S81                        <NA>                    <NA>
+28k.m2.S85                        <NA>                    <NA>
+28k.m3.S2                         <NA>                    <NA>
+28k.o.S64                         <NA>                    <NA>
+28k.u.S104                        <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+28k.m1.S81                         <NA> Introitus 28k.m1.S81     source NA
+28k.m2.S85                         <NA>    Vagina 28k.m2.S85     source NA
+28k.m3.S2                          <NA>    Cervix  28k.m3.S2     source NA
+28k.o.S64                          <NA>      Anus  28k.o.S64     source NA
+28k.u.S104                         <NA>       Ear 28k.u.S104       sink  1
+
+[[37]]
+              29k.m1.S66_Introitus 29k.m2.S95_Vagina 29k.m3.S78_Cervix
+29k.S20_Stool         1.824269e-10        0.00135409      2.084978e-03
+29k.u.S33_Ear         5.311158e-01        0.02330829      6.070377e-07
+              29k.o.S76_Anus   Unknown
+29k.S20_Stool    0.002181211 0.9943797
+29k.u.S33_Ear    0.022216423 0.4233589
+
+[[38]]
+           patient disease   Host SampleType Delivery Antibiotics
+29k.m1.S66      29 Control Mother  Introitus     <NA>        <NA>
+29k.m2.S95      29 Control Mother     Vagina     <NA>        <NA>
+29k.m3.S78      29 Control Mother     Cervix     <NA>        <NA>
+29k.o.S76       29 Control Mother       Anus     <NA>        <NA>
+29k.S20         29 Control Infant      Stool  Vaginal         Abx
+29k.u.S33       29 Control Infant        Ear  Vaginal         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+29k.m1.S66               40           3480   NA   NA   NA   NA   NA
+29k.m2.S95               40           3480   NA   NA   NA   NA   NA
+29k.m3.S78               40           3480   NA   NA   NA   NA   NA
+29k.o.S76                40           3480   NA   NA   NA   NA   NA
+29k.S20                  40           3480   NA   NA   NA   NA   NA
+29k.u.S33                40           3480   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+29k.m1.S66                   NA                  NA                NA
+29k.m2.S95                   NA                  NA                NA
+29k.m3.S78                   NA                  NA                NA
+29k.o.S76                    NA                  NA                NA
+29k.S20                      NA                  NA                NA
+29k.u.S33                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+29k.m1.S66     26.12245    32.65306            NA            NA
+29k.m2.S95     26.12245    32.65306            NA            NA
+29k.m3.S78     26.12245    32.65306            NA            NA
+29k.o.S76      26.12245    32.65306            NA            NA
+29k.S20        26.12245    32.65306            NA            NA
+29k.u.S33      26.12245    32.65306            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+29k.m1.S66            NA          NA               NA           Abx
+29k.m2.S95            NA          NA               NA           Abx
+29k.m3.S78            NA          NA               NA           Abx
+29k.o.S76             NA          NA               NA           Abx
+29k.S20               NA          NA               NA           Abx
+29k.u.S33             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+29k.m1.S66                        <NA>                    <NA>
+29k.m2.S95                        <NA>                    <NA>
+29k.m3.S78                        <NA>                    <NA>
+29k.o.S76                         <NA>                    <NA>
+29k.S20                           <NA>                    <NA>
+29k.u.S33                         <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+29k.m1.S66                          AN5 Introitus 29k.m1.S66     source NA
+29k.m2.S95                          AN5    Vagina 29k.m2.S95     source NA
+29k.m3.S78                          AN5    Cervix 29k.m3.S78     source NA
+29k.o.S76                           AN5      Anus  29k.o.S76     source NA
+29k.S20                             AN5     Stool    29k.S20       sink  2
+29k.u.S33                           AN5       Ear  29k.u.S33       sink  1
+
+[[39]]
+             2k.m1.S33_Introitus 2k.m2.S45_Vagina 2k.m3.S57_Cervix
+2k.S39_Stool        0.0002632270     4.042270e-05     7.952291e-09
+2k.u.S43_Ear        0.0002276361     1.857203e-09     2.801285e-09
+             2k.o.S61_Anus 2k.o.S73_Anus    Unknown
+2k.S39_Stool     0.2606703     0.2617234 0.47730262
+2k.u.S43_Ear     0.3657000     0.6160339 0.01803846
+
+[[40]]
+          patient disease   Host SampleType Delivery Antibiotics
+2k.m1.S33       2 Control Mother  Introitus     <NA>        <NA>
+2k.m2.S45       2 Control Mother     Vagina     <NA>        <NA>
+2k.m3.S57       2 Control Mother     Cervix     <NA>        <NA>
+2k.o.S61        2 Control Mother       Anus     <NA>        <NA>
+2k.o.S73        2 Control Mother       Anus     <NA>        <NA>
+2k.S39          2 Control Infant      Stool  Vaginal      No_Abx
+2k.u.S43        2 Control Infant        Ear  Vaginal      No_Abx
+          tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+2k.m1.S33               40           3040   NA   NA   NA   NA   NA
+2k.m2.S45               40           3040   NA   NA   NA   NA   NA
+2k.m3.S57               40           3040   NA   NA   NA   NA   NA
+2k.o.S61                40           3040   NA   NA   NA   NA   NA
+2k.o.S73                40           3040   NA   NA   NA   NA   NA
+2k.S39                  40           3040   NA   NA   NA   NA   NA
+2k.u.S43                40           3040   NA   NA   NA   NA   NA
+          energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+2k.m1.S33                   NA                  NA                NA
+2k.m2.S45                   NA                  NA                NA
+2k.m3.S57                   NA                  NA                NA
+2k.o.S61                    NA                  NA                NA
+2k.o.S73                    NA                  NA                NA
+2k.S39                      NA                  NA                NA
+2k.u.S43                    NA                  NA                NA
+          BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2 HBA1C_POROD_2
+2k.m1.S33     23.88946    30.99174            NA            NA            NA
+2k.m2.S45     23.88946    30.99174            NA            NA            NA
+2k.m3.S57     23.88946    30.99174            NA            NA            NA
+2k.o.S61      23.88946    30.99174            NA            NA            NA
+2k.o.S73      23.88946    30.99174            NA            NA            NA
+2k.S39        23.88946    30.99174            NA            NA            NA
+2k.u.S43      23.88946    30.99174            NA            NA            NA
+          insulin_age insulin_how_long Antibiotics_2
+2k.m1.S33          NA               NA        No_Abx
+2k.m2.S45          NA               NA        No_Abx
+2k.m3.S57          NA               NA        No_Abx
+2k.o.S61           NA               NA        No_Abx
+2k.o.S73           NA               NA        No_Abx
+2k.S39             NA               NA        No_Abx
+2k.u.S43           NA               NA        No_Abx
+          antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+2k.m1.S33                        <NA>                    <NA>
+2k.m2.S45                        <NA>                    <NA>
+2k.m3.S57                        <NA>                    <NA>
+2k.o.S61                         <NA>                    <NA>
+2k.o.S73                         <NA>                    <NA>
+2k.S39                           <NA>                    <NA>
+2k.u.S43                         <NA>                    <NA>
+          antibiotic_Premature_rupture       Env  SampleID SourceSink id
+2k.m1.S33                         <NA> Introitus 2k.m1.S33     source NA
+2k.m2.S45                         <NA>    Vagina 2k.m2.S45     source NA
+2k.m3.S57                         <NA>    Cervix 2k.m3.S57     source NA
+2k.o.S61                          <NA>      Anus  2k.o.S61     source NA
+2k.o.S73                          <NA>      Anus  2k.o.S73     source NA
+2k.S39                            <NA>     Stool    2k.S39       sink  2
+2k.u.S43                          <NA>       Ear  2k.u.S43       sink  1
+
+[[41]]
+              30k.m1.S28_Introitus 30k.m2.S40_Vagina 30k.m3.S52_Cervix
+30k.u.S98_Ear          1.00895e-08       0.000108182      7.701009e-09
+              30k.o.S5_Anus Unknown
+30k.u.S98_Ear    0.01182177 0.98807
+
+[[42]]
+           patient disease   Host SampleType Delivery Antibiotics
+30k.m1.S28      30 Control Mother  Introitus     <NA>        <NA>
+30k.m2.S40      30 Control Mother     Vagina     <NA>        <NA>
+30k.m3.S52      30 Control Mother     Cervix     <NA>        <NA>
+30k.o.S5        30 Control Mother       Anus     <NA>        <NA>
+30k.u.S98       30 Control Infant        Ear  Vaginal      No_Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+30k.m1.S28               38           3480   NA   NA   NA   NA   NA
+30k.m2.S40               38           3480   NA   NA   NA   NA   NA
+30k.m3.S52               38           3480   NA   NA   NA   NA   NA
+30k.o.S5                 38           3480   NA   NA   NA   NA   NA
+30k.u.S98                38           3480   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+30k.m1.S28                   NA                  NA                NA
+30k.m2.S40                   NA                  NA                NA
+30k.m3.S52                   NA                  NA                NA
+30k.o.S5                     NA                  NA                NA
+30k.u.S98                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+30k.m1.S28     19.48696    22.49858            NA            NA
+30k.m2.S40     19.48696    22.49858            NA            NA
+30k.m3.S52     19.48696    22.49858            NA            NA
+30k.o.S5       19.48696    22.49858            NA            NA
+30k.u.S98      19.48696    22.49858            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+30k.m1.S28            NA          NA               NA        No_Abx
+30k.m2.S40            NA          NA               NA        No_Abx
+30k.m3.S52            NA          NA               NA        No_Abx
+30k.o.S5              NA          NA               NA        No_Abx
+30k.u.S98             NA          NA               NA        No_Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+30k.m1.S28                        <NA>                    <NA>
+30k.m2.S40                        <NA>                    <NA>
+30k.m3.S52                        <NA>                    <NA>
+30k.o.S5                          <NA>                    <NA>
+30k.u.S98                         <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+30k.m1.S28                         <NA> Introitus 30k.m1.S28     source NA
+30k.m2.S40                         <NA>    Vagina 30k.m2.S40     source NA
+30k.m3.S52                         <NA>    Cervix 30k.m3.S52     source NA
+30k.o.S5                           <NA>      Anus   30k.o.S5     source NA
+30k.u.S98                          <NA>       Ear  30k.u.S98       sink  1
+
+[[43]]
+              31k.m1.S64_Introitus 31k.m2.S76_Vagina 31k.m3.S88_Cervix
+31k.S26_Stool          0.001927957      1.867286e-22      2.579298e-36
+31k.u.S99_Ear          0.014601605      1.666106e-02      2.932360e-02
+              31k.o.S17_Anus   Unknown
+31k.S26_Stool   0.0003187713 0.9977533
+31k.u.S99_Ear   0.0349286666 0.9044851
+
+[[44]]
+           patient disease   Host SampleType Delivery Antibiotics
+31k.m1.S64      31 Control Mother  Introitus     <NA>        <NA>
+31k.m2.S76      31 Control Mother     Vagina     <NA>        <NA>
+31k.m3.S88      31 Control Mother     Cervix     <NA>        <NA>
+31k.o.S17       31 Control Mother       Anus     <NA>        <NA>
+31k.S26         31 Control Infant      Stool Csection         Abx
+31k.u.S99       31 Control Infant        Ear Csection         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+31k.m1.S64               39           3700   NA   NA   NA   NA   NA
+31k.m2.S76               39           3700   NA   NA   NA   NA   NA
+31k.m3.S88               39           3700   NA   NA   NA   NA   NA
+31k.o.S17                39           3700   NA   NA   NA   NA   NA
+31k.S26                  39           3700   NA   NA   NA   NA   NA
+31k.u.S99                39           3700   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+31k.m1.S64                   NA                  NA                NA
+31k.m2.S76                   NA                  NA                NA
+31k.m3.S88                   NA                  NA                NA
+31k.o.S17                    NA                  NA                NA
+31k.S26                      NA                  NA                NA
+31k.u.S99                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+31k.m1.S64     23.71184          NA            NA            NA
+31k.m2.S76     23.71184          NA            NA            NA
+31k.m3.S88     23.71184          NA            NA            NA
+31k.o.S17      23.71184          NA            NA            NA
+31k.S26        23.71184          NA            NA            NA
+31k.u.S99      23.71184          NA            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+31k.m1.S64            NA          NA               NA           Abx
+31k.m2.S76            NA          NA               NA           Abx
+31k.m3.S88            NA          NA               NA           Abx
+31k.o.S17             NA          NA               NA           Abx
+31k.S26               NA          NA               NA           Abx
+31k.u.S99             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+31k.m1.S64                         AN1                    <NA>
+31k.m2.S76                         AN1                    <NA>
+31k.m3.S88                         AN1                    <NA>
+31k.o.S17                          AN1                    <NA>
+31k.S26                            AN1                    <NA>
+31k.u.S99                          AN1                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+31k.m1.S64                         <NA> Introitus 31k.m1.S64     source NA
+31k.m2.S76                         <NA>    Vagina 31k.m2.S76     source NA
+31k.m3.S88                         <NA>    Cervix 31k.m3.S88     source NA
+31k.o.S17                          <NA>      Anus  31k.o.S17     source NA
+31k.S26                            <NA>     Stool    31k.S26       sink  2
+31k.u.S99                          <NA>       Ear  31k.u.S99       sink  1
+
+[[45]]
+               32k.m1.S93_Introitus 32k.m2.S10_Vagina 32k.m3.S22_Cervix
+32k.u.S100_Ear          0.005111619         0.1937658      2.71268e-196
+               32k.o.S83_Anus   Unknown
+32k.u.S100_Ear     0.03982824 0.7612943
+
+[[46]]
+           patient disease   Host SampleType Delivery Antibiotics
+32k.m1.S93      32 Control Mother  Introitus     <NA>        <NA>
+32k.m2.S10      32 Control Mother     Vagina     <NA>        <NA>
+32k.m3.S22      32 Control Mother     Cervix     <NA>        <NA>
+32k.o.S83       32 Control Mother       Anus     <NA>        <NA>
+32k.u.S100      32 Control Infant        Ear Csection         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+32k.m1.S93               39           3160   NA   NA   NA   NA   NA
+32k.m2.S10               39           3160   NA   NA   NA   NA   NA
+32k.m3.S22               39           3160   NA   NA   NA   NA   NA
+32k.o.S83                39           3160   NA   NA   NA   NA   NA
+32k.u.S100               39           3160   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+32k.m1.S93                   NA                  NA                NA
+32k.m2.S10                   NA                  NA                NA
+32k.m3.S22                   NA                  NA                NA
+32k.o.S83                    NA                  NA                NA
+32k.u.S100                   NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+32k.m1.S93      22.4323    26.03749            NA            NA
+32k.m2.S10      22.4323    26.03749            NA            NA
+32k.m3.S22      22.4323    26.03749            NA            NA
+32k.o.S83       22.4323    26.03749            NA            NA
+32k.u.S100      22.4323    26.03749            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+32k.m1.S93            NA          NA               NA           Abx
+32k.m2.S10            NA          NA               NA           Abx
+32k.m3.S22            NA          NA               NA           Abx
+32k.o.S83             NA          NA               NA           Abx
+32k.u.S100            NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+32k.m1.S93                         AN1                     AN2
+32k.m2.S10                         AN1                     AN2
+32k.m3.S22                         AN1                     AN2
+32k.o.S83                          AN1                     AN2
+32k.u.S100                         AN1                     AN2
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+32k.m1.S93                         <NA> Introitus 32k.m1.S93     source NA
+32k.m2.S10                         <NA>    Vagina 32k.m2.S10     source NA
+32k.m3.S22                         <NA>    Cervix 32k.m3.S22     source NA
+32k.o.S83                          <NA>      Anus  32k.o.S83     source NA
+32k.u.S100                         <NA>       Ear 32k.u.S100       sink  1
+
+[[47]]
+              33k.m1.S34_Introitus 33k.m2.S52_Vagina 33k.m3.S14_Cervix
+33k.S32_Stool         3.217343e-07      0.0034519754      5.284116e-07
+33k.u.S95_Ear         1.250969e-06      0.0007244055      7.503454e-06
+              33k.o.S12_Anus 33k.o.S65_Anus   Unknown
+33k.S32_Stool   0.0006483183   1.207997e-06 0.9958976
+33k.u.S95_Ear   0.0006230193   1.446654e-04 0.9984992
+
+[[48]]
+           patient disease   Host SampleType Delivery Antibiotics
+33k.m1.S34      33 Control Mother  Introitus     <NA>        <NA>
+33k.m2.S52      33 Control Mother     Vagina     <NA>        <NA>
+33k.m3.S14      33 Control Mother     Cervix     <NA>        <NA>
+33k.o.S12       33 Control Mother       Anus     <NA>        <NA>
+33k.o.S65       33 Control Mother       Anus     <NA>        <NA>
+33k.S32         33 Control Infant      Stool Csection         Abx
+33k.u.S95       33 Control Infant        Ear Csection         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+33k.m1.S34               39           2840   NA   NA   NA   NA   NA
+33k.m2.S52               39           2840   NA   NA   NA   NA   NA
+33k.m3.S14               39           2840   NA   NA   NA   NA   NA
+33k.o.S12                39           2840   NA   NA   NA   NA   NA
+33k.o.S65                39           2840   NA   NA   NA   NA   NA
+33k.S32                  39           2840   NA   NA   NA   NA   NA
+33k.u.S95                39           2840   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+33k.m1.S34             34.20619            17.61418          92.28818
+33k.m2.S52             34.20619            17.61418          92.28818
+33k.m3.S14             34.20619            17.61418          92.28818
+33k.o.S12              34.20619            17.61418          92.28818
+33k.o.S65              34.20619            17.61418          92.28818
+33k.S32                34.20619            17.61418          92.28818
+33k.u.S95              34.20619            17.61418          92.28818
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+33k.m1.S34     19.23356    25.76571            NA            NA
+33k.m2.S52     19.23356    25.76571            NA            NA
+33k.m3.S14     19.23356    25.76571            NA            NA
+33k.o.S12      19.23356    25.76571            NA            NA
+33k.o.S65      19.23356    25.76571            NA            NA
+33k.S32        19.23356    25.76571            NA            NA
+33k.u.S95      19.23356    25.76571            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+33k.m1.S34            NA          NA               NA           Abx
+33k.m2.S52            NA          NA               NA           Abx
+33k.m3.S14            NA          NA               NA           Abx
+33k.o.S12             NA          NA               NA           Abx
+33k.o.S65             NA          NA               NA           Abx
+33k.S32               NA          NA               NA           Abx
+33k.u.S95             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+33k.m1.S34                         AN1                    <NA>
+33k.m2.S52                         AN1                    <NA>
+33k.m3.S14                         AN1                    <NA>
+33k.o.S12                          AN1                    <NA>
+33k.o.S65                          AN1                    <NA>
+33k.S32                            AN1                    <NA>
+33k.u.S95                          AN1                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+33k.m1.S34                         <NA> Introitus 33k.m1.S34     source NA
+33k.m2.S52                         <NA>    Vagina 33k.m2.S52     source NA
+33k.m3.S14                         <NA>    Cervix 33k.m3.S14     source NA
+33k.o.S12                          <NA>      Anus  33k.o.S12     source NA
+33k.o.S65                          <NA>      Anus  33k.o.S65     source NA
+33k.S32                            <NA>     Stool    33k.S32       sink  2
+33k.u.S95                          <NA>       Ear  33k.u.S95       sink  1
+
+[[49]]
+              34k.m1.S5_Introitus 34k.m2.S17_Vagina 34k.m3.S29_Cervix
+34k.u.S93_Ear        0.0006333907      3.580125e-05       0.000117396
+              34k.o.S56_Anus   Unknown
+34k.u.S93_Ear      0.0140291 0.9851843
+
+[[50]]
+           patient disease   Host SampleType Delivery Antibiotics
+34k.m1.S5       34 Control Mother  Introitus     <NA>        <NA>
+34k.m2.S17      34 Control Mother     Vagina     <NA>        <NA>
+34k.m3.S29      34 Control Mother     Cervix     <NA>        <NA>
+34k.o.S56       34 Control Mother       Anus     <NA>        <NA>
+34k.u.S93       34 Control Infant        Ear Csection         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+34k.m1.S5                38           3260   NA   NA   NA   NA   NA
+34k.m2.S17               38           3260   NA   NA   NA   NA   NA
+34k.m3.S29               38           3260   NA   NA   NA   NA   NA
+34k.o.S56                38           3260   NA   NA   NA   NA   NA
+34k.u.S93                38           3260   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+34k.m1.S5                    NA                  NA                NA
+34k.m2.S17                   NA                  NA                NA
+34k.m3.S29                   NA                  NA                NA
+34k.o.S56                    NA                  NA                NA
+34k.u.S93                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+34k.m1.S5      21.82995    25.59374            NA            NA
+34k.m2.S17     21.82995    25.59374            NA            NA
+34k.m3.S29     21.82995    25.59374            NA            NA
+34k.o.S56      21.82995    25.59374            NA            NA
+34k.u.S93      21.82995    25.59374            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+34k.m1.S5             NA          NA               NA           Abx
+34k.m2.S17            NA          NA               NA           Abx
+34k.m3.S29            NA          NA               NA           Abx
+34k.o.S56             NA          NA               NA           Abx
+34k.u.S93             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+34k.m1.S5                          AN1                    <NA>
+34k.m2.S17                         AN1                    <NA>
+34k.m3.S29                         AN1                    <NA>
+34k.o.S56                          AN1                    <NA>
+34k.u.S93                          AN1                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+34k.m1.S5                          <NA> Introitus  34k.m1.S5     source NA
+34k.m2.S17                         <NA>    Vagina 34k.m2.S17     source NA
+34k.m3.S29                         <NA>    Cervix 34k.m3.S29     source NA
+34k.o.S56                          <NA>      Anus  34k.o.S56     source NA
+34k.u.S93                          <NA>       Ear  34k.u.S93       sink  1
+
+[[51]]
+              35k.m1.S26_Introitus 35k.m2.S38_Vagina 35k.m3.S50_Cervix
+35k.S42_Stool         0.0005001244      7.753562e-08      2.703929e-21
+35k.u.S72_Ear         0.0002129112      3.073205e-05      1.199267e-05
+              35k.o.S84_Anus   Unknown
+35k.S42_Stool   0.0021056929 0.9973941
+35k.u.S72_Ear   0.0007457349 0.9989986
+
+[[52]]
+           patient disease   Host SampleType Delivery Antibiotics
+35k.m1.S26      35 Control Mother  Introitus     <NA>        <NA>
+35k.m2.S38      35 Control Mother     Vagina     <NA>        <NA>
+35k.m3.S50      35 Control Mother     Cervix     <NA>        <NA>
+35k.o.S84       35 Control Mother       Anus     <NA>        <NA>
+35k.S42         35 Control Infant      Stool Csection         Abx
+35k.u.S72       35 Control Infant        Ear Csection         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+35k.m1.S26               38           3020   NA   NA   NA   NA   NA
+35k.m2.S38               38           3020   NA   NA   NA   NA   NA
+35k.m3.S50               38           3020   NA   NA   NA   NA   NA
+35k.o.S84                38           3020   NA   NA   NA   NA   NA
+35k.S42                  38           3020   NA   NA   NA   NA   NA
+35k.u.S72                38           3020   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+35k.m1.S26                   NA                  NA                NA
+35k.m2.S38                   NA                  NA                NA
+35k.m3.S50                   NA                  NA                NA
+35k.o.S84                    NA                  NA                NA
+35k.S42                      NA                  NA                NA
+35k.u.S72                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+35k.m1.S26     20.07733    25.09667            NA            NA
+35k.m2.S38     20.07733    25.09667            NA            NA
+35k.m3.S50     20.07733    25.09667            NA            NA
+35k.o.S84      20.07733    25.09667            NA            NA
+35k.S42        20.07733    25.09667            NA            NA
+35k.u.S72      20.07733    25.09667            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+35k.m1.S26            NA          NA               NA           Abx
+35k.m2.S38            NA          NA               NA           Abx
+35k.m3.S50            NA          NA               NA           Abx
+35k.o.S84             NA          NA               NA           Abx
+35k.S42               NA          NA               NA           Abx
+35k.u.S72             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+35k.m1.S26                         AN1                     AN2
+35k.m2.S38                         AN1                    <NA>
+35k.m3.S50                         AN1                    <NA>
+35k.o.S84                          AN1                    <NA>
+35k.S42                            AN1                    <NA>
+35k.u.S72                          AN1                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+35k.m1.S26                         <NA> Introitus 35k.m1.S26     source NA
+35k.m2.S38                         <NA>    Vagina 35k.m2.S38     source NA
+35k.m3.S50                         <NA>    Cervix 35k.m3.S50     source NA
+35k.o.S84                          <NA>      Anus  35k.o.S84     source NA
+35k.S42                            <NA>     Stool    35k.S42       sink  2
+35k.u.S72                          <NA>       Ear  35k.u.S72       sink  1
+
+[[53]]
+              36k.m1.S74_Introitus 36k.m2.S46_Vagina 36k.m3.S58_Cervix
+36k.S5_Stool          7.579741e-05      1.214114e-06      1.521164e-07
+36k.u.S24_Ear         1.039171e-06      2.380082e-06      1.375376e-09
+              36k.o.S77_Anus   Unknown
+36k.S5_Stool    0.0003229409 0.9995999
+36k.u.S24_Ear   0.0015980173 0.9983986
+
+[[54]]
+           patient disease   Host SampleType Delivery Antibiotics
+36k.m1.S74      36 Control Mother  Introitus     <NA>        <NA>
+36k.m2.S46      36 Control Mother     Vagina     <NA>        <NA>
+36k.m3.S58      36 Control Mother     Cervix     <NA>        <NA>
+36k.o.S77       36 Control Mother       Anus     <NA>        <NA>
+36k.S5          36 Control Infant      Stool  Vaginal         Abx
+36k.u.S24       36 Control Infant        Ear  Vaginal         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+36k.m1.S74               41           4160   NA   NA   NA   NA   NA
+36k.m2.S46               41           4160   NA   NA   NA   NA   NA
+36k.m3.S58               41           4160   NA   NA   NA   NA   NA
+36k.o.S77                41           4160   NA   NA   NA   NA   NA
+36k.S5                   41           4160   NA   NA   NA   NA   NA
+36k.u.S24                41           4160   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+36k.m1.S74                   NA                  NA                NA
+36k.m2.S46                   NA                  NA                NA
+36k.m3.S58                   NA                  NA                NA
+36k.o.S77                    NA                  NA                NA
+36k.S5                       NA                  NA                NA
+36k.u.S24                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+36k.m1.S74     20.76125    27.68166            NA            NA
+36k.m2.S46     20.76125    27.68166            NA            NA
+36k.m3.S58     20.76125    27.68166            NA            NA
+36k.o.S77      20.76125    27.68166            NA            NA
+36k.S5         20.76125    27.68166            NA            NA
+36k.u.S24      20.76125    27.68166            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+36k.m1.S74            NA          NA               NA           Abx
+36k.m2.S46            NA          NA               NA           Abx
+36k.m3.S58            NA          NA               NA           Abx
+36k.o.S77             NA          NA               NA           Abx
+36k.S5                NA          NA               NA           Abx
+36k.u.S24             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+36k.m1.S74                        <NA>                     AN2
+36k.m2.S46                        <NA>                     AN2
+36k.m3.S58                        <NA>                     AN2
+36k.o.S77                         <NA>                     AN2
+36k.S5                            <NA>                     AN2
+36k.u.S24                         <NA>                     AN2
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+36k.m1.S74                         <NA> Introitus 36k.m1.S74     source NA
+36k.m2.S46                         <NA>    Vagina 36k.m2.S46     source NA
+36k.m3.S58                         <NA>    Cervix 36k.m3.S58     source NA
+36k.o.S77                          <NA>      Anus  36k.o.S77     source NA
+36k.S5                             <NA>     Stool     36k.S5       sink  2
+36k.u.S24                          <NA>       Ear  36k.u.S24       sink  1
+
+[[55]]
+              37k.m1.S70_Introitus 37k.m2.S82_Vagina 37k.m3.S86_Cervix
+37k.u.S68_Ear           0.01132204      3.670568e-18      1.033392e-21
+              37k.o.S6_Anus   Unknown
+37k.u.S68_Ear  0.0003665357 0.9883114
+
+[[56]]
+           patient disease   Host SampleType Delivery Antibiotics
+37k.m1.S70      37 Control Mother  Introitus     <NA>        <NA>
+37k.m2.S82      37 Control Mother     Vagina     <NA>        <NA>
+37k.m3.S86      37 Control Mother     Cervix     <NA>        <NA>
+37k.o.S6        37 Control Mother       Anus     <NA>        <NA>
+37k.u.S68       37 Control Infant        Ear Csection         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+37k.m1.S70               39           3300   NA   NA   NA   NA   NA
+37k.m2.S82               39           3300   NA   NA   NA   NA   NA
+37k.m3.S86               39           3300   NA   NA   NA   NA   NA
+37k.o.S6                 39           3300   NA   NA   NA   NA   NA
+37k.u.S68                39           3300   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+37k.m1.S70                   NA                  NA                NA
+37k.m2.S82                   NA                  NA                NA
+37k.m3.S86                   NA                  NA                NA
+37k.o.S6                     NA                  NA                NA
+37k.u.S68                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+37k.m1.S70     20.70312    23.67188            NA            NA
+37k.m2.S82     20.70312    23.67188            NA            NA
+37k.m3.S86     20.70312    23.67188            NA            NA
+37k.o.S6       20.70312    23.67188            NA            NA
+37k.u.S68      20.70312    23.67188            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+37k.m1.S70            NA          NA               NA           Abx
+37k.m2.S82            NA          NA               NA           Abx
+37k.m3.S86            NA          NA               NA           Abx
+37k.o.S6              NA          NA               NA           Abx
+37k.u.S68             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+37k.m1.S70                        <NA>                     AN2
+37k.m2.S82                        <NA>                     AN2
+37k.m3.S86                        <NA>                     AN2
+37k.o.S6                          <NA>                     AN2
+37k.u.S68                         <NA>                     AN2
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+37k.m1.S70                         <NA> Introitus 37k.m1.S70     source NA
+37k.m2.S82                         <NA>    Vagina 37k.m2.S82     source NA
+37k.m3.S86                         <NA>    Cervix 37k.m3.S86     source NA
+37k.o.S6                           <NA>      Anus   37k.o.S6     source NA
+37k.u.S68                          <NA>       Ear  37k.u.S68       sink  1
+
+[[57]]
+              38k.m1.S94_Introitus 38k.m2.S11_Vagina 38k.m3.S62_Cervix
+38k.S11_Stool         3.191282e-13      1.728739e-09      3.285866e-12
+38k.u.S37_Ear         1.767581e-04      3.347054e-03      1.107568e-11
+              38k.o.S18_Anus   Unknown
+38k.S11_Stool    0.006286624 0.9937134
+38k.u.S37_Ear    0.019464214 0.9770120
+
+[[58]]
+           patient disease   Host SampleType Delivery Antibiotics
+38k.m1.S94      38 Control Mother  Introitus     <NA>        <NA>
+38k.m2.S11      38 Control Mother     Vagina     <NA>        <NA>
+38k.m3.S62      38 Control Mother     Cervix     <NA>        <NA>
+38k.o.S18       38 Control Mother       Anus     <NA>        <NA>
+38k.S11         38 Control Infant      Stool  Vaginal         Abx
+38k.u.S37       38 Control Infant        Ear  Vaginal         Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+38k.m1.S94               40           3370   NA   NA   NA   NA   NA
+38k.m2.S11               40           3370   NA   NA   NA   NA   NA
+38k.m3.S62               40           3370   NA   NA   NA   NA   NA
+38k.o.S18                40           3370   NA   NA   NA   NA   NA
+38k.S11                  40           3370   NA   NA   NA   NA   NA
+38k.u.S37                40           3370   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+38k.m1.S94             29.38295            15.89695          73.98798
+38k.m2.S11             29.38295            15.89695          73.98798
+38k.m3.S62             29.38295            15.89695          73.98798
+38k.o.S18              29.38295            15.89695          73.98798
+38k.S11                29.38295            15.89695          73.98798
+38k.u.S37              29.38295            15.89695          73.98798
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+38k.m1.S94     20.54989    24.80159            NA            NA
+38k.m2.S11     20.54989    24.80159            NA            NA
+38k.m3.S62     20.54989    24.80159            NA            NA
+38k.o.S18      20.54989    24.80159            NA            NA
+38k.S11        20.54989    24.80159            NA            NA
+38k.u.S37      20.54989    24.80159            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+38k.m1.S94            NA          NA               NA           Abx
+38k.m2.S11            NA          NA               NA           Abx
+38k.m3.S62            NA          NA               NA           Abx
+38k.o.S18             NA          NA               NA           Abx
+38k.S11               NA          NA               NA           Abx
+38k.u.S37             NA          NA               NA           Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+38k.m1.S94                        <NA>                     AN2
+38k.m2.S11                        <NA>                     AN2
+38k.m3.S62                        <NA>                     AN2
+38k.o.S18                         <NA>                     AN2
+38k.S11                           <NA>                     AN2
+38k.u.S37                         <NA>                     AN2
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+38k.m1.S94                         <NA> Introitus 38k.m1.S94     source NA
+38k.m2.S11                         <NA>    Vagina 38k.m2.S11     source NA
+38k.m3.S62                         <NA>    Cervix 38k.m3.S62     source NA
+38k.o.S18                          <NA>      Anus  38k.o.S18     source NA
+38k.S11                            <NA>     Stool    38k.S11       sink  2
+38k.u.S37                          <NA>       Ear  38k.u.S37       sink  1
+
+[[59]]
+              39k.m1.S90_Introitus 39k.m2.S7_Vagina 39k.m3.S15_Cervix
+39k.S17_Stool         6.615998e-04     2.300678e-05      1.457229e-09
+39k.u.S80_Ear         1.513078e-06     2.807082e-05      8.701043e-04
+              39k.o.S36_Anus 39k.o.S42_Anus   Unknown
+39k.S17_Stool   0.0175986274   0.0016731887 0.9800436
+39k.u.S80_Ear   0.0001059405   0.0005953162 0.9983991
+
+[[60]]
+           patient disease   Host SampleType Delivery Antibiotics
+39k.m1.S90      39 Control Mother  Introitus     <NA>        <NA>
+39k.m2.S7       39 Control Mother     Vagina     <NA>        <NA>
+39k.m3.S15      39 Control Mother     Cervix     <NA>        <NA>
+39k.o.S36       39 Control Mother       Anus     <NA>        <NA>
+39k.o.S42       39 Control Mother       Anus     <NA>        <NA>
+39k.S17         39 Control Infant      Stool  Vaginal      No_Abx
+39k.u.S80       39 Control Infant        Ear  Vaginal      No_Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+39k.m1.S90               41           4270   NA   NA   NA   NA   NA
+39k.m2.S7                41           4270   NA   NA   NA   NA   NA
+39k.m3.S15               41           4270   NA   NA   NA   NA   NA
+39k.o.S36                41           4270   NA   NA   NA   NA   NA
+39k.o.S42                41           4270   NA   NA   NA   NA   NA
+39k.S17                  41           4270   NA   NA   NA   NA   NA
+39k.u.S80                41           4270   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+39k.m1.S90                   NA                  NA                NA
+39k.m2.S7                    NA                  NA                NA
+39k.m3.S15                   NA                  NA                NA
+39k.o.S36                    NA                  NA                NA
+39k.o.S42                    NA                  NA                NA
+39k.S17                      NA                  NA                NA
+39k.u.S80                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+39k.m1.S90     22.85714     27.7551            NA            NA
+39k.m2.S7      22.85714     27.7551            NA            NA
+39k.m3.S15     22.85714     27.7551            NA            NA
+39k.o.S36      22.85714     27.7551            NA            NA
+39k.o.S42      22.85714     27.7551            NA            NA
+39k.S17        22.85714     27.7551            NA            NA
+39k.u.S80      22.85714     27.7551            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+39k.m1.S90            NA          NA               NA        No_Abx
+39k.m2.S7             NA          NA               NA        No_Abx
+39k.m3.S15            NA          NA               NA        No_Abx
+39k.o.S36             NA          NA               NA        No_Abx
+39k.o.S42             NA          NA               NA        No_Abx
+39k.S17               NA          NA               NA        No_Abx
+39k.u.S80             NA          NA               NA        No_Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+39k.m1.S90                        <NA>                    <NA>
+39k.m2.S7                         <NA>                    <NA>
+39k.m3.S15                        <NA>                    <NA>
+39k.o.S36                         <NA>                    <NA>
+39k.o.S42                         <NA>                    <NA>
+39k.S17                           <NA>                    <NA>
+39k.u.S80                         <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+39k.m1.S90                         <NA> Introitus 39k.m1.S90     source NA
+39k.m2.S7                          <NA>    Vagina  39k.m2.S7     source NA
+39k.m3.S15                         <NA>    Cervix 39k.m3.S15     source NA
+39k.o.S36                          <NA>      Anus  39k.o.S36     source NA
+39k.o.S42                          <NA>      Anus  39k.o.S42     source NA
+39k.S17                            <NA>     Stool    39k.S17       sink  2
+39k.u.S80                          <NA>       Ear  39k.u.S80       sink  1
+
+[[61]]
+             3k.m1.S69_Introitus 3k.m2.S81_Vagina 3k.m3.S93_Cervix
+3k.u.S83_Ear         0.000658483       0.05343525        0.3355283
+             3k.o.S2_Anus   Unknown
+3k.u.S83_Ear   0.04421483 0.5661631
+
+[[62]]
+          patient disease   Host SampleType Delivery Antibiotics
+3k.m1.S69       3 Control Mother  Introitus     <NA>        <NA>
+3k.m2.S81       3 Control Mother     Vagina     <NA>        <NA>
+3k.m3.S93       3 Control Mother     Cervix     <NA>        <NA>
+3k.o.S2         3 Control Mother       Anus     <NA>        <NA>
+3k.u.S83        3 Control Infant        Ear Csection         Abx
+          tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+3k.m1.S69               39           3780   NA   NA   NA   NA   NA
+3k.m2.S81               39           3780   NA   NA   NA   NA   NA
+3k.m3.S93               39           3780   NA   NA   NA   NA   NA
+3k.o.S2                 39           3780   NA   NA   NA   NA   NA
+3k.u.S83                39           3780   NA   NA   NA   NA   NA
+          energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+3k.m1.S69                   NA                  NA                NA
+3k.m2.S81                   NA                  NA                NA
+3k.m3.S93                   NA                  NA                NA
+3k.o.S2                     NA                  NA                NA
+3k.u.S83                    NA                  NA                NA
+          BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2 HBA1C_POROD_2
+3k.m1.S69     23.05175    27.88519            NA            NA            NA
+3k.m2.S81     23.05175    27.88519            NA            NA            NA
+3k.m3.S93     23.05175    27.88519            NA            NA            NA
+3k.o.S2       23.05175    27.88519            NA            NA            NA
+3k.u.S83      23.05175    27.88519            NA            NA            NA
+          insulin_age insulin_how_long Antibiotics_2
+3k.m1.S69          NA               NA           Abx
+3k.m2.S81          NA               NA           Abx
+3k.m3.S93          NA               NA           Abx
+3k.o.S2            NA               NA           Abx
+3k.u.S83           NA               NA           Abx
+          antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+3k.m1.S69                         AN1                    <NA>
+3k.m2.S81                         AN1                    <NA>
+3k.m3.S93                         AN1                    <NA>
+3k.o.S2                           AN1                    <NA>
+3k.u.S83                          AN1                    <NA>
+          antibiotic_Premature_rupture       Env  SampleID SourceSink id
+3k.m1.S69                         <NA> Introitus 3k.m1.S69     source NA
+3k.m2.S81                         <NA>    Vagina 3k.m2.S81     source NA
+3k.m3.S93                         <NA>    Cervix 3k.m3.S93     source NA
+3k.o.S2                           <NA>      Anus   3k.o.S2     source NA
+3k.u.S83                          <NA>       Ear  3k.u.S83       sink  1
+
+[[63]]
+              40k.m1.S23_Introitus 40k.m2.S35_Vagina 40k.m3.S47_Cervix
+40k.S21_Stool         0.2788869819      0.0003789279      8.173498e-05
+40k.u.S46_Ear         0.0007192187      0.0021759323      7.440005e-01
+              40k.o.S92_Anus   Unknown
+40k.S21_Stool   0.0004522714 0.7202001
+40k.u.S46_Ear   0.0105588085 0.2425456
+
+[[64]]
+           patient disease   Host SampleType Delivery Antibiotics
+40k.m1.S23      40 Control Mother  Introitus     <NA>        <NA>
+40k.m2.S35      40 Control Mother     Vagina     <NA>        <NA>
+40k.m3.S47      40 Control Mother     Cervix     <NA>        <NA>
+40k.o.S92       40 Control Mother       Anus     <NA>        <NA>
+40k.S21         40 Control Infant      Stool  Vaginal      No_Abx
+40k.u.S46       40 Control Infant        Ear  Vaginal      No_Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+40k.m1.S23               41           3060   NA   NA   NA   NA   NA
+40k.m2.S35               41           3060   NA   NA   NA   NA   NA
+40k.m3.S47               41           3060   NA   NA   NA   NA   NA
+40k.o.S92                41           3060   NA   NA   NA   NA   NA
+40k.S21                  41           3060   NA   NA   NA   NA   NA
+40k.u.S46                41           3060   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+40k.m1.S23                   NA                  NA                NA
+40k.m2.S35                   NA                  NA                NA
+40k.m3.S47                   NA                  NA                NA
+40k.o.S92                    NA                  NA                NA
+40k.S21                      NA                  NA                NA
+40k.u.S46                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+40k.m1.S23      26.5625    32.42188            NA            NA
+40k.m2.S35      26.5625    32.42188            NA            NA
+40k.m3.S47      26.5625    32.42188            NA            NA
+40k.o.S92       26.5625    32.42188            NA            NA
+40k.S21         26.5625    32.42188            NA            NA
+40k.u.S46       26.5625    32.42188            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+40k.m1.S23            NA          NA               NA        No_Abx
+40k.m2.S35            NA          NA               NA        No_Abx
+40k.m3.S47            NA          NA               NA        No_Abx
+40k.o.S92             NA          NA               NA        No_Abx
+40k.S21               NA          NA               NA        No_Abx
+40k.u.S46             NA          NA               NA        No_Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+40k.m1.S23                        <NA>                    <NA>
+40k.m2.S35                        <NA>                    <NA>
+40k.m3.S47                        <NA>                    <NA>
+40k.o.S92                         <NA>                    <NA>
+40k.S21                           <NA>                    <NA>
+40k.u.S46                         <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+40k.m1.S23                         <NA> Introitus 40k.m1.S23     source NA
+40k.m2.S35                         <NA>    Vagina 40k.m2.S35     source NA
+40k.m3.S47                         <NA>    Cervix 40k.m3.S47     source NA
+40k.o.S92                          <NA>      Anus  40k.o.S92     source NA
+40k.S21                            <NA>     Stool    40k.S21       sink  2
+40k.u.S46                          <NA>       Ear  40k.u.S46       sink  1
+
+[[65]]
+              41k.m1.S41_Introitus 41k.m2.S53_Vagina 41k.m3.S65_Cervix
+41k.S27_Stool         2.503246e-09        0.0000e+00      5.346131e-06
+41k.u.S58_Ear         5.277007e-09        2.6063e-09      1.094426e-04
+              41k.o.S71_Anus   Unknown
+41k.S27_Stool   0.0009963147 0.9989983
+41k.u.S58_Ear   0.0217681713 0.9781224
+
+[[66]]
+           patient disease   Host SampleType Delivery Antibiotics
+41k.m1.S41      41 Control Mother  Introitus     <NA>        <NA>
+41k.m2.S53      41 Control Mother     Vagina     <NA>        <NA>
+41k.m3.S65      41 Control Mother     Cervix     <NA>        <NA>
+41k.o.S71       41 Control Mother       Anus     <NA>        <NA>
+41k.S27         41 Control Infant      Stool Csection      No_Abx
+41k.u.S58       41 Control Infant        Ear Csection      No_Abx
+           tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+41k.m1.S41               39           3289   NA   NA   NA   NA   NA
+41k.m2.S53               39           3289   NA   NA   NA   NA   NA
+41k.m3.S65               39           3289   NA   NA   NA   NA   NA
+41k.o.S71                39           3289   NA   NA   NA   NA   NA
+41k.S27                  39           3289   NA   NA   NA   NA   NA
+41k.u.S58                39           3289   NA   NA   NA   NA   NA
+           energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+41k.m1.S41                   NA                  NA                NA
+41k.m2.S53                   NA                  NA                NA
+41k.m3.S65                   NA                  NA                NA
+41k.o.S71                    NA                  NA                NA
+41k.S27                      NA                  NA                NA
+41k.u.S58                    NA                  NA                NA
+           BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2
+41k.m1.S41     19.90032    23.98795            NA            NA
+41k.m2.S53     19.90032    23.98795            NA            NA
+41k.m3.S65     19.90032    23.98795            NA            NA
+41k.o.S71      19.90032    23.98795            NA            NA
+41k.S27        19.90032    23.98795            NA            NA
+41k.u.S58      19.90032    23.98795            NA            NA
+           HBA1C_POROD_2 insulin_age insulin_how_long Antibiotics_2
+41k.m1.S41            NA          NA               NA        No_Abx
+41k.m2.S53            NA          NA               NA        No_Abx
+41k.m3.S65            NA          NA               NA        No_Abx
+41k.o.S71             NA          NA               NA        No_Abx
+41k.S27               NA          NA               NA        No_Abx
+41k.u.S58             NA          NA               NA        No_Abx
+           antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+41k.m1.S41                        <NA>                    <NA>
+41k.m2.S53                        <NA>                    <NA>
+41k.m3.S65                        <NA>                    <NA>
+41k.o.S71                         <NA>                    <NA>
+41k.S27                           <NA>                    <NA>
+41k.u.S58                         <NA>                    <NA>
+           antibiotic_Premature_rupture       Env   SampleID SourceSink id
+41k.m1.S41                         <NA> Introitus 41k.m1.S41     source NA
+41k.m2.S53                         <NA>    Vagina 41k.m2.S53     source NA
+41k.m3.S65                         <NA>    Cervix 41k.m3.S65     source NA
+41k.o.S71                          <NA>      Anus  41k.o.S71     source NA
+41k.S27                            <NA>     Stool    41k.S27       sink  2
+41k.u.S58                          <NA>       Ear  41k.u.S58       sink  1
+
+[[67]]
+             4k.m1.S46_Introitus 4k.m2.S58_Vagina 4k.m3.S70_Cervix
+4k.S2_Stool         3.091262e-07     1.477070e-08     1.038406e-07
+4k.u.S96_Ear        4.091394e-03     8.721687e-02     3.707538e-03
+             4k.o.S11_Anus   Unknown
+4k.S2_Stool     0.04243204 0.9575675
+4k.u.S96_Ear    0.02222477 0.8827594
+
+[[68]]
+          patient disease   Host SampleType Delivery Antibiotics
+4k.m1.S46       4 Control Mother  Introitus     <NA>        <NA>
+4k.m2.S58       4 Control Mother     Vagina     <NA>        <NA>
+4k.m3.S70       4 Control Mother     Cervix     <NA>        <NA>
+4k.o.S11        4 Control Mother       Anus     <NA>        <NA>
+4k.S2           4 Control Infant      Stool  Vaginal      No_Abx
+4k.u.S96        4 Control Infant        Ear  Vaginal      No_Abx
+          tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+4k.m1.S46               40           3840   NA   NA   NA   NA   NA
+4k.m2.S58               40           3840   NA   NA   NA   NA   NA
+4k.m3.S70               40           3840   NA   NA   NA   NA   NA
+4k.o.S11                40           3840   NA   NA   NA   NA   NA
+4k.S2                   40           3840   NA   NA   NA   NA   NA
+4k.u.S96                40           3840   NA   NA   NA   NA   NA
+          energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+4k.m1.S46                   NA                  NA                NA
+4k.m2.S58                   NA                  NA                NA
+4k.m3.S70                   NA                  NA                NA
+4k.o.S11                    NA                  NA                NA
+4k.S2                       NA                  NA                NA
+4k.u.S96                    NA                  NA                NA
+          BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2 HBA1C_POROD_2
+4k.m1.S46     21.97134    26.70362            NA            NA            NA
+4k.m2.S58     21.97134    26.70362            NA            NA            NA
+4k.m3.S70     21.97134    26.70362            NA            NA            NA
+4k.o.S11      21.97134    26.70362            NA            NA            NA
+4k.S2         21.97134    26.70362            NA            NA            NA
+4k.u.S96      21.97134    26.70362            NA            NA            NA
+          insulin_age insulin_how_long Antibiotics_2
+4k.m1.S46          NA               NA        No_Abx
+4k.m2.S58          NA               NA        No_Abx
+4k.m3.S70          NA               NA        No_Abx
+4k.o.S11           NA               NA        No_Abx
+4k.S2              NA               NA        No_Abx
+4k.u.S96           NA               NA        No_Abx
+          antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+4k.m1.S46                        <NA>                    <NA>
+4k.m2.S58                        <NA>                    <NA>
+4k.m3.S70                        <NA>                    <NA>
+4k.o.S11                         <NA>                    <NA>
+4k.S2                            <NA>                    <NA>
+4k.u.S96                         <NA>                    <NA>
+          antibiotic_Premature_rupture       Env  SampleID SourceSink id
+4k.m1.S46                         <NA> Introitus 4k.m1.S46     source NA
+4k.m2.S58                         <NA>    Vagina 4k.m2.S58     source NA
+4k.m3.S70                         <NA>    Cervix 4k.m3.S70     source NA
+4k.o.S11                          <NA>      Anus  4k.o.S11     source NA
+4k.S2                             <NA>     Stool     4k.S2       sink  2
+4k.u.S96                          <NA>       Ear  4k.u.S96       sink  1
+
+[[69]]
+             5k.m1.S63_Introitus 5k.m2.S32_Vagina 5k.m2.S82_Vagina
+5k.S8_Stool         0.0003256674     1.868238e-09     9.699213e-08
+5k.u.S55_Ear        0.0899413758     1.885555e-10     1.594769e-09
+             5k.m3.S17_Cervix 5k.o.S23_Anus   Unknown
+5k.S8_Stool      7.628075e-07   0.005840118 0.9938334
+5k.u.S55_Ear     2.149723e-02   0.719637255 0.1689241
+
+[[70]]
+          patient disease   Host SampleType Delivery Antibiotics
+5k.m1.S63       5 Control Mother  Introitus     <NA>        <NA>
+5k.m2.S32       5 Control Mother     Vagina     <NA>        <NA>
+5k.m2.S82       5 Control Mother     Vagina     <NA>        <NA>
+5k.m3.S17       5 Control Mother     Cervix     <NA>        <NA>
+5k.o.S23        5 Control Mother       Anus     <NA>        <NA>
+5k.S8           5 Control Infant      Stool  Vaginal         Abx
+5k.u.S55        5 Control Infant        Ear  Vaginal         Abx
+          tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+5k.m1.S63               39           3720   NA   NA   NA   NA   NA
+5k.m2.S32               39           3720   NA   NA   NA   NA   NA
+5k.m2.S82               39           3720   NA   NA   NA   NA   NA
+5k.m3.S17               39           3720   NA   NA   NA   NA   NA
+5k.o.S23                39           3720   NA   NA   NA   NA   NA
+5k.S8                   39           3720   NA   NA   NA   NA   NA
+5k.u.S55                39           3720   NA   NA   NA   NA   NA
+          energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+5k.m1.S63             29.52489            16.63936          70.45237
+5k.m2.S32             29.52489            16.63936          70.45237
+5k.m2.S82             29.52489            16.63936          70.45237
+5k.m3.S17             29.52489            16.63936          70.45237
+5k.o.S23              29.52489            16.63936          70.45237
+5k.S8                 29.52489            16.63936          70.45237
+5k.u.S55              29.52489            16.63936          70.45237
+          BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2 HBA1C_POROD_2
+5k.m1.S63     25.86451    30.47052            NA            NA            NA
+5k.m2.S32     25.86451    30.47052            NA            NA            NA
+5k.m2.S82     25.86451    30.47052            NA            NA            NA
+5k.m3.S17     25.86451    30.47052            NA            NA            NA
+5k.o.S23      25.86451    30.47052            NA            NA            NA
+5k.S8         25.86451    30.47052            NA            NA            NA
+5k.u.S55      25.86451    30.47052            NA            NA            NA
+          insulin_age insulin_how_long Antibiotics_2
+5k.m1.S63          NA               NA           Abx
+5k.m2.S32          NA               NA           Abx
+5k.m2.S82          NA               NA           Abx
+5k.m3.S17          NA               NA           Abx
+5k.o.S23           NA               NA           Abx
+5k.S8              NA               NA           Abx
+5k.u.S55           NA               NA           Abx
+          antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+5k.m1.S63                        <NA>                    <NA>
+5k.m2.S32                        <NA>                    <NA>
+5k.m2.S82                        <NA>                    <NA>
+5k.m3.S17                        <NA>                    <NA>
+5k.o.S23                         <NA>                    <NA>
+5k.S8                            <NA>                    <NA>
+5k.u.S55                         <NA>                    <NA>
+          antibiotic_Premature_rupture       Env  SampleID SourceSink id
+5k.m1.S63                          AN5 Introitus 5k.m1.S63     source NA
+5k.m2.S32                          AN5    Vagina 5k.m2.S32     source NA
+5k.m2.S82                          AN5    Vagina 5k.m2.S82     source NA
+5k.m3.S17                          AN5    Cervix 5k.m3.S17     source NA
+5k.o.S23                           AN5      Anus  5k.o.S23     source NA
+5k.S8                              AN5     Stool     5k.S8       sink  2
+5k.u.S55                           AN5       Ear  5k.u.S55       sink  1
+
+[[71]]
+             6k.m1.S94_Introitus 6k.m2.S11_Vagina 6k.m3.S44_Cervix
+6k.u.S95_Ear        0.0007268916     0.0007906282     1.413321e-05
+             6k.o.S12_Anus   Unknown
+6k.u.S95_Ear    0.03561684 0.9628515
+
+[[72]]
+          patient disease   Host SampleType Delivery Antibiotics
+6k.m1.S94       6 Control Mother  Introitus     <NA>        <NA>
+6k.m2.S11       6 Control Mother     Vagina     <NA>        <NA>
+6k.m3.S44       6 Control Mother     Cervix     <NA>        <NA>
+6k.o.S12        6 Control Mother       Anus     <NA>        <NA>
+6k.u.S95        6 Control Infant        Ear Csection      No_Abx
+          tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+6k.m1.S94               38           3460   NA   NA   NA   NA   NA
+6k.m2.S11               38           3460   NA   NA   NA   NA   NA
+6k.m3.S44               38           3460   NA   NA   NA   NA   NA
+6k.o.S12                38           3460   NA   NA   NA   NA   NA
+6k.u.S95                38           3460   NA   NA   NA   NA   NA
+          energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+6k.m1.S94             27.96898            15.30115          58.67883
+6k.m2.S11             27.96898            15.30115          58.67883
+6k.m3.S44             27.96898            15.30115          58.67883
+6k.o.S12              27.96898            15.30115          58.67883
+6k.u.S95              27.96898            15.30115          58.67883
+          BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2 HBA1C_POROD_2
+6k.m1.S94     20.43817     25.0995            NA            NA            NA
+6k.m2.S11     20.43817     25.0995            NA            NA            NA
+6k.m3.S44     20.43817     25.0995            NA            NA            NA
+6k.o.S12      20.43817     25.0995            NA            NA            NA
+6k.u.S95      20.43817     25.0995            NA            NA            NA
+          insulin_age insulin_how_long Antibiotics_2
+6k.m1.S94          NA               NA        No_Abx
+6k.m2.S11          NA               NA        No_Abx
+6k.m3.S44          NA               NA        No_Abx
+6k.o.S12           NA               NA        No_Abx
+6k.u.S95           NA               NA        No_Abx
+          antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+6k.m1.S94                        <NA>                    <NA>
+6k.m2.S11                        <NA>                    <NA>
+6k.m3.S44                        <NA>                    <NA>
+6k.o.S12                         <NA>                    <NA>
+6k.u.S95                         <NA>                    <NA>
+          antibiotic_Premature_rupture       Env  SampleID SourceSink id
+6k.m1.S94                         <NA> Introitus 6k.m1.S94     source NA
+6k.m2.S11                         <NA>    Vagina 6k.m2.S11     source NA
+6k.m3.S44                         <NA>    Cervix 6k.m3.S44     source NA
+6k.o.S12                          <NA>      Anus  6k.o.S12     source NA
+6k.u.S95                          <NA>       Ear  6k.u.S95       sink  1
+
+[[73]]
+             7k.m1.S10_Introitus 7k.m2.S22_Vagina 7k.m3.S34_Cervix
+7k.u.S67_Ear        9.102702e-06     0.0004184694      0.001976468
+             7k.o.S26_Anus   Unknown
+7k.u.S67_Ear     0.1324405 0.8651555
+
+[[74]]
+          patient disease   Host SampleType Delivery Antibiotics
+7k.m1.S10       7 Control Mother  Introitus     <NA>        <NA>
+7k.m2.S22       7 Control Mother     Vagina     <NA>        <NA>
+7k.m3.S34       7 Control Mother     Cervix     <NA>        <NA>
+7k.o.S26        7 Control Mother       Anus     <NA>        <NA>
+7k.u.S67        7 Control Infant        Ear  Vaginal         Abx
+          tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+7k.m1.S10               38           3220   NA   NA   NA   NA   NA
+7k.m2.S22               38           3220   NA   NA   NA   NA   NA
+7k.m3.S34               38           3220   NA   NA   NA   NA   NA
+7k.o.S26                38           3220   NA   NA   NA   NA   NA
+7k.u.S67                38           3220   NA   NA   NA   NA   NA
+          energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+7k.m1.S10                   NA                  NA                NA
+7k.m2.S22                   NA                  NA                NA
+7k.m3.S34                   NA                  NA                NA
+7k.o.S26                    NA                  NA                NA
+7k.u.S67                    NA                  NA                NA
+          BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2 HBA1C_POROD_2
+7k.m1.S10      20.2449     24.4898            NA            NA            NA
+7k.m2.S22      20.2449     24.4898            NA            NA            NA
+7k.m3.S34      20.2449     24.4898            NA            NA            NA
+7k.o.S26       20.2449     24.4898            NA            NA            NA
+7k.u.S67       20.2449     24.4898            NA            NA            NA
+          insulin_age insulin_how_long Antibiotics_2
+7k.m1.S10          NA               NA           Abx
+7k.m2.S22          NA               NA           Abx
+7k.m3.S34          NA               NA           Abx
+7k.o.S26           NA               NA           Abx
+7k.u.S67           NA               NA           Abx
+          antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+7k.m1.S10                        <NA>                    <NA>
+7k.m2.S22                        <NA>                    <NA>
+7k.m3.S34                        <NA>                    <NA>
+7k.o.S26                         <NA>                    <NA>
+7k.u.S67                         <NA>                    <NA>
+          antibiotic_Premature_rupture       Env  SampleID SourceSink id
+7k.m1.S10                          AN5 Introitus 7k.m1.S10     source NA
+7k.m2.S22                          AN5    Vagina 7k.m2.S22     source NA
+7k.m3.S34                          AN5    Cervix 7k.m3.S34     source NA
+7k.o.S26                           AN5      Anus  7k.o.S26     source NA
+7k.u.S67                           AN5       Ear  7k.u.S67       sink  1
+
+[[75]]
+             8k.m1.S68_Introitus 8k.m2.S80_Vagina 8k.m3.S92_Cervix
+8k.S14_Stool        1.119614e-09     5.757211e-10     5.681797e-10
+8k.u.S91_Ear        2.703131e-02     2.251064e-05     1.430595e-02
+             8k.o.S38_Anus   Unknown
+8k.S14_Stool   0.009021381 0.9909786
+8k.u.S91_Ear   0.033483367 0.9251569
+
+[[76]]
+          patient disease   Host SampleType Delivery Antibiotics
+8k.m1.S68       8 Control Mother  Introitus     <NA>        <NA>
+8k.m2.S80       8 Control Mother     Vagina     <NA>        <NA>
+8k.m3.S92       8 Control Mother     Cervix     <NA>        <NA>
+8k.o.S38        8 Control Mother       Anus     <NA>        <NA>
+8k.S14          8 Control Infant      Stool  Vaginal      No_Abx
+8k.u.S91        8 Control Infant        Ear  Vaginal      No_Abx
+          tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+8k.m1.S68               40           3280   NA   NA   NA   NA   NA
+8k.m2.S80               40           3280   NA   NA   NA   NA   NA
+8k.m3.S92               40           3280   NA   NA   NA   NA   NA
+8k.o.S38                40           3280   NA   NA   NA   NA   NA
+8k.S14                  40           3280   NA   NA   NA   NA   NA
+8k.u.S91                40           3280   NA   NA   NA   NA   NA
+          energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+8k.m1.S68             24.82373            16.40324           61.5309
+8k.m2.S80             24.82373            16.40324           61.5309
+8k.m3.S92             24.82373            16.40324           61.5309
+8k.o.S38              24.82373            16.40324           61.5309
+8k.S14                24.82373            16.40324           61.5309
+8k.u.S91              24.82373            16.40324           61.5309
+          BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2 HBA1C_POROD_2
+8k.m1.S68     23.04002    27.30085            NA            NA            NA
+8k.m2.S80     23.04002    27.30085            NA            NA            NA
+8k.m3.S92     23.04002    27.30085            NA            NA            NA
+8k.o.S38      23.04002    27.30085            NA            NA            NA
+8k.S14        23.04002    27.30085            NA            NA            NA
+8k.u.S91      23.04002    27.30085            NA            NA            NA
+          insulin_age insulin_how_long Antibiotics_2
+8k.m1.S68          NA               NA        No_Abx
+8k.m2.S80          NA               NA        No_Abx
+8k.m3.S92          NA               NA        No_Abx
+8k.o.S38           NA               NA        No_Abx
+8k.S14             NA               NA        No_Abx
+8k.u.S91           NA               NA        No_Abx
+          antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+8k.m1.S68                        <NA>                    <NA>
+8k.m2.S80                        <NA>                    <NA>
+8k.m3.S92                        <NA>                    <NA>
+8k.o.S38                         <NA>                    <NA>
+8k.S14                           <NA>                    <NA>
+8k.u.S91                         <NA>                    <NA>
+          antibiotic_Premature_rupture       Env  SampleID SourceSink id
+8k.m1.S68                         <NA> Introitus 8k.m1.S68     source NA
+8k.m2.S80                         <NA>    Vagina 8k.m2.S80     source NA
+8k.m3.S92                         <NA>    Cervix 8k.m3.S92     source NA
+8k.o.S38                          <NA>      Anus  8k.o.S38     source NA
+8k.S14                            <NA>     Stool    8k.S14       sink  2
+8k.u.S91                          <NA>       Ear  8k.u.S91       sink  1
+
+[[77]]
+             9k.m1.S23_Introitus 9k.m2.S56_Vagina 9k.m3.S35_Cervix
+9k.S97_Stool        4.978543e-06      0.001762058     1.514864e-05
+9k.u.S24_Ear        1.633670e-05      0.004961468     9.840126e-05
+             9k.o.S48_Anus   Unknown
+9k.S97_Stool  0.0006211395 0.9975967
+9k.u.S24_Ear  0.2045558838 0.7903679
+
+[[78]]
+          patient disease   Host SampleType Delivery Antibiotics
+9k.m1.S23       9 Control Mother  Introitus     <NA>        <NA>
+9k.m2.S56       9 Control Mother     Vagina     <NA>        <NA>
+9k.m3.S35       9 Control Mother     Cervix     <NA>        <NA>
+9k.o.S48        9 Control Mother       Anus     <NA>        <NA>
+9k.S97          9 Control Infant      Stool Csection      No_Abx
+9k.u.S24        9 Control Infant        Ear Csection      No_Abx
+          tydzien_porodu_2 newborn_weight Glu1 Glu2 Glu3 Glu4 Glu5
+9k.m1.S23               41           4050   NA   NA   NA   NA   NA
+9k.m2.S56               41           4050   NA   NA   NA   NA   NA
+9k.m3.S35               41           4050   NA   NA   NA   NA   NA
+9k.o.S48                41           4050   NA   NA   NA   NA   NA
+9k.S97                  41           4050   NA   NA   NA   NA   NA
+9k.u.S24                41           4050   NA   NA   NA   NA   NA
+          energ_tluszcz_proc_2 energ_bialko_proc_2 Bialko_ogolem_g_2
+9k.m1.S23                   NA                  NA                NA
+9k.m2.S56                   NA                  NA                NA
+9k.m3.S35                   NA                  NA                NA
+9k.o.S48                    NA                  NA                NA
+9k.S97                      NA                  NA                NA
+9k.u.S24                    NA                  NA                NA
+          BMI_before_2 BMI_after_2 HbA1C_1trym_2 HbA1C_2trym_2 HBA1C_POROD_2
+9k.m1.S23     22.49964    29.93903            NA            NA            NA
+9k.m2.S56     22.49964    29.93903            NA            NA            NA
+9k.m3.S35     22.49964    29.93903            NA            NA            NA
+9k.o.S48      22.49964    29.93903            NA            NA            NA
+9k.S97        22.49964    29.93903            NA            NA            NA
+9k.u.S24      22.49964    29.93903            NA            NA            NA
+          insulin_age insulin_how_long Antibiotics_2
+9k.m1.S23          NA               NA        No_Abx
+9k.m2.S56          NA               NA        No_Abx
+9k.m3.S35          NA               NA        No_Abx
+9k.o.S48           NA               NA        No_Abx
+9k.S97             NA               NA        No_Abx
+9k.u.S24           NA               NA        No_Abx
+          antibiotic_csec_prophylaxis antibiotic_S_agalactiae
+9k.m1.S23                        <NA>                    <NA>
+9k.m2.S56                        <NA>                    <NA>
+9k.m3.S35                        <NA>                    <NA>
+9k.o.S48                         <NA>                    <NA>
+9k.S97                           <NA>                    <NA>
+9k.u.S24                         <NA>                    <NA>
+          antibiotic_Premature_rupture       Env  SampleID SourceSink id
+9k.m1.S23                         <NA> Introitus 9k.m1.S23     source NA
+9k.m2.S56                         <NA>    Vagina 9k.m2.S56     source NA
+9k.m3.S35                         <NA>    Cervix 9k.m3.S35     source NA
+9k.o.S48                          <NA>      Anus  9k.o.S48     source NA
+9k.S97                            <NA>     Stool    9k.S97       sink  2
+9k.u.S24                          <NA>       Ear  9k.u.S24       sink  1
+
