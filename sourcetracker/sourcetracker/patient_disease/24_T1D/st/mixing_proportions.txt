@@ -1,0 +1,5 @@
+	24c.S73
+Cervix	0.0009
+Introitus	0.0012
+Vagina	0.0038
+Unknown	0.9941

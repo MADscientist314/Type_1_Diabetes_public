@@ -1,0 +1,2 @@
+SampleID	Mother	Unknown
+Stool	0.0005	0.9994999999999999

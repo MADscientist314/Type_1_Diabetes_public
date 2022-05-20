@@ -1,0 +1,6 @@
+	10c.u.S78
+Anus	0.00012206555615733704
+Cervix	0.0
+Introitus	4e-05
+Vagina	4e-05
+Unknown	0.0001486606874731839

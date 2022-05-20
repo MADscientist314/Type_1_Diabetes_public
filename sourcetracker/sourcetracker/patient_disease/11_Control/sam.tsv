@@ -1,0 +1,7 @@
+SampleID	SourceSink	patient_disease	Host
+11k.m1.S75	source	11_Control	Introitus
+11k.m3.S83	source	11_Control	Cervix
+11k.m2.S87	source	11_Control	Vagina
+11k.S30	sink	11_Control	Infant
+11k.u.S32	sink	11_Control	Infant
+11k.o.S29	source	11_Control	Anus

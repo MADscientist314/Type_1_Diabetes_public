@@ -1,0 +1,6 @@
+	14k.u.S13	14k.S3
+Anus	0.0101	0.4979
+Cervix	0.0	0.0
+Introitus	0.0693	0.0353
+Vagina	0.0069	0.0143
+Unknown	0.9137	0.4525

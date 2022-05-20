@@ -1,0 +1,6 @@
+	25c.S85
+Anus	0.6536
+Cervix	0.0
+Introitus	0.0
+Vagina	0.0
+Unknown	0.3464

@@ -1,0 +1,6 @@
+	42c.u.S34
+Anus	0.0001
+Cervix	0.0
+Introitus	0.0
+Vagina	0.0
+Unknown	0.9999
