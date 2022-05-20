@@ -1,0 +1,537 @@
+#SampleID	Description	Environment	SourceSink	Study	Host	SampleType	disease_SampleType	disease_Host_SampleType	Delivery	Antibiotics
+10c_m1_S63	10_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+10c_m2_S69	10_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+10c_m3_S75	10_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+10c_o_S50	10_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+10c_u_S78	10_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	No_Abx
+10k_m1_S47	10_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+10k_m2_S59	10_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+10k_m3_S71	10_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+10k_o_S62	10_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+10k_S24	10_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Csection	No_Abx
+10k_u_S8	10_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	No_Abx
+11c_m1_S81	11_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+11c_m2_S87	11_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+11c_m3_S93	11_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+11c_o_S90	11_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+11c_S28	11_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	No_Abx
+11c_u_S20	11_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	No_Abx
+11c_u_S70	11_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	No_Abx
+11k_m1_S75	11_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+11k_m2_S87	11_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+11k_m3_S83	11_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+11k_o_S29	11_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+11k_S30	11_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	No_Abx
+11k_u_S32	11_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	No_Abx
+12c_m1_S52	12_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+12c_m2_S58	12_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+12c_m3_S64	12_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+12c_o_S74	12_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+12c_o_S82	12_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+12c_u_S36	12_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+12k_m1_S95	12_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+12k_m2_S12	12_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+12k_m3_S24	12_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+12k_o_S1	12_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+12k_S36	12_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Csection	No_Abx
+12k_u_S48	12_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	No_Abx
+13c_m1_S70	13_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+13c_m2_S76	13_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+13c_m3_S82	13_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+13c_o_S8	13_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+13c_u_S44	13_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+13k_m1_S72	13_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+13k_m2_S84	13_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+13k_m3_S96	13_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+13k_o_S44	13_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+13k_S40	13_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Csection	Abx
+13k_u_S60	13_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+14c_m1_S54	14_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+14c_m2_S60	14_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+14c_m3_S66	14_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+14c_o_S20	14_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+14c_S34	14_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	No_Abx
+14c_u_S72	14_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	No_Abx
+14k_m1_S36	14_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+14k_m2_S48	14_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+14k_m3_S60	14_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+14k_o_S25	14_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+14k_S3	14_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	Abx
+14k_u_S13	14_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	Abx
+15c_m1_S72	15_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+15c_m2_S78	15_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+15c_m3_S96	15_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+15c_o_S18	15_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+15c_S38	15_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+15k_m1_S49	15_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+15k_m2_S55	15_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+15k_m3_S61	15_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+15k_S9	15_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Csection	Abx
+15k_u_S84	15_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+16c_m1_S84	16_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+16c_m2_S90	16_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+16c_m3_S49	16_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+16c_o_S81	16_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+16c_S44	16_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	No_Abx
+16k_m1_S67	16_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+16k_m2_S73	16_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+16k_m3_S79	16_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+16k_o_S3	16_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+17c_m1_S4	17_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+17c_m2_S16	17_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+17c_m3_S88	17_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+17c_o_S15	17_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+17c_o_S94	17_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+17c_S1	17_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+17c_u_S96	17_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+17k_m1_S85	17_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+17k_m2_S91	17_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+17k_m3_S50	17_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+17k_o_S27	17_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+17k_S15	17_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	No_Abx
+17k_u_S60	17_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	No_Abx
+18c_m1_S94	18_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+18c_m2_S53	18_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+18c_m3_S59	18_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+18c_o_S32	18_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+18k_m1_S56	18_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+18k_m2_S9	18_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+18k_m3_S62	18_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+18k_o_S39	18_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+18k_u_S56	18_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	No_Abx
+19c_m1_S45	19_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+19c_m2_S55	19_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+19c_m3_S61	19_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+19c_o_S51	19_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+19c_S13	19_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	Abx
+19c_u_S68	19_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	Abx
+19k_m1_S21	19_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+19k_m2_S33	19_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+19k_m3_S68	19_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+19k_o_S63	19_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+19k_S25	19_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	No_Abx
+19k_u_S97	19_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	No_Abx
+1c_m1_S83	1_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+1c_m2_S89	1_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+1c_m3_S95	1_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+1c_o_S82	1_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+1c_S43	1_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	No_Abx
+1c_u_S31	1_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	No_Abx
+1k_m1_S92	1_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+1k_m2_S9	1_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+1k_m3_S21	1_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+1k_o_S94	1_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+1k_S35	1_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Csection	No_Abx
+20c_m1_S65	20_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+20c_m2_S71	20_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+20c_m3_S77	20_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+20c_o_S75	20_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+20c_S25	20_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	No_Abx
+20c_u_S93	20_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	No_Abx
+20k_m1_S74	20_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+20k_m2_S80	20_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+20k_m3_S86	20_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+20k_o_S87	20_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+20k_S31	20_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Csection	Abx
+20k_u_S98	20_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+21c_m1_S91	21_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+21c_m2_S8	21_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+21c_m3_S17	21_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+21c_o_S19	21_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+21c_S37	21_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+21c_u_S7	21_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+21k_m1_S77	21_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+21k_m2_S89	21_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+21k_m3_S27	21_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+21k_o_S35	21_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+21k_o_S4	21_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+21k_S37	21_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	No_Abx
+21k_u_S99	21_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	No_Abx
+22c_m1_S55	22_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+22c_m2_S67	22_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+22c_m3_S79	22_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+22c_o_S31	22_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+22c_S49	22_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	Abx
+22c_u_S19	22_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	Abx
+22k_m1_S6	22_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+22k_m2_S18	22_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+22k_m3_S30	22_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+22k_o_S11	22_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+22k_o_S16	22_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+22k_S41	22_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	No_Abx
+22k_u_S100	22_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	No_Abx
+23c_m1_S29	23_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+23c_m2_S41	23_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+23c_m3_S53	23_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+23c_o_S43	23_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+23c_S61	23_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+23c_u_S101	23_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+23c_u_S64	23_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+23k_m1_S59	23_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+23k_m2_S15	23_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+23k_m2_S71	23_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+23k_m3_S5	23_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+23k_o_S35	23_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+23k_S4	23_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Csection	Abx
+23k_u_S80	23_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+24c_m1_S65	24_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+24c_m2_S77	24_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+24c_m3_S89	24_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+24c_S73	24_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+24k_m1_S27	24_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+24k_m2_S39	24_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+24k_m3_S51	24_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+24k_o_S47	24_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+24k_o_S471	24_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+24k_u_S92	24_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+25c_m1_S91	25_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+25c_m2_S51	25_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+25c_m3_S8	25_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+25c_o_S59	25_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+25c_S85	25_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	Abx
+25k_m1_S83	25_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+25k_m2_S42	25_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+25k_m3_S54	25_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+25k_o_S28	25_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+25k_S10	25_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	No_Abx
+25k_u_S9	25_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	No_Abx
+26c_m1_S6	26_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+26c_m2_S18	26_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+26c_m3_S30	26_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+26c_o_S67	26_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+26c_S2	26_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+26c_u_S55	26_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+26k_m1_S63	26_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+26k_m2_S75	26_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+26k_m3_S87	26_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+26k_o_S40	26_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+26k_o_S71	26_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+26k_S16	26_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Csection	Abx
+26k_u_S21	26_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+26k_u_S59	26_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+27c_m1_S20	27_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+27c_m2_S32	27_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+27c_m3_S44	27_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+27c_o_S79	27_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+27c_S14	27_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+27k_m1_S4	27_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+27k_m2_S16	27_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+27k_m3_S3	27_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+27k_o_S52	27_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+27k_u_S102	27_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+28c_m1_S56	28_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+28c_m2_S68	28_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+28c_m3_S80	28_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+28c_o_S31	28_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+28c_S26	28_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	No_Abx
+28c_u_S103	28_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	No_Abx
+28k_m1_S81	28_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+28k_m2_S85	28_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+28k_m3_S2	28_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+28k_o_S64	28_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+28k_u_S104	28_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	No_Abx
+29c_m1_S42	29_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+29c_m2_S76	29_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+29c_m3_S54	29_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+29c_S38	29_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+29c_u_S97	29_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+29k_m1_S66	29_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+29k_m2_S95	29_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+29k_m3_S78	29_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+29k_o_S76	29_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+29k_S20	29_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	Abx
+29k_u_S33	29_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	Abx
+2c_m1_S54	2_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	.	.
+2c_m2_S60	2_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	.	.
+2c_m3_S66	2_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	.	.
+2c_o_S54	2_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	.	.
+2k_m1_S33	2_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+2k_m2_S45	2_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+2k_m3_S57	2_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+2k_o_S61	2_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+2k_o_S73	2_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+2k_S39	2_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	No_Abx
+2k_u_S43	2_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	No_Abx
+30c_m1_S72	30_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+30c_m2_S69	30_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+30c_m3_S84	30_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+30c_o_S88	30_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+30c_S50	30_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	No_Abx
+30c_u_S45	30_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	No_Abx
+30k_m1_S28	30_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+30k_m2_S40	30_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+30k_m3_S52	30_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+30k_o_S5	30_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+30k_u_S98	30_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	No_Abx
+31c_m1_S1	31_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+31c_m2_S13	31_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+31c_m3_S25	31_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+31c_S62	31_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+31c_u_S57	31_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+31k_m1_S64	31_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+31k_m2_S76	31_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+31k_m3_S88	31_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+31k_o_S17	31_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+31k_S26	31_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Csection	Abx
+31k_u_S99	31_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+32c_m1_S66	32_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+32c_m2_S78	32_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+32c_m3_S90	32_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+32c_o_S29	32_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+32c_S74	32_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+32c_u_S67	32_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+32k_m1_S93	32_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+32k_m2_S10	32_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+32k_m3_S22	32_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+32k_o_S83	32_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+32k_u_S100	32_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+33c_m1_S7	33_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+33c_m2_S19	33_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+33c_m3_S31	33_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+33c_o_S53	33_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+33c_S86	33_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+33c_u_S69	33_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+33k_m1_S34	33_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+33k_m2_S52	33_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+33k_m3_S14	33_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+33k_o_S12	33_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+33k_o_S65	33_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+33k_S32	33_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Csection	Abx
+33k_u_S81	33_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+33k_u_S95	33_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+34c_m1_S79	34_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+34c_m2_S85	34_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+34c_m3_S91	34_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+34c_o_S22	34_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+34c_S3	34_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+34c_u_S10	34_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+34k_m1_S5	34_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+34k_m2_S17	34_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+34k_m3_S29	34_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+34k_o_S56	34_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+34k_u_S93	34_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+35c_m1_S50	35_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+35c_m2_S56	35_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+35c_m3_S62	35_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+35c_o_S30	35_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+35c_u_S101	35_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+35k_m1_S26	35_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+35k_m2_S38	35_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+35k_m3_S50	35_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+35k_o_S84	35_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+35k_S42	35_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Csection	Abx
+35k_u_S72	35_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+36c_m1_S43	36_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+36c_m2_S20	36_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+36c_m3_S39	36_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+36c_o_S49	36_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+36c_u_S102	36_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	No_Abx
+36k_m1_S74	36_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+36k_m2_S46	36_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+36k_m3_S58	36_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+36k_o_S77	36_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+36k_S5	36_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	Abx
+36k_u_S10	36_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	Abx
+36k_u_S24	36_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	Abx
+37c_m1_S37	37_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+37c_m2_S49	37_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+37c_m3_S61	37_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+37c_o_S89	37_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+37c_S15	37_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	No_Abx
+37c_u_S22	37_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	No_Abx
+37k_m1_S70	37_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+37k_m2_S82	37_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+37k_m3_S86	37_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+37k_o_S6	37_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+37k_u_S68	37_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+38c_m1_S73	38_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+38c_m2_S85	38_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+38c_m3_S2	38_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+38c_S27	38_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+38c_u_S43	38_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+38k_m1_S94	38_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+38k_m2_S11	38_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+38k_m3_S62	38_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+38k_o_S18	38_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+38k_S11	38_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	Abx
+38k_u_S37	38_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	Abx
+39c_m1_S36	39_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+39c_m2_S40	39_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+39c_m3_S68	39_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+39c_o_S30	39_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+39c_S39	39_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+39c_u_S34	39_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+39k_m1_S90	39_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+39k_m2_S7	39_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+39k_m3_S15	39_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+39k_o_S36	39_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+39k_o_S42	39_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+39k_S17	39_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	No_Abx
+39k_u_S80	39_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	No_Abx
+3c_m1_S57	3_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+3c_m2_S69	3_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+3c_m3_S28	3_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+3c_o_S85	3_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+3c_S6	3_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	No_Abx
+3c_u_S33	3_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	No_Abx
+3k_m1_S69	3_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+3k_m2_S81	3_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+3k_m3_S93	3_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+3k_o_S2	3_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+3k_u_S83	3_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	Abx
+40c_m1_S75	40_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+40c_m2_S81	40_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+40c_m3_S87	40_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+40c_S51	40_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+40c_u_S103	40_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+40k_m1_S23	40_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+40k_m2_S35	40_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+40k_m3_S47	40_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+40k_o_S92	40_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+40k_S21	40_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	No_Abx
+40k_u_S46	40_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	No_Abx
+41c_m1_S1	41_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+41c_m2_S14	41_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+41c_m3_S26	41_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+41c_o_S54	41_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+41c_S63	41_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+41c_u_S55	41_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+41k_m1_S41	41_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+41k_m2_S53	41_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+41k_m3_S65	41_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+41k_o_S71	41_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+41k_S27	41_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Csection	No_Abx
+41k_u_S23	41_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	No_Abx
+41k_u_S58	41_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	No_Abx
+42c_m1_S93	42_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+42c_m2_S52	42_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+42c_m3_S58	42_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+42c_o_S42	42_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+42c_u_S34	42_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+42k_S33	42_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	No_Abx
+43c_m1_S64	43_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+43c_m2_S70	43_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+43c_m3_S88	43_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+44c_m1_S38	44_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+44c_m2_S50	44_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+44c_m3_S13	44_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+44c_o_S66	44_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+44c_S75	44_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+45c_m1_S76	45_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+45c_m2_S82	45_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+45c_m3_S88	45_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+45c_o_S79	45_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+45c_S87	45_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+45c_u_S70	45_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+46c_m1_S74	46_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+46c_m2_S80	46_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+46c_m3_S86	46_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+46c_o_S9	46_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+46c_S4	46_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	No_Abx
+46c_u_S91	46_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	No_Abx
+47c_m1_S94	47_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+47c_m2_S53	47_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+47c_m3_S59	47_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+47c_o_S78	47_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+47c_S16	47_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+47c_u_S104	47_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+48c_m1_S48	48_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+48c_m2_S92	48_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+48c_m3_S51	48_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+48c_o_S90	48_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+48c_S28	48_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+48c_u_S97	48_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+49c_m1_S65	49_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+49c_m2_S71	49_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+49c_m3_S77	49_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+49c_o_S7	49_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+49c_S40	49_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+49c_u_S98	49_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+4c_m1_S24	4_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	.	.
+4c_m2_S67	4_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	.	.
+4c_m3_S73	4_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	.	.
+4c_o_S57	4_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	.	.
+4c_u_S45	4_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	.	.
+4k_m1_S46	4_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+4k_m2_S58	4_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+4k_m3_S70	4_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+4k_o_S11	4_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+4k_S2	4_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	No_Abx
+4k_u_S96	4_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	No_Abx
+50c_m1_S25	50_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+50c_m2_S62	50_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+50c_m3_S74	50_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+50c_o_S19	50_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+50c_S52	50_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	No_Abx
+50c_u_S65	50_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	No_Abx
+51c_m1_S57	51_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+51c_m2_S60	51_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+51c_m3_S63	51_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+51c_o_S77	51_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+51c_S64	51_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	Abx
+51c_u_S21	51_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	Abx
+52c_m1_S86	52_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+52c_m2_S37	52_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+52c_m3_S3	52_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+52c_o_S53	52_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+52c_S76	52_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	No_Abx
+52c_u_S41	52_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	No_Abx
+53c_m1_S49	53_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+53c_m2_S61	53_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+53c_m3_S73	53_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+53c_o_S89	53_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+53c_S88	53_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	No_Abx
+53c_u_S96	53_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	No_Abx
+54c_m1_S83	54_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+54c_m2_S89	54_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+54c_m3_S95	54_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+54c_o_S58	54_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+54c_S5	54_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Vaginal	Abx
+54c_u_S46	54_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Vaginal	Abx
+5k_m1_S63	5_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+5k_m2_S32	5_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+5k_m2_S82	5_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	.	.
+5k_m3_S17	5_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+5k_o_S23	5_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+5k_S8	5_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	Abx
+5k_u_S55	5_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	Abx
+6k_m1_S94	6_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+6k_m2_S11	6_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+6k_m3_S44	6_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+6k_o_S12	6_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+6k_u_S95	6_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	No_Abx
+7c_m1_S72	7_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+7c_m2_S78	7_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+7c_m3_S84	7_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+7c_o_S14	7_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+7c_S12	7_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+7c_u_S69	7_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+7k_m1_S10	7_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+7k_m2_S22	7_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+7k_m3_S34	7_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+7k_o_S26	7_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+7k_u_S67	7_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	Abx
+8c_m1_S90	8_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+8c_m2_S96	8_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+8c_m3_S48	8_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+8c_o_S6	8_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+8c_S18	8_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	Abx
+8c_u_S79	8_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	Abx
+8k_m1_S68	8_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+8k_m2_S80	8_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+8k_m3_S92	8_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+8k_o_S38	8_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+8k_S14	8_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Vaginal	No_Abx
+8k_u_S91	8_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Vaginal	No_Abx
+9c_m1_S92	9_T1D	 Introitus	source	T1D	Mother	 Introitus	T1D_ Introitus	T1D_Mother_ Introitus	NA	NA
+9c_m2_S51	9_T1D	Vagina	source	T1D	Mother	Vagina	T1D_Vagina	T1D_Mother_Vagina	NA	NA
+9c_m3_S57	9_T1D	Cervix	source	T1D	Mother	Cervix	T1D_Cervix	T1D_Mother_Cervix	NA	NA
+9c_o_S66	9_T1D	Anus	source	T1D	Mother	Anus	T1D_Anus	T1D_Mother_Anus	NA	NA
+9c_S22	9_T1D	Stool	sink	T1D	Infant	Stool	T1D_Stool	T1D_Infant_Stool	Csection	No_Abx
+9c_u_S12	9_T1D	Ear	sink	T1D	Infant	Ear	T1D_Ear	T1D_Infant_Ear	Csection	No_Abx
+9k_m1_S23	9_Control	 Introitus	source	Control	Mother	 Introitus	Control_ Introitus	Control_Mother_ Introitus	NA	NA
+9k_m2_S56	9_Control	Vagina	source	Control	Mother	Vagina	Control_Vagina	Control_Mother_Vagina	NA	NA
+9k_m3_S35	9_Control	Cervix	source	Control	Mother	Cervix	Control_Cervix	Control_Mother_Cervix	NA	NA
+9k_o_S48	9_Control	Anus	source	Control	Mother	Anus	Control_Anus	Control_Mother_Anus	NA	NA
+9k_S97	9_Control	Stool	sink	Control	Infant	Stool	Control_Stool	Control_Infant_Stool	Csection	No_Abx
+9k_u_S24	9_Control	Ear	sink	Control	Infant	Ear	Control_Ear	Control_Infant_Ear	Csection	No_Abx
