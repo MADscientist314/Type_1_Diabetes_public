@@ -1,5 +1,0 @@
-	40c.u.S103	40c.S51
-Cervix	0.0021	0.0
-Introitus	0.0143	0.9444
-Vagina	0.109	0.0047
-Unknown	0.8746	0.0509

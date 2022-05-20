@@ -1,6 +1,0 @@
-	44c.S75
-Anus	0.9862
-Cervix	0.0009
-Introitus	0.0022
-Vagina	0.0014
-Unknown	0.0093

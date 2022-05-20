@@ -1,7 +1,0 @@
-SampleID	SourceSink	patient_disease	Host
-37c.m1.S37	source	37_T1D	Introitus
-37c.m2.S49	source	37_T1D	Vagina
-37c.m3.S61	source	37_T1D	Cervix
-37c.o.S89	source	37_T1D	Anus
-37c.u.S22	sink	37_T1D	Infant
-37c.S15	sink	37_T1D	Infant

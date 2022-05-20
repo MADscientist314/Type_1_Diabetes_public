@@ -1,6 +1,0 @@
-	10c.u.S78
-Anus	0.0039
-Cervix	0.0
-Introitus	0.0002
-Vagina	0.0002
-Unknown	0.9957

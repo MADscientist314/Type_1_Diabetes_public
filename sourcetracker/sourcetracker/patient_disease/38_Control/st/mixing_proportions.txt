@@ -1,6 +1,0 @@
-	38k.u.S37	38k.S11
-Anus	0.0201	0.2936
-Cervix	0.0002	0.0008
-Introitus	0.0	0.0
-Vagina	0.0	0.0
-Unknown	0.9797	0.7056

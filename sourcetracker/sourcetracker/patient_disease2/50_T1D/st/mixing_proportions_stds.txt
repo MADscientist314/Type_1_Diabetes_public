@@ -1,3 +1,0 @@
-SampleID	Mother	Unknown
-Ear	0.0006	0.0006000000000000006
-Stool	0.0	0.0

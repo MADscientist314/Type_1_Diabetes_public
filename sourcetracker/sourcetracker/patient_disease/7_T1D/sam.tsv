@@ -1,7 +1,0 @@
-SampleID	SourceSink	patient_disease	Host
-7c.m2.S78	source	7_T1D	Vagina
-7c.m1.S72	source	7_T1D	Introitus
-7c.S12	sink	7_T1D	Infant
-7c.u.S69	sink	7_T1D	Infant
-7c.m3.S84	source	7_T1D	Cervix
-7c.o.S14	source	7_T1D	Anus

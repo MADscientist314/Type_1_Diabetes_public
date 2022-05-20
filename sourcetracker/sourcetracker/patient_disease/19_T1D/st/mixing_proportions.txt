@@ -1,6 +1,0 @@
-	19c.S13	19c.u.S68
-Anus	0.0013	0.0844
-Cervix	0.0	0.011
-Introitus	0.0018	0.0083
-Vagina	0.0	0.0084
-Unknown	0.9969	0.8879

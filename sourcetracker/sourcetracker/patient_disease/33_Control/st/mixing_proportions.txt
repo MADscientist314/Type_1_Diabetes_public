@@ -1,6 +1,0 @@
-	33k.u.S81	33k.u.S95	33k.S32
-Anus	0.0	0.0	0.0082
-Cervix	0.0	0.0	0.0002
-Introitus	0.0	0.0	0.0
-Vagina	0.0	0.0	0.0
-Unknown	1.0	1.0	0.9916

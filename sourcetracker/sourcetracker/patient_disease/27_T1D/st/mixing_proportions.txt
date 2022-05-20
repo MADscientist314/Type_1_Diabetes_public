@@ -1,6 +1,0 @@
-	27c.S14
-Anus	0.0
-Cervix	0.0
-Introitus	0.0003
-Vagina	0.0
-Unknown	0.9997

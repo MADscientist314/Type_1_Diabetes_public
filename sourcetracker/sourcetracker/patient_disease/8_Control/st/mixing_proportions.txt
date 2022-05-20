@@ -1,6 +1,0 @@
-	8k.S14	8k.u.S91
-Anus	0.0831	0.6405
-Cervix	0.0	0.0024
-Introitus	0.0	0.003
-Vagina	0.0	0.0029
-Unknown	0.9169	0.3512

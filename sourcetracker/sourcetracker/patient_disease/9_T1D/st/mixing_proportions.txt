@@ -1,6 +1,0 @@
-	9c.S22	9c.u.S12
-Anus	0.0004	0.0236
-Cervix	0.0	0.0006
-Introitus	0.0	0.2752
-Vagina	0.0	0.0012
-Unknown	0.9996	0.6994

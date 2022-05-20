@@ -1,6 +1,0 @@
-	16c.S44
-Anus	0.2957
-Cervix	0.0002
-Introitus	0.0
-Vagina	0.0005
-Unknown	0.7036

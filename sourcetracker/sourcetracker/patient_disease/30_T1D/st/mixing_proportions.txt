@@ -1,6 +1,0 @@
-	30c.u.S45	30c.S50
-Anus	0.1553	0.6516
-Cervix	0.0023	0.0001
-Introitus	0.0026	0.0003
-Vagina	0.002	0.0
-Unknown	0.8378	0.348

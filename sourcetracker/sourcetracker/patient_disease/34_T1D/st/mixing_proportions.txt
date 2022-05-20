@@ -1,6 +1,0 @@
-	34c.u.S10	34c.S3
-Anus	0.7271	0.0026
-Cervix	0.0	0.0
-Introitus	0.0	0.0
-Vagina	0.0003	0.0086
-Unknown	0.2726	0.9888

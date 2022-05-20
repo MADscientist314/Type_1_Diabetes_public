@@ -1,6 +1,0 @@
-	23k.S4	23k.u.S80
-Anus	0.0004	0.0003
-Cervix	0.0	0.0002
-Introitus	0.0	0.0
-Vagina	0.0	0.0
-Unknown	0.9996	0.9995

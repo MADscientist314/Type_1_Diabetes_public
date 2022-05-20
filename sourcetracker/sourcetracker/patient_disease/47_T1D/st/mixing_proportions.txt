@@ -1,6 +1,0 @@
-	47c.S16	47c.u.S104
-Anus	0.0	0.0866
-Cervix	0.0	0.0152
-Introitus	0.0	0.0193
-Vagina	0.0	0.0158
-Unknown	1.0	0.8631

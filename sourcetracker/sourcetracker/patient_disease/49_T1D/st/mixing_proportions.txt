@@ -1,6 +1,0 @@
-	49c.S40	49c.u.S98
-Anus	0.0004	0.0926
-Cervix	0.0	0.0575
-Introitus	0.0	0.1036
-Vagina	0.0	0.04
-Unknown	0.9996	0.7063

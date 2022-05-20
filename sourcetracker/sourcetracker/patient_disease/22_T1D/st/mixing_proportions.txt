@@ -1,6 +1,0 @@
-	22c.S49	22c.u.S19
-Anus	0.0158	0.9363
-Cervix	0.0	0.0013
-Introitus	0.006	0.0024
-Vagina	0.7359	0.0039
-Unknown	0.2423	0.0561

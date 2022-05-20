@@ -1,6 +1,0 @@
-	36c.u.S102
-Anus	0.0506
-Cervix	0.0071
-Introitus	0.0936
-Vagina	0.257
-Unknown	0.5917

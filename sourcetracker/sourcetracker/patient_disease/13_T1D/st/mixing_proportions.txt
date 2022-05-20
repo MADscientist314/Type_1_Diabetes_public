@@ -1,6 +1,0 @@
-	13c.u.S44
-Anus	0.009
-Cervix	0.0
-Introitus	0.0
-Vagina	0.0
-Unknown	0.991
