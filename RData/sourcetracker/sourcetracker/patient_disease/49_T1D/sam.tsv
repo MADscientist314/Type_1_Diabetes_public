@@ -1,0 +1,7 @@
+SampleID	SourceSink	patient_disease	Host
+49c.m2.S71	source	49_T1D	Vagina
+49c.m1.S65	source	49_T1D	Introitus
+49c.S40	sink	49_T1D	Infant
+49c.m3.S77	source	49_T1D	Cervix
+49c.u.S98	sink	49_T1D	Infant
+49c.o.S7	source	49_T1D	Anus

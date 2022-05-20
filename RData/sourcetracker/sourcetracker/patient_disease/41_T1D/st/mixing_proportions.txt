@@ -1,0 +1,6 @@
+	41c.u.S55	41c.S63
+Anus	0.0975	0.8457
+Cervix	0.0082	0.0
+Introitus	0.0704	0.0768
+Vagina	0.0073	0.0
+Unknown	0.8166	0.0775

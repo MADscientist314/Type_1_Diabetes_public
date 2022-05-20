@@ -1,0 +1,6 @@
+	20c.u.S93	20c.S25
+Anus	0.0003	0.0109
+Cervix	0.0056	0.0
+Introitus	0.0056	0.0
+Vagina	0.0052	0.0005
+Unknown	0.9833	0.9886

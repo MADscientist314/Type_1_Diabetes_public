@@ -1,0 +1,6 @@
+	13c.u.S44
+Anus	0.00034928498393145964
+Cervix	0.0
+Introitus	0.0
+Vagina	0.0
+Unknown	0.00034928498393145926

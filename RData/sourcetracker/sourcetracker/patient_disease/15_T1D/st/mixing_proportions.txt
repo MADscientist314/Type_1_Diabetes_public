@@ -1,0 +1,6 @@
+	15c.S38
+Anus	0.0004
+Cervix	0.0002
+Introitus	0.0003
+Vagina	0.0003
+Unknown	0.9988

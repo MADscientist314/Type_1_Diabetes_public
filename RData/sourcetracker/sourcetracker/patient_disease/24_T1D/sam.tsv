@@ -1,0 +1,5 @@
+SampleID	SourceSink	patient_disease	Host
+24c.m2.S77	source	24_T1D	Vagina
+24c.S73	sink	24_T1D	Infant
+24c.m3.S89	source	24_T1D	Cervix
+24c.m1.S65	source	24_T1D	Introitus

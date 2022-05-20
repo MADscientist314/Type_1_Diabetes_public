@@ -1,0 +1,5 @@
+SampleID	SourceSink	patient_disease	Host
+18c.m2.S53	source	18_T1D	Vagina
+18c.m3.S59	source	18_T1D	Cervix
+18c.m1.S94	source	18_T1D	Introitus
+18c.o.S32	source	18_T1D	Anus

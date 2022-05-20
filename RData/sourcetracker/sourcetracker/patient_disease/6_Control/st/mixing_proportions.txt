@@ -1,0 +1,6 @@
+	6k.u.S95
+Anus	0.4218
+Cervix	0.0007
+Introitus	0.0029
+Vagina	0.0056
+Unknown	0.569

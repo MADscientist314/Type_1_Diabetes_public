@@ -1,0 +1,2 @@
+SampleID	Mother	Unknown
+Ear	0.06120000000000001	0.9388

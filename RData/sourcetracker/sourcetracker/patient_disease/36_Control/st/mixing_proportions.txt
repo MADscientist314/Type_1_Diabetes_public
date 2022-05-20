@@ -1,0 +1,6 @@
+	36k.S5	36k.u.S24	36k.u.S10
+Anus	0.0	0.0001	0.0
+Cervix	0.0	0.0	0.0
+Introitus	0.0	0.0	0.0
+Vagina	0.0	0.0	0.0
+Unknown	1.0	0.9999	1.0

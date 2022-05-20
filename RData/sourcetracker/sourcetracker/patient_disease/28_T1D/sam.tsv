@@ -1,0 +1,7 @@
+SampleID	SourceSink	patient_disease	Host
+28c.m1.S56	source	28_T1D	Introitus
+28c.m2.S68	source	28_T1D	Vagina
+28c.m3.S80	source	28_T1D	Cervix
+28c.S26	sink	28_T1D	Infant
+28c.o.S31	source	28_T1D	Anus
+28c.u.S103	sink	28_T1D	Infant

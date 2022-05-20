@@ -1,0 +1,6 @@
+	1k.S35
+Anus	0.0051
+Cervix	0.0
+Introitus	0.0021
+Vagina	0.0
+Unknown	0.9928

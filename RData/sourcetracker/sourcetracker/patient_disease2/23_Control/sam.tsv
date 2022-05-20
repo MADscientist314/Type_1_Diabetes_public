@@ -1,0 +1,7 @@
+Sample	Host	SourceSink
+Introitus	Mother	source
+Cervix	Mother	source
+Vagina	Mother	source
+Stool	Infant	sink
+Anus	Mother	source
+Ear	Infant	sink

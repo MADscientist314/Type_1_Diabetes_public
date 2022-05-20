@@ -1,0 +1,6 @@
+	33c.S86	33c.u.S69
+Anus	0.0	0.0985
+Cervix	0.0	0.0007
+Introitus	0.0032	0.0235
+Vagina	0.0	0.016
+Unknown	0.9968	0.8613

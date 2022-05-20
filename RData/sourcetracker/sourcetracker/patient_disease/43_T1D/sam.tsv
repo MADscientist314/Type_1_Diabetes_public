@@ -1,0 +1,4 @@
+SampleID	SourceSink	patient_disease	Host
+43c.m1.S64	source	43_T1D	Introitus
+43c.m2.S70	source	43_T1D	Vagina
+43c.m3.S88	source	43_T1D	Cervix
