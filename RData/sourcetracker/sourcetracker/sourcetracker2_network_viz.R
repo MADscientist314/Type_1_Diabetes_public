@@ -1,8 +1,15 @@
 df4_nodes <- load("df4_nodes.Rdata")
 df4_edges <- load("df4_edges.Rdata")
 
+
+control_edges<-df4_edges[1:20,]
+t1d_edges<-df4_edges[21:40,]
+control_nodes<-df4_nodes[c(1:10,21:22),]
+t1d_nodes<-df4_nodes[c(11:22),]
+t1d_nodes
+control_nodes
 #Create graph for Louvain
-graph <- graph_from_data_frame(df4_edges, directed = FALSE)
+graph <- graph_from_data_frame(control_edges, directed = FALSE)
 
 #Louvain Comunity Detection
 cluster <- cluster_louvain(graph)
@@ -10,13 +17,12 @@ cluster_df <- data.frame(as.list(membership(cluster)))
 cluster_df <- as.data.frame(t(cluster_df))
 cluster_df$label <- rownames(cluster_df)
 cluster_df
+graph
 
-df4_nodes
 #Create group column
-df4_nodes <- left_join(nodes, cluster_df, by = "label")
-df4_nodes
-colnames(nodes)[3] <- "group"
-df4_nodes
+control_nodes <- left_join(control_nodes, cluster_df, by = "label")
+
+
 df4_nodes<-df4_nodes%>%
   mutate(shape="image",
          shadow=T,

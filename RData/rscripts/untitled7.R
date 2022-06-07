@@ -1,7 +1,12 @@
 library(dplyr)
 library(DESeq2)
+library(microbiome)
+
+ASV_physeq_core
 #Lets agllomerate to different taxonomic levels, and transform compositionally
 ASV_physeq_core<-tax_glom(physeq = ASV_physeq_core, taxrank = "Genus", NArm = T)
+ASV_physeq_core
+
 ASV_physeq_core<-microbiome::transform(ASV_physeq_core, 'compositional')
 #Lets rename the taxa so the show up on the plot correctly
 taxa_names(ASV_physeq_core)<-get_taxa_unique(ASV_physeq_core, taxonomic.rank = "Genus", errorIfNULL = T)

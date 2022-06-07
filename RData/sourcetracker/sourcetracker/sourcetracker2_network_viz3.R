@@ -5,15 +5,15 @@ library(geomnet)
 library(igraph)
 library(tidyverse)
 
-setwd("K:/github/Type_1_Diabetes_public/RData/sourcetracker/sourcetracker/")
+setwd("K:/github/Type_1_Diabetes_public/RData/sourcetracker/")
 #sourcetracker2 input stuff
 rm(list = ls())
 
 
-df2<-as_tibble(read.table("sourcetracker_results.txt",header = T,sep = "\t"))%>%
-  rename(patient=Description)%>%
-  rename(disease=Study)%>%
-  rename(Sink=SampleType)%>%
+df2<-as_tibble(read.table("sourcetracker_results.txt",header = T,sep = "\t"))
+df2<-df2%>%mutate(patient=Description,
+                  disease=Study,
+                  Sink=SampleType)%>%
   select(SampleID,patient,disease,Sink,Delivery,Antibiotics,
          Anus,Cervix,Introitus,Vagina,Unknown)%>%
   pivot_longer(cols =-c(SampleID,patient,disease,Sink,Delivery,Antibiotics),
@@ -44,8 +44,10 @@ df4<-df2%>%
          id=paste0(disease,"_",Delivery,"_",Source))%>%
   ungroup()
 
-
-
+library(ggsci)
+library(scales)
+show_col(pal_aaas()(10))
+color_pal<-pal_aaas()(7)
 df4_edges<-df4%>%
   group_by(id)%>%
   mutate(width=contribution*10,
@@ -57,8 +59,8 @@ df4_edges<-df4%>%
         smooth=T,
         shadow=T)%>%
   ungroup()%>%
-  rename(to=Sink)%>%
-  rename(from=id)%>%
+  mutate(to=Sink,
+         from=id)%>%
   select(from,
          to,
          label,
@@ -88,84 +90,109 @@ df4_nodes<-df4%>%
   # gsub the Ear and Stool to get rid of the disease and delivery affiliation
   # adda a label column
   mutate(id=paste0(disease,"_",Delivery,"_",id2),
-         id=gsub("Control_Csection_Ear","Ear",id),
-         id=gsub("T1D_Csection_Ear","Ear",id),
-         id=gsub("Control_Vaginal_Ear","Ear",id),
-         id=gsub("T1D_Vaginal_Ear","Ear",id),
-         id=gsub("Control_Csection_Stool","Stool",id),
-         id=gsub("T1D_Csection_Stool","Stool",id),
-         id=gsub("Control_Vaginal_Stool","Stool",id),
-         id=gsub("T1D_Vaginal_Stool","Stool",id),
+         id=gsub("Control_Csection_Ear","Neonate Ear",id),
+         id=gsub("T1D_Csection_Ear","Neonate Ear",id),
+         id=gsub("Control_Vaginal_Ear","Neonate Ear",id),
+         id=gsub("T1D_Vaginal_Ear","Neonate Ear",id),
+         id=gsub("Control_Csection_Stool","Neonate Stool",id),
+         id=gsub("T1D_Csection_Stool","Neonate Stool",id),
+         id=gsub("Control_Vaginal_Stool","Neonate Stool",id),
+         id=gsub("T1D_Vaginal_Stool","Neonate Stool",id),
          label=id)%>%
+  
   #add colors from the disease columns, shadow, and shape column
-  mutate(color=case_when(str_detect(label, 'Ear|Stool') ~ '#4d4d4d',
-                         str_detect(label, 'T1D_Csection') ~ '#b2182b',
-                         str_detect(label, 'T1D_Vaginal') ~ '#ef8a62',
-                         str_detect(label, 'Control_Csection') ~ '#2166ac',
-                         str_detect(label, 'Control_Vaginal') ~ '#67a9cf',
-                         str_detect(label, 'Control') ~ '#1E90FF'),
+  mutate(color=case_when(str_detect(label, 'Cervix') ~ '#3B4992FF',
+                         str_detect(label, 'Introitus') ~ '#EE0000FF',
+                         str_detect(label, 'Midvaginal') ~ '#008B45FF',
+                         str_detect(label, 'Rectum') ~ '#631879FF',
+                         str_detect(label, 'Ear') ~ '#008280FF',
+                         str_detect(label, 'Stool') ~ '#5F559BFF',
+                         str_detect(label, 'Unknown') ~ '#1B1919FF'),
          Host=case_when(str_detect(label, 'Ear|Stool') ~ 'Infant',
-                             !str_detect(label, 'Ear|Stool') ~ 'Mother'),
+                        !str_detect(label, 'Ear|Stool') ~ 'Mother'),
          shape="image",
          shadow=TRUE,
          color.background = color,
          color.highlight.background = "black",
          font.color =color)%>%
   #arrange so neonate samples are on the bottom and format to select only the things you need in the order you want
+#  mutate(id2=factor(id2,levels = c( "Introitus","Midvaginal","Cervix","Unknown","Rectum", "Ear", "Stool")))%>%
   arrange(desc(Host),label)%>%
   select(id,label,shape,image,shadow,color,color.background,font.color)%>%#,color.highlight.background,font.color)%>%
   separate(col = label,into = "group",sep = "_",remove = F,extra = "drop")%>%
   distinct_all()
 
 tail(df4_nodes$label)
+df4_nodes<-df4_nodes%>%separate(id,into=c("disease","Delivery","Source"),remove = F)
+tail(df4_nodes)
+df4_nodes<-df4_nodes%>%mutate(label=gsub("Control_","",label),
+                              label=gsub("T1D_","",label),
+                              label=gsub("Csection_","",label),
+                              label=gsub("Vaginal_","",label))
+
+#get rid of the control and t1d in the label
+df4_nodes<-df4_nodes%>%mutate(label=gsub("_","\n",label),
+                              disease=factor(disease,levels = c("Control","T1D","Neonate Ear","Neonate Stool")),
+                              Source=factor(Source,levels = c( "Introitus","Midvaginal","Cervix","Rectum","Unknown")))
 df4_nodes
-#make x and y coornidates
-p<-data.frame(index=rep(1:20))
-p
-p$x<-as.numeric(sapply(X = p$index, function(Y) 800*cos((Y*(2*pi))/20+(Y))))
-p$y<-as.numeric(lapply(X = p$index, function(Y) 800*sin((Y*(2*pi))/20+(Y))))
-p[21,]<-c(21,-400,75)
-p[22,]<-c(22,400,75)
-as_tibble(p)
-library(ggpubr)
-
-ggscatter(p,"x","y")
-df4_nodes$x<-p$x
-df4_nodes$y<-p$y
-
-
-colnames(df4_nodes)
-data.frame(df4_nodes)
-
-head(df4_nodes)
-head(df4_edges)
-
-####### supplement code to give the edges font color
-
-
-# #Create graph for Louvain
-# graph <- graph_from_data_frame(df4_edges, directed = FALSE)
-# #Louvain Comunity Detection
-# cluster <- cluster_louvain(graph)
-# cluster_df <- data.frame(as.list(membership(cluster)))
-# cluster_df <- as.data.frame(t(cluster_df))
-# cluster_df<-cluster_df%>%mutate(id=rownames(cluster_df))%>%rename(group=V1)
-# cluster_df
-# df4_nodes
-# #Create group column
-# df4_nodes <- left_join(df4_nodes, cluster_df, by = "id")
-# df4_nodes
-df4_nodes<-df4_nodes%>%mutate(label=gsub("_","\n",label))
-df4_nodes$group
-
 # 
 # legend <- df4_nodes%>%select() = c("lightblue", "red"),
 #                      label = c("reverse", "depends"), arrows =c("to", "from"))
+
+
+
+#make x and y coornidates
+p<-data.frame(index=rep(1:10))
+p
+p$x<-as.numeric(sapply(X = p$index, function(Y) 600*cos((Y*(2*pi))/7+(Y))))
+p$y<-as.numeric(lapply(X = p$index, function(Y) 600*sin((Y*(2*pi))/7+(Y))))
+p<-p%>%arrange(y,x)
+p[11,]<-c(11,-300,-25)
+p[12,]<-c(12,300,25)
+p
+
+library(ggpubr)
+
+tail(df4_nodes)
+df4_nodes<-df4_nodes%>%group_by(disease,Source)%>%arrange(disease,desc(Source),Delivery)%>%ungroup()
+data.frame(df4_nodes)
+df4_nodes$x<-c(p$x[1:10],p$x[1:12])#,p$x[11],p$x[11],p$x[12],p$x[12])
+df4_nodes$y<-c(p$y[1:10],p$y[1:12])#,p$y[11],p$y[11],p$y[12],p$y[12])
+#df4_nodes<-df4_nodes%>%select(-c(disease,Delivery,Source))
+# 
+# colnames(df4_nodes)
+# data.frame(df4_nodes)
+# 
+# head(df4_nodes)
+# head(df4_edges)
+# 
+# ####### supplement code to give the edges font color
+# 
+# 
+# # #Create graph for Louvain
+# # graph <- graph_from_data_frame(df4_edges, directed = FALSE)
+# # #Louvain Comunity Detection
+# # cluster <- cluster_louvain(graph)
+# # cluster_df <- data.frame(as.list(membership(cluster)))
+# # cluster_df <- as.data.frame(t(cluster_df))
+# # cluster_df<-cluster_df%>%mutate(id=rownames(cluster_df))%>%rename(group=V1)
+# # cluster_df
+# # df4_nodes
+# # #Create group column
+# # df4_nodes <- left_join(df4_nodes, cluster_df, by = "id")
+# # df4_nodes
+tail(df4_nodes)
+df4_edges<-df4_edges%>%mutate(to=paste0("Neonate ",to))
+
 control_edges<-df4_edges[1:20,]
 t1d_edges<-df4_edges[21:40,]
 control_nodes<-df4_nodes[c(1:10,21:22),]
 t1d_nodes<-df4_nodes[c(11:22),]
-t1d_nodes
+ggscatter(t1d_nodes,x = "x",y = "y",label = "label")
+
+
+
+control_nodes
 visNetwork(control_nodes, control_edges,
            main = list(text = "Maternal-dyad source sink contributions",
            style = "font-family:Arial;color:#003087;font-size:40px;font-weight:bold;text-align:center;"),
@@ -244,4 +271,4 @@ visNetwork(t1d_nodes, t1d_edges,
              face="arial",weight="bold"))%>%
   visSave(file = "t1d_sourcetracker_network.html")
 
-
+df4_edges

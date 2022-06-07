@@ -1,0 +1,8 @@
+plotme<-function(filename){
+  png(file=paste0(filename),
+      res=300, 
+      width=2500, 
+      height=1500)
+  plotCounts(dds, gene=which.min(resOrdered$padj), intgroup='condition', pch = 19)
+  dev.off()
+}

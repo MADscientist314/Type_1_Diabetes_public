@@ -1,0 +1,27 @@
+df<-paste0(rep(1:50,"_JMR2_Ctr_1.trimmed_PE.fq.gz.duprm.sorted.htseq.counts.txt"))
+df<-as_tibble(read.table("../../list.tsv",header = F,sep = "\t"))
+
+
+
+df
+
+df<-df%>%mutate(name=gsub("_1.trimmed_PE.fq.gz.duprm.sorted.htseq.counts.txt","",V1))%>%select(-V1)
+df<-df%>%separate(col = name,into = c("monkey","tmt"),sep = "_",)
+df<-df%>%mutate(tmt2=gsub("HF","",tmt))%>%
+  separate(col=tmt2,into=c("tmt2","rep"),sep="(?<=[A-Za-z])(?=[0-9])")%>%
+  mutate(rep=as.numeric(rep))
+df<-df%>%mutate(tmt2=gsub("D","HighFatDiet",tmt2),
+                tmt2=gsub("Rev","HighFatReversal",tmt2),
+                tmt2=gsub("Res","HighFatRescue",tmt2),
+                tmt2=gsub("Ctr","ControlDiet",tmt2))
+
+df<-df%>%mutate(accross(where(is.character),as.factor))
+library(mosaic)
+df
+tally(~monkey,df)
+
+df[is.na(df)] <- 1
+data.frame(df)
+getwd()
+df
+write.table(df,"meta.tsv",sep = "\t",row.names = F)
