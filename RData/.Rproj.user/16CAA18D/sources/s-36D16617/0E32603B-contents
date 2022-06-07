@@ -5,7 +5,7 @@ library(geomnet)
 library(igraph)
 library(tidyverse)
 
-setwd("K:/github/Type_1_Diabetes_public/RData/sourcetracker/")
+setwd("K:/github/Type_1_Diabetes_public/RData/sourcetracker/sourcetracker/")
 #sourcetracker2 input stuff
 rm(list = ls())
 
@@ -127,8 +127,9 @@ p$y<-as.numeric(lapply(X = p$index, function(Y) 800*sin((Y*(2*pi))/20+(Y))))
 p[21,]<-c(21,-400,75)
 p[22,]<-c(22,400,75)
 as_tibble(p)
-ggscatter(p,"x","y")
 library(ggpubr)
+
+ggscatter(p,"x","y")
 df4_nodes$x<-p$x
 df4_nodes$y<-p$y
 
@@ -160,8 +161,12 @@ df4_nodes$group
 # 
 # legend <- df4_nodes%>%select() = c("lightblue", "red"),
 #                      label = c("reverse", "depends"), arrows =c("to", "from"))
-
-visNetwork(df4_nodes, df4_edges,
+control_edges<-df4_edges[1:20,]
+t1d_edges<-df4_edges[21:40,]
+control_nodes<-df4_nodes[c(1:10,21:22),]
+t1d_nodes<-df4_nodes[c(11:22),]
+t1d_nodes
+visNetwork(control_nodes, control_edges,
            main = list(text = "Maternal-dyad source sink contributions",
            style = "font-family:Arial;color:#003087;font-size:40px;font-weight:bold;text-align:center;"),
            footer = "Fig.1 minimal example",
@@ -183,7 +188,7 @@ visNetwork(df4_nodes, df4_edges,
            #              hover=list(background =df4_nodes$color.background,
            #                         border = df4_nodes$color)),
             font=list(
-              color=df4_nodes$color,
+              color=control_nodes$color,
               size=32,face="bold"),#,strokeWidth=1,strokeColor="grey50"),#face=c("arial","bold")),
            # group = df4_nodes$group,
            # x = df4_nodes$x,
@@ -191,10 +196,52 @@ visNetwork(df4_nodes, df4_edges,
            # id = df4_nodes$id,
            labelHighlightBold=TRUE,
            shapeProperties = list(useBorderWithImage = F))%>%
-  visEdges(dashes = T,label = df4_edges$label,
+  visEdges(dashes = T,label = control_edges$label,
            font=list(
-                color=df4_nodes$color,
+                color=control_nodes$color,
              size=24,face="bold",
              face="arial",weight="bold"))%>%
-  visSave(file = "T1D_sourcetracker_network.html")
-net
+  visSave(file = "control_sourcetracker_network.html")
+
+
+
+
+
+visNetwork(t1d_nodes, t1d_edges,
+           main = list(text = "Maternal-dyad source sink contributions",
+                       style = "font-family:Arial;color:#003087;font-size:40px;font-weight:bold;text-align:center;"),
+           footer = "Fig.1 minimal example",
+           height = "1200px",
+           #width = "100%",
+           width = "1200px",
+           #height = 1050,
+           submain = list(text = c("Nodes are Louvain clustered and colored by disease.<br> Edges are colored by disease and size weighted by source-sink contribution"),
+                          style = "font-family:Arial;color:#2b2d42;font-size:24px;text-align:justify;"))%>%
+  # visGroups(groupname = "t1d", color = "#1E90FF")%>%
+  # red triangle for group "B"
+  visNodes(physics = F,
+           #shape = df4_nodes$shape,
+           #label = paste0("<b>",df4_nodes$label,
+           # color = list(background =df4_nodes$color.background, 
+           #              border = df4_nodes$color,
+           #              highlight=list(background =df4_nodes$color.background,
+           #                             border = df4_nodes$color),
+           #              hover=list(background =df4_nodes$color.background,
+           #                         border = df4_nodes$color)),
+           font=list(
+             color=t1d_nodes$color,
+             size=32,face="bold"),#,strokeWidth=1,strokeColor="grey50"),#face=c("arial","bold")),
+           # group = df4_nodes$group,
+           # x = df4_nodes$x,
+           # y=df4_nodes$y,
+           # id = df4_nodes$id,
+           labelHighlightBold=TRUE,
+           shapeProperties = list(useBorderWithImage = F))%>%
+  visEdges(dashes = T,label = t1d_edges$label,
+           font=list(
+             color=t1d_nodes$color,
+             size=24,face="bold",
+             face="arial",weight="bold"))%>%
+  visSave(file = "t1d_sourcetracker_network.html")
+
+
