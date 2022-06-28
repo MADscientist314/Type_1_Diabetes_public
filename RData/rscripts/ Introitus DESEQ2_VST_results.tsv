@@ -1,0 +1,8 @@
+"baseMean"	"log2FoldChange"	"lfcSE"	"stat"	"pvalue"	"padj"	"Kingdom"	"Phylum"	"Class"	"Order"	"Family"	"Genus"
+"ASV_8"	8570.79685052919	4.601639077674	0.97594876850609	4.71504163555414	2.41661328176783e-06	0.00120454544228471	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Enterobacteriales"	"Enterobacteriaceae"	"Escherichia/Shigella"
+"ASV_73"	13.0254772169041	-3.61860513317726	0.565094713541192	-6.40353740083871	1.51817643026164e-10	2.77067198522749e-07	"Bacteria"	"Firmicutes"	"Bacilli"	"Lactobacillales"	"Lactobacillaceae"	"Lactobacillus"
+"ASV_114"	228.412294944011	-4.61185991532069	1.00452082457742	-4.591104337992	4.40906838660262e-06	0.00160930996110996	"Bacteria"	"Firmicutes"	"Bacilli"	"Lactobacillales"	"Lactobacillaceae"	"Lactobacillus"
+"ASV_147"	6.27535910582701	-2.31821641305742	0.493552528267722	-4.69700038047406	2.64009959952813e-06	0.00120454544228471	"Bacteria"	"Firmicutes"	"Bacilli"	"Lactobacillales"	"Lactobacillaceae"	"Lactobacillus"
+"ASV_156"	267.224994540591	8.11582772575374	1.90049552333733	4.27037455552754	1.95144958969205e-05	0.00508770785883999	"Bacteria"	"Proteobacteria"	"Gammaproteobacteria"	"Enterobacteriales"	"Enterobacteriaceae"	"Escherichia/Shigella"
+"ASV_236"	89.3477201992055	-4.40640400268017	1.02536370528162	-4.29740586679916	1.72808608318776e-05	0.00508770785883999	"Bacteria"	"Firmicutes"	"Bacilli"	"Lactobacillales"	"Lactobacillaceae"	"Lactobacillus"
+"ASV_237"	188.248176836452	11.1488748635026	2.00931137902879	5.54860485033008	2.87958173698684e-08	2.62761833500049e-05	"Bacteria"	"Firmicutes"	"Bacilli"	"Lactobacillales"	"Lactobacillaceae"	"Lactobacillus"
