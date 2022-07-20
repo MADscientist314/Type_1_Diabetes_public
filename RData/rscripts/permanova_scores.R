@@ -7,14 +7,20 @@ library(microbiome)
 library(tidyverse)
 library(DESeq2)
 library(pairwiseAdonis)
+library(vegan)
 # The objective of this script is to get adonis permanova scores 
 # for the facet plots in Supplemental figure 9.
 
 # Objective
 # I need to code a way where the neonatal and maternal dyad samples all have filled in  delivery, HbA1c>7.2, and disease variables.
+# NEW OBJECTIVE 
+#Re-run based on UNweighted Unifrac and Bray-Curtis dissimilarities
 
-
+getwd()
 ##################### Day 00 ###########################
+ASV_physeq_core<-readRDS("./RData/ASV_physeq_core.RDS")
+ASV_physeq_core
+meta<-data.frame(sample_data(ASV_physeq_core))
 
 deseq_counts <- phyloseq_to_deseq2(ASV_physeq_core,design = ~disease)
 deseq_counts <- estimateSizeFactors(deseq_counts, type = "poscounts")
@@ -30,16 +36,31 @@ otu_table(vst_physeq)<-vst_count_phy
 my_pal<-c("#EE0000FF","#1B1919FF")
 # generating and visualizing the PCoA with phyloseq
 
+#filter only type1diabetics with HbA1c values
 T1d_physeq<-subset_samples(physeq = ASV_physeq_core,disease=="T1D")
 T1d_physeq<-subset_samples(physeq = T1d_physeq,patient!="20")
 T1d_physeq<-subset_samples(physeq = T1d_physeq,patient!="49")
 T1d_physeq<-subset_samples(physeq = T1d_physeq,patient!="50")
-T1d_physeq
-mother<-meta%>%
+T1d_physeq #[ 2387 taxa and 264 samples ]
+
+
+#remove samples with no HBA1c values
+#make a column showing the cutoff
+#subset it to only have the patient disease and cutoff
+meta
+mother_HBA1c<-meta%>%
   filter(disease=="T1D")%>%
   filter(Host=="Mother")%>%filter(!patient%in%c(20,49,50))%>%
   mutate(HBA1c_cutoff=HbA1C_1trym_2>7.2)%>%
-  select(patient,disease,HBA1c_cutoff)
+  select(patient,disease,HbA1C_1trym_2,HBA1c_cutoff)%>%distinct_all()
+library(ggpubr)
+library(ggsci)
+library(mosaic)
+p<-gghistogram(mother_HBA1c,x = "HbA1C_1trym_2",bins = 10)
+
+favstats(mother_HBA1c$HbA1C_1trym_2)
+ggpar(p = p,xticks.by = 0.2,rotate = T,ylab = "subjects (n)",xlab = "1st Trimester HbA1C",title = "Distribution of 1st Trimester HbA1c values amongst type 1 diabetics")
+#inner join the rest of the metadata
 mother2<-data.frame(inner_join(mother,meta)%>%distinct_all())
 mother2$Delivery
 nsamples(T1d_physeq)
@@ -47,7 +68,7 @@ dim(mother2)
 rownames(mother2)<-mother2$SampleID
 sample_data(T1d_physeq)<-sample_data(mother2)
 
-mother2$Host
+mother2
 
 deseq_counts <- phyloseq_to_deseq2(T1d_physeq,design = ~HBA1c_cutoff)
 deseq_counts <- estimateSizeFactors(deseq_counts, type = "poscounts")
