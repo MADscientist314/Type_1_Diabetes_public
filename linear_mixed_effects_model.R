@@ -1,5 +1,6 @@
 library(tidyverse)
 library(ggpubr)
+df
 df<-as_tibble(read.table("sourcetracker_results2.txt",header = T,sep = "\t"))%>%
   rename(patient=Description)%>%
   rename(disease=Study)%>%

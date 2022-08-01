@@ -2,12 +2,12 @@
     "sortOrder": [
         {
             "columnIndex": 4,
-            "ascending": true
+            "ascending": false
         },
         {
             "columnIndex": 2,
             "ascending": true
         }
     ],
-    "path": "K:/github/Type_1_Diabetes_public/RData/sourcetracker"
+    "path": "K:/github/Type_1_Diabetes_public/RData/sourcetracker/sourcetracker"
 }

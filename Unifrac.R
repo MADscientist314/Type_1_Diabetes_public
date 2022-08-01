@@ -8,16 +8,17 @@ library(ggpubr)
 library(ggsci)
 library(scales)
 #set the working directory
-setwd( "/media/jochum00/Jochum_Raid/T1d/gamar")
+setwd( "k:/github/Type_1_Diabetes_public/gamar/")
 #set the seed
 #register the cluster (Will not work like this on Windows)
 registerDoParallel(cores = 48)
 ##########################################################################
 #Import the data
 ASV_physeq<-readRDS("ASV_physeq_with_tree_07112022.RDS")
+ASV_phyeq
 ASV_physeq_core<-readRDS("ASV_physeq_core_with_tree_07112022.RDS")
 ASV_physeq_core
-a<-readRDS("../ASV_physeq_core.RDS")
+#a<-readRDS("../ASV_physeq_core.RDS")
 ASV_physeq<-prune_samples(samples = sample_names(a),ASV_physeq)
 ASV_physeq_core<-prune_samples(samples = sample_names(a),ASV_physeq_core)
 
@@ -66,7 +67,8 @@ vst_physeq_unifrac<-UniFrac(physeq = vst_physeq,
 
 ##########################################################################
 # run the adonis premanova analyses
-sam<-data.frame(sample_data(a))
+sam<-data.frame(sample_data(ASV_physeq_core))
+sam
 sam%>%filter(patient==19)
 sam<-sam[sample_names(ASV_physeq),]
 sam2<-sam%>%group_by(patient,disease)%>%
@@ -77,7 +79,7 @@ sam2<-sam%>%group_by(patient,disease)%>%
   mutate(across(where(is.character),as.factor))
   
 data.frame(sam2)
-
+sam
 sam<-sam%>%
   mutate(SampleID=rownames(sam))%>%
   select(SampleID,patient,disease,Host,SampleType)%>%
