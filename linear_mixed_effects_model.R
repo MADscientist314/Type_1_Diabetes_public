@@ -8,6 +8,7 @@ df<-as_tibble(read.table("sourcetracker_results2.txt",header = T,sep = "\t"))%>%
   mutate(across(where(is.character),factor))
 
 
+df
 df2<-as_tibble(read.table("sourcetracker_results2.txt",header = T,sep = "\t"))%>%
   rename(patient=Description)%>%
   rename(disease=Study)%>%
