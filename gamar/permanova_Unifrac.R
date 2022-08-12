@@ -6,6 +6,8 @@ library(doParallel)
 library(tidyverse)
 library(vegan)
 library(broom)
+library(cowplot)
+
 cl <- makeCluster(rep("localhost",20), type = "SOCK")
 registerDoParallel(cl)
 run<-function(S)
@@ -125,7 +127,7 @@ run<-function(S)
     scale_color_manual(values=my_pal)+
     theme_bw() + theme(legend.position="right")
   }
-
+glm()
 #######################################
 #######################################
 unique(sam$SampleType)
@@ -140,8 +142,8 @@ meths<-c("DCA", "CCA", "RDA", "CAP", "DPCoA", "NMDS", "MDS", "PCoA")
 meths<-c("DCA","NMDS", "MDS", "PCoA")
 
 sam<-sam%>%mutate(controlled=as_factor(HbA1C_1trym_2<7.2))
-ordme<-function(SAMTYPE,UNI,ORD,ANN){
-  print(paste0(SAMTYPE,", Weighted = ",UNI,", Ordination= ",ORD,", Annotation = ",ANN))
+ordme<-function(SAMTYPE,UNI,ORD){
+  print(paste0(SAMTYPE,", Weighted = ",UNI,", Ordination= ",ORD))
   tmp<-ASV_physeq_core
   manifest<-sam%>%mutate(keep=SampleType==SAMTYPE)
   sample_data(tmp)<-sample_data(manifest)
@@ -168,35 +170,79 @@ ordme<-function(SAMTYPE,UNI,ORD,ANN){
                    parallel = T,
                    weighted = UNI)
   vst_unifrac<-UniFrac(physeq = vst_tmp,
-                       normalized = T,
+                       normalized = F,
                        parallel = T,
                        weighted = UNI)
+  
   tmp_ord<-ordinate(physeq = tmp,method = ORD,distance = unifrac)
   vst_tmp_ord<-ordinate(physeq = vst_tmp,method = ORD,distance = vst_unifrac)
+  p<-plot_ordination(tmp, tmp_ord,justDF = T)
+  #colnames(p)<-c("Axis.1","Axis.2","SampleID","patient","disease","Host","SampleType","HbA1C_1trym_2","Delivery","controlled","keep")
+  vp<-plot_ordination(vst_tmp, vst_tmp_ord,justDF = T)
+  #colnames(vp)<-c("Axis.1","Axis.2","SampleID","patient","disease","Host","SampleType","HbA1C_1trym_2","Delivery","controlled","keep")
   
-  
-  p<-plot_ordination(tmp, tmp_ord, color=ANN,shape =ANN) + geom_point(size=1) +
+  disease_p<-ggplot(p,mapping = aes(x = Axis.1,y=Axis.2,color=disease,shape =disease,group=disease))+
+    geom_point(size=1) +
+    #stat_ellipse(type = "norm")+
+    geom_smooth(se = F,method = "glm")+
     coord_fixed(sqrt(tmp_ord$values$Eigenvalues[2]/tmp_ord$values$Eigenvalues[1])) +
-    ggtitle(paste0(SAMTYPE," Weighted UniFrac = ",UNI," ",ORD," ",ANN)) +
+    ggtitle(paste0("Diabetes"))+#ANN," ",ORD," ",SAMTYPE," Weighted UniFrac = ",UNI," ")) +
     scale_color_manual(values=rev(my_pal))+
-    theme_bw() + theme(legend.position="right")
-  vp<-plot_ordination(vst_tmp, vst_tmp_ord, color=ANN) + geom_point(size=1) +
+    theme_cowplot() + theme(legend.position="top")
+  Delivery_p<-ggplot(p,mapping = aes(x = Axis.1,y=Axis.2,color=Delivery,shape =Delivery,group=Delivery))+
+    geom_point(size=1) +
+    #stat_ellipse(type = "norm")+
+    geom_smooth(se = F,method = "glm")+
+    coord_fixed(sqrt(tmp_ord$values$Eigenvalues[2]/tmp_ord$values$Eigenvalues[1])) +
+    ggtitle(paste0("Delivery Mode"))+#ANN," ",ORD," ",SAMTYPE," Weighted UniFrac = ",UNI," ")) +
+    scale_color_manual(values=my_pal)+
+    theme_cowplot() + theme(legend.position="top")
+  controlled_p<-ggplot(p,mapping = aes(x = Axis.1,y=Axis.2,color=controlled,shape =controlled,group=controlled))+
+    geom_point(size=1) +
+    geom_smooth(se = F,method = "glm")+
+    coord_fixed(sqrt(tmp_ord$values$Eigenvalues[2]/tmp_ord$values$Eigenvalues[1])) +
+    ggtitle(paste0("1st Trimester HbA1c > 7.2"))+
+    scale_color_manual(values=my_pal)+
+    theme_cowplot() + theme(legend.position="top")
+  disease_vp<-ggplot(vp,mapping = aes(x = Axis.1,y=Axis.2,color=disease,shape =disease,group=disease))+
+    geom_point(size=1) +
+    geom_smooth(se = F,method = "glm")+
     coord_fixed(sqrt(vst_tmp_ord$values$Eigenvalues[2]/vst_tmp_ord$values$Eigenvalues[1])) +
-    ggtitle(paste0(" VST ",SAMTYPE," Weighted UniFrac = ",UNI," ",ORD," ",ANN)) +
+    ggtitle(paste0("Diabetes"))+#ANN," ",ORD," ",SAMTYPE," Weighted UniFrac = ",UNI," ")) +
     scale_color_manual(values=rev(my_pal))+
-    theme_bw() + theme(legend.position="right")
-  print(p)
-  print(vp)
+    theme_cowplot() + theme(legend.position="top")
+  Delivery_vp<-ggplot(vp,mapping = aes(x = Axis.1,y=Axis.2,color=Delivery,shape =Delivery,group=Delivery))+
+    geom_point(size=1) +
+    geom_smooth(se = F,method = "glm")+
+    coord_fixed(sqrt(vst_tmp_ord$values$Eigenvalues[2]/vst_tmp_ord$values$Eigenvalues[1])) +
+    ggtitle(paste0("Delivery Mode"))+#ANN," ",ORD," ",SAMTYPE," Weighted UniFrac = ",UNI," ")) +
+    scale_color_manual(values=my_pal)+
+    theme_cowplot() + theme(legend.position="top")
+  controlled_vp<-ggplot(vp,mapping = aes(x = Axis.1,y=Axis.2,color=controlled,shape =controlled,group=controlled))+
+    geom_point(size=1) +
+    coord_fixed(sqrt(vst_tmp_ord$values$Eigenvalues[2]/vst_tmp_ord$values$Eigenvalues[1])) +
+    ggtitle(paste0("1st Trimester HbA1c > 7.2"))+#ANN," ",ORD," ",SAMTYPE," Weighted UniFrac = ",UNI," ")) +
+    geom_smooth(se = F,method = "glm")+
+    scale_color_manual(values=my_pal)+
+    theme_cowplot() + theme(legend.position="top")
+  p2<-cowplot::plot_grid(disease_vp,Delivery_vp,controlled_vp,
+                         nrow = 1,
+                         labels=c(paste0(SAMTYPE," ",ORD," Weighted UniFrac = ",UNI)))
+  # p2<-cowplot::plot_grid(disease_p,Delivery_p,controlled_p,disease_vp,Delivery_vp,controlled_vp,
+  #                        nrow = 2,
+  #                        label_y = c(0,1),
+  #                        label_x = c(1,0),
+  #                        labels=c(paste0("VST ",ORD," ",SAMTYPE," Weighted UniFrac = ",UNI),paste0("Normalized ",ORD," ",SAMTYPE," Weighted UniFrac = ",UNI)))#,
+  print(p2)
+  ggsave(plot = p2,filename = paste0(SAMTYPE,"_",ORD,"_Weighted_",UNI,".png"),path = "cowplots",device = "png",height = 4,width=12,units = "in",dpi = 600)
 }
 
-
-
-meths<-c("DCA", "CCA", "RDA", "CAP", "DPCoA", "NMDS", "MDS", "PCoA")
-meths<-c("DCA","NMDS", "MDS", "PCoA")
+# meths<-c("DCA", "CCA", "RDA", "CAP", "DPCoA", "NMDS", "MDS", "PCoA")
+# meths<-c("DCA","NMDS", "MDS", "PCoA")
 
 lapply(X=levels(sam$SampleType),FUN =  function(X){
 lapply(X = c(TRUE,FALSE),FUN =  function(Y){
-lapply(X = c("MDS", "PCoA"),FUN = function(Z){
-lapply(X = c("disease","Delivery","controlled"),FUN = function(A){
-ordme(SAMTYPE = X,UNI = Y,ORD = Z,ANN = A)})})})})
+lapply(X = c("PCoA"),FUN = function(Z){
+#lapply(X = c("disease","Delivery","controlled"),FUN = function(A){
+ordme(SAMTYPE = X,UNI = Y,ORD = Z)})})})
 

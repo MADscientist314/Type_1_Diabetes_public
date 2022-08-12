@@ -26,9 +26,9 @@ mom<-as_tibble(sam)%>%
 mom
 mom<-mom%>%mutate(across(where(is.character),factor))%>%
   mutate(patient=as.factor(patient))
-mom_T1d<-mom%>%filter(disease=="T1D")
+mom_T1d<-mom%>%filter(disease!="T1D")%>%select(patient,HbA1C_1trym_2)%>%distinct_all
 
-
+favstats(mom_T1d$HbA1C_1trym_2)
 knn_preproc<-preProcess(mom_T1d,method = c("knnImpute",
                                            #"bagImpute",
                                            #"medianImpute",

@@ -11,20 +11,25 @@ library(scales)
 setwd( "k:/github/Type_1_Diabetes_public/gamar/")
 #set the seed
 #register the cluster (Will not work like this on Windows)
-registerDoParallel(cores = 48)
+registerDoParallel(cores = detectCores())
 ##########################################################################
 #Import the data
 ASV_physeq<-readRDS("ASV_physeq_with_tree_07112022.RDS")
 ASV_phyeq
 ASV_physeq_core<-readRDS("ASV_physeq_core_with_tree_07112022.RDS")
 ASV_physeq_core
-#a<-readRDS("../ASV_physeq_core.RDS")
+a<-readRDS("../RData/ASV_physeq_core.RDS")
 ASV_physeq<-prune_samples(samples = sample_names(a),ASV_physeq)
 ASV_physeq_core<-prune_samples(samples = sample_names(a),ASV_physeq_core)
+meta<-data.frame(read.table("meta_pt+disease+Delivery+HBA1c_1trym.tsv",header = T,sep = "\t"))
+rownames(meta)<-meta$SampleID
+sample_data(ASV_physeq)<-sample_data(meta)
+sample_data(ASV_physeq_core)<-sample_data(meta)
+
 
 ##########################################################################
 # Run DESEQ2 VST normalaiztion
-deseq_counts<- phyloseq_to_deseq2(physeq = ASV_physeq,design = ~disease)
+deseq_counts<- phyloseq_to_deseq2(physeq = ASV_physeq,design = ~1)
 deseq_counts <- estimateSizeFactors(deseq_counts, type = "poscounts")
 deseq_counts_vst <- varianceStabilizingTransformation(deseq_counts)
 # and here is pulling out our transformed table
@@ -67,27 +72,18 @@ vst_physeq_unifrac<-UniFrac(physeq = vst_physeq,
 
 ##########################################################################
 # run the adonis premanova analyses
-sam<-data.frame(sample_data(ASV_physeq_core))
-sam
+sam<-data.frame(sample_data(ASV_physeq))
+sam$Delivery
 sam%>%filter(patient==19)
 sam<-sam[sample_names(ASV_physeq),]
-sam2<-sam%>%group_by(patient,disease)%>%
-  select(patient,disease,Delivery,HbA1C_1trym_2)%>%
-  filter(!is.na(HbA1C_1trym_2))%>%
-  filter(!is.na(Delivery))%>%
-  ungroup()%>%
-  mutate(across(where(is.character),as.factor))
-  
-data.frame(sam2)
-sam
+
 sam<-sam%>%
   mutate(SampleID=rownames(sam))%>%
-  select(SampleID,patient,disease,Host,SampleType)%>%
+  select(SampleID,patient,disease,Host,SampleType,HbA1C_1trym_2,Delivery)%>%
   mutate(across(where(is.character),as.factor))%>%
   distinct_all()
 sam
-sam3<-full_join(sam,sam2)
-sam3
+
 #   mutate(across(where(is.character),factor))%>%
 #   mutate(Delivery=Delivery,
 #          HbA1C_1trym_2=HbA1C_1trym_2)%>%distinct_all()
@@ -105,30 +101,123 @@ sam<-sam%>%group_by(patient,disease)%>%
   mutate(Delivery=Delivery,
          HbA1C_1trym_2=HbA1C_1trym_2)%>%ungroup()
 sam
+cores<-detectCores()
+stopImplicitCluster()
+
+##################### OVERALLL ###########################
+
+sam<-data.frame(sample_data(ASV_physeq))
+sam<-sam[sample_names(ASV_physeq),]
+
+sam<-sam%>%
+  mutate(SampleID=rownames(sam))%>%
+  select(SampleID,patient,disease,Host,SampleType,HbA1C_1trym_2,Delivery)%>%
+  mutate(across(where(is.character),as.factor))%>%
+  distinct_all()
+sam$SampleID
+
+run<-function(S){
+  manifest<-sam%>%filter(SampleType==S)
+  vec<-manifest$SampleID
+  print(manifest)
+  tmp<-subset_samples(physeq =ASV_physeq_core,sample_names(ASV_physeq_core)%in%vec)
+  # vst_tmp<-subset_samples(physeq =vst_physeq,sample_names(vst_physeq)=vec)
+  tmp<-prune_samples(physeq = ASV_physeq_core,samples=sample_names(vst_physeq)%in%vec)
+  vst_tmp<-prune_samples(physeq = vst_physeq,samples=sample_names(vst_physeq)%in%vec)
+  wunifrac<-UniFrac(physeq = tmp,
+                    normalized = T,
+                    parallel = T,
+                    weighted = T)
+  vst_wunifrac<-UniFrac(physeq = vst_tmp,
+                    normalized = T,
+                    parallel = T,
+                    weighted = T)
+  unifrac<-UniFrac(physeq = tmp,
+                   parallel = T,
+                   weighted = F)
+  vst_unifrac<-UniFrac(physeq = vst_tmp,
+                       parallel = T,
+                       weighted = F)
+  sam<-meta(tmp)
+  #######################################
+  tidy(adonis2(wunifrac~disease,data = sam,
+          permutations = perm,
+          parallel = cl))%>%mutate(SampleType=unique(manifest$SampleType),variable="disease",analysis="Weighted Unifrac")
+  tidy(adonis2(vst_wunifrac~disease,data = sam,
+          permutations = 9999,
+          parallel = cl))%>%mutate(SampleType=unique(manifest$SampleType),variable="disease",analysis="VST Weighted Unifrac")
+  tidy(adonis2(unifrac~disease,data = sam,
+          permutations = 9999,
+          parallel = cl))%>%mutate(SampleType=unique(manifest$SampleType),variable="disease",analysis="Unweighted Unifrac")
+  tidy(adonis2(vst_unifrac~disease,data = sam,
+          permutations = 9999,
+          parallel = cl))%>%mutate(SampleType=unique(manifest$SampleType),variable="disease",analysis="VST Unweighted Unifrac")
+  #######################################
+  tidy(adonis2(wunifrac~Delivery,data = sam,
+          permutations = perm,
+          parallel = cl))%>%mutate(SampleType=unique(manifest$SampleType),variable="Delivery",analysis="Weighted Unifrac")
+  tidy(adonis2(vst_wunifrac~Delivery,data = sam,
+          permutations = 9999,
+          parallel = cl))%>%mutate(SampleType=unique(manifest$SampleType),variable="Delivery",analysis="VST Weighted Unifrac")
+  tidy(adonis2(unifrac~delivery,data = sam,
+          permutations = 9999,
+          parallel = cl))%>%mutate(SampleType=unique(manifest$SampleType),variable="Delivery",analysis="Unweighted Unifrac")
+  tidy(adonis2(vst_unifrac~delivery,data = sam,
+          permutations = 9999,
+          parallel = cl))%>%mutate(SampleType=unique(manifest$SampleType),variable="Delivery",analysis="VST Unweighted Unifrac")
+  #######################################
+  tidy(adonis2(wunifrac~HbA1C_1trym_2,data = sam,
+          permutations = perm,
+          parallel = cl))%>%mutate(SampleType=unique(manifest$SampleType),variable="HbA1C_1trym_2",analysis="Weighted Unifrac")
+  tidy(adonis2(vst_wunifrac~HbA1C_1trym_2,data = sam,
+          permutations = 9999,
+          parallel = cl))%>%mutate(SampleType=unique(manifest$SampleType),variable="HbA1C_1trym_2",analysis="VST Weighted Unifrac")
+  tidy(adonis2(unifrac~HbA1C_1trym_2,data = sam,
+          permutations = 9999,
+          parallel = cl))%>%mutate(SampleType=unique(manifest$SampleType),variable="HbA1C_1trym_2",analysis="Unweighted Unifrac")
+  tidy(adonis2(vst_unifrac~HbA1C_1trym_2,data = sam,
+          permutations = 9999,
+          parallel = cl))%>%mutate(SampleType=unique(manifest$SampleType),variable="HbA1C_1trym_2",analysis="VST unweighted Unifrac")
+  #######################################
+}
+
+#######################################
+#######################################
+unique(sam$SampleType)
+levels(sam$SampleType)
+lapply(levels(sam$SampleType)[1], function(X)run(S =  X))
+#######################################
+#######################################
+
+
+perm <- how(nperm = 9999)
+setBlocks(perm) <- with(sam, paste0(sam$patient,sam$disease,sam$Host))
+
+
 adonis2(ASV_physeq_wunifrac~.,data = sam,
-        permutations = 9999,
-        parallel = 48) # 0.003
+        permutations = perm,
+        parallel = 20) # 0.003
 
-adonis2(ASV_physeq_core_wunifrac~disease*SampleType*Host,data = sam,
-        permutations = 9999,
-        parallel = 48) # 0.003
+adonis2(ASV_physeq_core_wunifrac~disease*SampleType,data = sam,
+        permutations = perm,
+        parallel = 20) # 0.003
 
-adonis2(vst_physeq_wunifrac~disease*SampleType*Host,data = sam,
+adonis2(vst_physeq_wunifrac~disease*SampleType,data = sam,
         permutations = 9999,
-        parallel = 48) # 0.003
+        parallel = 20) # 0.003
 
 
 adonis2(ASV_physeq_unifrac~disease*SampleType*Host,data = sam,
         permutations = 9999,
-        parallel = 48) # 0.003
+        parallel = 20) # 0.003
 
 adonis2(ASV_physeq_core_unifrac~disease*SampleType*Host,data = sam,
         permutations = 9999,
-        parallel = 48) # 0.003
+        parallel = 20) # 0.003
 
 adonis2(vst_physeq_unifrac~disease*SampleType*Host,data = sam,
         permutations = 9999,
-        parallel = 48) # 0.003
+        parallel = 20) # 0.003
 
 
 
@@ -138,7 +227,7 @@ sam<-data.frame(sample_data(ASV_physeq))
 
 adonis2(vst_physeq_wunifrac~disease*SampleType*Host,data = sam,
         permutations = 9999,
-        parallel = 48) # 0.003
+        parallel = detectCores()) # 0.003
 my_pal<-pal_aaas()(10)
 disease_pal<-c(my_pal[2],my_pal[10])
 show_col(disease_pal)

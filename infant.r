@@ -8,10 +8,10 @@ library(ggpubr)
 library(ggsci)
 library(scales)
 #set the working directory
-setwd( "/media/jochum00/Jochum_Raid/T1d/gamar")
+setwd( "k:/github/Type_1_Diabetes_public/gamar")
 #set the seed
 #register the cluster (Will not work like this on Windows)
-registerDoParallel(cores = 48)
+registerDoParallel(cores = detectCores())
 ##########################################################################
 #Import the data
 ASV_physeq<-readRDS("ASV_physeq_with_tree_07112022.RDS")
@@ -55,7 +55,7 @@ infant_adonis<-function(physeq)
 
 #########################################################################
 # populate the delivery and A1c values accross the var
-
+sam<-meta
 sam2<-sam%>%
   select(patient,disease,Host,SampleType,Delivery,HbA1C_1trym_2)%>%
   mutate(SampleID=rownames(sam))
@@ -185,8 +185,7 @@ ggpar(p = p,main = "Distibution of 1st trimester HBA1C values",
       caption = "missing values were imputed using a 
       k nearest neighbors (knn) algorithm (RMSE=0.032,Rsquared=1.0,MAE=0.02)",
       legend = "right")
-5-1.2/2
-3.8
+
 #### Impute control A1c values
 A1C_control<-sam2%>%
   select(patient,disease,HbA1C_1trym_2)%>%
@@ -205,10 +204,11 @@ A1c<-full_join(mom_T1d_2,A1C_control)
 
 
 
-m<-data.frame(read.table("../data/metadata_07202022.txt",header = T,sep = "\t",row.names = 1))%>%
+m<-data.frame(read.table("../metadata_07202022.txt",header = T,sep = "\t",row.names = 1))%>%
   select(patient,disease,Host,SampleType,Delivery_Mode_Vaginal_or_Caesarian,HbA1C_1trym_2)%>%
-  mutate(SampleID=rownames(m))%>%
+#  mutate(SampleID=rownames(m))%>%
   distinct_all()
+m$SampleID<-rownames(m)
 n<-as_tibble(m)%>%select(patient,disease,Delivery_Mode_Vaginal_or_Caesarian)%>%distinct_all()%>%mutate(patient=factor(patient))
 n
 dim(n)
@@ -247,3 +247,4 @@ rownames(sample_info_tab)<-sample_info_tab$SampleID
 sample_data(ASV_physeq_core)<-sample_data(sample_info_tab)
 sample_data(ASV_physeq)<-sample_data(sample_info_tab)
 ################################################################################
+
